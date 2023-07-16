@@ -2313,63 +2313,63 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2009,Kahlil Bell\BellKa00,22,UCLA,1.8034,96.16158244,4.74,87.63,15,289.56,6.87,4.2,NA,29.56769508,offense,backs_receivers,RB,No
 2009,Darry Beckwith\BeckDa99,21,LSU,1.8288,109.7693535,4.63,67.31,23,279.4,7.39,4.5,NA,32.82076356,defense,line_backer,ILB,No
 2009,Roger Allen\AlleRo20,23,Missouri Western St.,1.905,147.8711126,5.25,NA,NA,NA,NA,NA,NA,40.74678808,offense,offensive_lineman,OG,No
-2009,Morris Wooten,NA,Arizona St.,1.8288,104.7798375,5,NA,15,297.18,NA,NA,NA,31.32891067,defense,line_backer,ILB,No
-2009,Worrell Williams,NA,California,1.8034,108.8621688,4.75,88.9,23,281.94,NA,NA,NA,33.47286235,defense,line_backer,ILB,No
-2009,Jaison Williams,NA,Oregon,1.9304,107.5013917,4.47,90.17,14,299.72,7.37,4.56,NA,28.84824972,offense,backs_receivers,WR,No
-2009,Otis Wiley,NA,Michigan St.,1.8542,96.61517481,4.64,NA,NA,NA,NA,NA,NA,28.10167395,defense,defensive_back,SS,No
-2009,Jason Watkins,NA,Florida,1.9812,144.2423737,5.51,62.23,18,228.6,7.89,5.03,NA,36.74821274,offense,offensive_lineman,OT,No
-2009,Brandon Walker,NA,Notre Dame,1.905,138.7992652,5.09,86.36,26,276.86,NA,5.07,NA,38.24698513,offense,offensive_lineman,OG,No
-2009,Nate Swift,NA,Nebraska,1.8542,92.07925111,4.63,90.17,12,279.4,6.78,4.24,NA,26.78234653,offense,backs_receivers,WR,No
-2009,Sam Swank,NA,Wake Forest,1.8288,87.54332741,4.95,NA,NA,NA,NA,NA,NA,26.17523705,special_teams,kicking_specialist,K,No
-2009,Brannan Southerland,NA,Georgia,1.8288,109.7693535,4.69,96.52,28,304.8,7.4,4.4,NA,32.82076356,offense,backs_receivers,FB,No
-2009,Louie Sakoda,NA,Utah,1.7272,79.83225712,4.82,NA,NA,NA,NA,NA,NA,26.76043383,special_teams,kicking_specialist,K,No
-2009,David Richmond,NA,San Jose St.,1.8796,89.35769689,4.59,92.71,NA,NA,NA,4.42,NA,25.29304368,offense,backs_receivers,WR,No
-2009,Mike Reilly,NA,Central Washington,1.905,97.06876718,4.74,77.47,NA,276.86,6.76,4.11,NA,26.74789156,offense,backs_receivers,QB,No
-2009,Derek Pegues,NA,Mississippi St.,1.778,90.26488163,4.54,91.44,23,302.26,7.08,4.3,NA,28.55323395,defense,defensive_back,FS,No
-2009,Kevin Akins,NA,Boston Col.,1.8796,98.88313666,4.73,80.01,15,297.18,6.78,4.15,NA,27.98925646,defense,line_backer,OLB,No
-2009,Chris Baker,NA,Kansas St.,1.8796,147.8711126,4.94,90.17,24,269.24,8.06,4.9,NA,41.8554936,defense,defensive_lineman,DT,No
-2009,Joel Bell,NA,Furman,2.0066,142.8815966,5.11,76.2,27,276.86,7.55,4.57,NA,35.48580638,offense,offensive_lineman,OT,No
-2009,Demonte' Bolden,NA,Tennessee,1.905,129.2738255,4.95,80.01,NA,276.86,7.5,4.78,NA,35.62219204,defense,defensive_lineman,DT,No
-2009,Jason Boltus,NA,Hartwick,1.905,102.0582833,4.82,80.01,26,281.94,7,4.47,NA,28.12278319,offense,backs_receivers,QB,No
-2009,Justin Brantly,NA,Texas A&M,1.905,112.9445001,4.83,NA,NA,NA,NA,NA,NA,31.12254673,special_teams,kicking_specialist,P,No
-2009,Travis Bright,NA,BYU,1.9304,145.6031508,5.26,90.17,34,274.32,7.75,4.72,NA,39.07294582,offense,offensive_lineman,OG,No
-2009,Nathan Brown,NA,Central Arkansas,1.8542,99.33672903,4.86,77.47,NA,269.24,7.43,4.44,NA,28.8932704,offense,backs_receivers,QB,No
-2009,Gerald Cadogan,NA,Penn St.,1.9558,140.1600423,4.99,63.5,26,241.3,8.05,4.8,NA,36.64167652,offense,offensive_lineman,OT,No
-2009,Ian Campbell,NA,Kansas St.,1.9304,120.2019781,4.99,NA,NA,276.86,6.93,4.28,NA,32.25648175,defense,defensive_lineman,DE,No
-2009,Jeremy Childs,NA,Boise St.,1.8288,90.718474,4.47,85.09,NA,292.1,6.9,4.26,NA,27.12459798,offense,backs_receivers,WR,No
-2009,Jason Cook,NA,Mississippi,1.8034,110.6765383,4.71,NA,21,NA,NA,NA,NA,34.03074339,offense,backs_receivers,FB,No
-2009,Rulon Davis,NA,California,1.9558,127.459456,5,76.2,20,281.94,NA,NA,NA,33.32139516,defense,defensive_lineman,DE,No
-2009,Marlon Favorite,NA,LSU,1.8542,142.4280042,5.09,NA,26,NA,NA,NA,NA,41.42688084,defense,defensive_lineman,DT,No
-2009,Anthony Felder,NA,California,1.8796,105.6870222,4.69,NA,28,294.64,NA,NA,NA,29.91512273,defense,line_backer,ILB,No
-2009,Robby Felix,NA,Texas-El Paso,1.905,136.9848957,5.2,73.66,33,246.38,7.96,4.73,NA,37.74702454,offense,offensive_lineman,C,No
-2009,Alex Fletcher,NA,Stanford,1.8796,134.7169339,5.39,71.12,30,243.84,7.78,4.65,NA,38.13215215,offense,offensive_lineman,C,No
-2009,Matt Fodge,NA,Oklahoma St.,1.8288,87.54332741,4.93,NA,NA,NA,NA,NA,NA,26.17523705,special_teams,kicking_specialist,P,No
-2009,Juan Garcia,NA,Washington,1.8796,139.2528576,5.28,63.5,34,236.22,8,4.87,NA,39.41606299,offense,offensive_lineman,OG,No
-2009,Dan Gay,NA,Baylor,1.9304,139.70645,5.48,57.15,18,218.44,8.67,5.42,NA,37.49055238,offense,offensive_lineman,OG,No
-2009,Sean Griffin,NA,Michigan,1.8542,109.7693535,5.08,NA,14,NA,NA,NA,NA,31.92772345,special_teams,other_special,LS,No
-2009,Cullen Harper,NA,Clemson,1.905,102.0582833,4.86,76.2,19,266.7,7.43,4.49,NA,28.12278319,offense,backs_receivers,QB,No
-2009,Sunny Harris,NA,Michigan St.,1.9304,135.1705263,4.88,64.77,28,269.24,8.18,4.87,NA,36.27332665,defense,defensive_lineman,DT,No
-2009,Brett Helms,NA,LSU,1.8796,129.7274178,5.39,NA,25,NA,NA,NA,NA,36.71985022,offense,offensive_lineman,C,No
-2009,Sammie Hill,NA,Colorado,1.9304,149.2318897,5.12,71.12,27,276.86,7.89,4.97,NA,40.0467264,defense,defensive_lineman,DT,No
-2009,Chase Holbrook,NA,New Mexico St.,1.9304,109.7693535,5.12,68.58,NA,274.32,7.93,4.65,NA,29.45686258,offense,backs_receivers,QB,No
-2009,Greg Isdaner,NA,West Virginia,1.905,147.4175203,5.28,68.58,24,233.68,7.96,5.07,NA,40.62179794,offense,offensive_lineman,OG,No
-2009,Taurus Johnson,NA,South Florida,1.8288,93.44002822,4.49,90.17,18,307.34,7.37,4.24,NA,27.93833592,offense,backs_receivers,WR,No
-2009,Aaron Kelly,NA,Clemson,1.9304,92.53284348,4.49,96.52,11,302.26,7.25,4.45,NA,24.83140482,offense,backs_receivers,WR,No
-2009,Andy Kemp,NA,Wisconsin,1.9558,141.9744118,5.35,64.77,23,231.14,7.86,4.86,NA,37.11600243,offense,offensive_lineman,OG,No
-2009,Anthony Kimble,NA,Stanford,1.8288,97.97595192,4.54,91.44,17,309.88,7.08,4.4,NA,29.29456582,offense,backs_receivers,RB,No
-2009,Cornelius Lewis,NA,Tennessee St.,1.905,150.5926668,5.22,62.23,29,228.6,NA,NA,NA,41.49672897,offense,offensive_lineman,OT,No
-2009,Kyle Link,NA,McNeese St.,1.9558,138.3456729,5.45,NA,19,NA,NA,NA,NA,36.16735061,offense,offensive_lineman,OT,No
-2009,Marlon Lucky,NA,Nebraska,1.8034,97.97595192,4.5,85.09,18,289.56,7.1,NA,NA,30.12557612,offense,backs_receivers,RB,No
-2009,Brennan Marion,NA,Tulsa,1.8034,84.82177319,4.52,NA,NA,NA,NA,NA,NA,26.08093858,offense,backs_receivers,WR,No
-2009,Jose Martinez,NA,Texas-El Paso,1.7526,89.35769689,4.96,NA,NA,NA,NA,NA,NA,29.0915159,special_teams,kicking_specialist,K,No
-2009,Marcus McClinton,NA,Kentucky,1.8288,95.2543977,4.49,93.98,16,304.8,7.45,4.22,NA,28.48082788,defense,defensive_back,FS,No
-2009,Andrew Means,NA,Indiana,1.8542,97.06876718,4.36,87.63,12,294.64,6.85,4.21,NA,28.23360669,offense,backs_receivers,WR,No
+2009,Morris Wooten,23,Arizona St.,1.8288,104.7798375,5,NA,15,297.18,NA,NA,NA,31.32891067,defense,line_backer,ILB,No
+2009,Worrell Williams,22,California,1.8034,108.8621688,4.75,88.9,23,281.94,NA,NA,NA,33.47286235,defense,line_backer,ILB,No
+2009,Jaison Williams,22,Oregon,1.9304,107.5013917,4.47,90.17,14,299.72,7.37,4.56,NA,28.84824972,offense,backs_receivers,WR,No
+2009,Otis Wiley,21,Michigan St.,1.8542,96.61517481,4.64,NA,NA,NA,NA,NA,NA,28.10167395,defense,defensive_back,SS,No
+2009,Jason Watkins,23,Florida,1.9812,144.2423737,5.51,62.23,18,228.6,7.89,5.03,NA,36.74821274,offense,offensive_lineman,OT,No
+2009,Brandon Walker,20,Notre Dame,1.905,138.7992652,5.09,86.36,26,276.86,NA,5.07,NA,38.24698513,offense,offensive_lineman,OG,No
+2009,Nate Swift,23,Nebraska,1.8542,92.07925111,4.63,90.17,12,279.4,6.78,4.24,NA,26.78234653,offense,backs_receivers,WR,No
+2009,Sam Swank,23,Wake Forest,1.8288,87.54332741,4.95,NA,NA,NA,NA,NA,NA,26.17523705,special_teams,kicking_specialist,K,No
+2009,Brannan Southerland,23,Georgia,1.8288,109.7693535,4.69,96.52,28,304.8,7.4,4.4,NA,32.82076356,offense,backs_receivers,FB,No
+2009,Louie Sakoda,22,Utah,1.7272,79.83225712,4.82,NA,NA,NA,NA,NA,NA,26.76043383,special_teams,kicking_specialist,K,No
+2009,David Richmond,21,San Jose St.,1.8796,89.35769689,4.59,92.71,NA,NA,NA,4.42,NA,25.29304368,offense,backs_receivers,WR,No
+2009,Mike Reilly,24,Central Washington,1.905,97.06876718,4.74,77.47,NA,276.86,6.76,4.11,NA,26.74789156,offense,backs_receivers,QB,No
+2009,Derek Pegues,22,Mississippi St.,1.778,90.26488163,4.54,91.44,23,302.26,7.08,4.3,NA,28.55323395,defense,defensive_back,FS,No
+2009,Kevin Akins,22,Boston Col.,1.8796,98.88313666,4.73,80.01,15,297.18,6.78,4.15,NA,27.98925646,defense,line_backer,OLB,No
+2009,Chris Baker,21,Kansas St.,1.8796,147.8711126,4.94,90.17,24,269.24,8.06,4.9,NA,41.8554936,defense,defensive_lineman,DT,No
+2009,Joel Bell,23,Furman,2.0066,142.8815966,5.11,76.2,27,276.86,7.55,4.57,NA,35.48580638,offense,offensive_lineman,OT,No
+2009,Demonte' Bolden,23,Tennessee,1.905,129.2738255,4.95,80.01,NA,276.86,7.5,4.78,NA,35.62219204,defense,defensive_lineman,DT,No
+2009,Jason Boltus,22,Hartwick,1.905,102.0582833,4.82,80.01,26,281.94,7,4.47,NA,28.12278319,offense,backs_receivers,QB,No
+2009,Justin Brantly,22,Texas A&M,1.905,112.9445001,4.83,NA,NA,NA,NA,NA,NA,31.12254673,special_teams,kicking_specialist,P,No
+2009,Travis Bright,26,BYU,1.9304,145.6031508,5.26,90.17,34,274.32,7.75,4.72,NA,39.07294582,offense,offensive_lineman,OG,No
+2009,Nathan Brown,22,Central Arkansas,1.8542,99.33672903,4.86,77.47,NA,269.24,7.43,4.44,NA,28.8932704,offense,backs_receivers,QB,No
+2009,Gerald Cadogan,23,Penn St.,1.9558,140.1600423,4.99,63.5,26,241.3,8.05,4.8,NA,36.64167652,offense,offensive_lineman,OT,No
+2009,Ian Campbell,23,Kansas St.,1.9304,120.2019781,4.99,NA,NA,276.86,6.93,4.28,NA,32.25648175,defense,defensive_lineman,DE,No
+2009,Jeremy Childs,22,Boise St.,1.8288,90.718474,4.47,85.09,NA,292.1,6.9,4.26,NA,27.12459798,offense,backs_receivers,WR,No
+2009,Jason Cook,23,Mississippi,1.8034,110.6765383,4.71,NA,21,NA,NA,NA,NA,34.03074339,offense,backs_receivers,FB,No
+2009,Rulon Davis,25,California,1.9558,127.459456,5,76.2,20,281.94,NA,NA,NA,33.32139516,defense,defensive_lineman,DE,No
+2009,Marlon Favorite,22,LSU,1.8542,142.4280042,5.09,NA,26,NA,NA,NA,NA,41.42688084,defense,defensive_lineman,DT,No
+2009,Anthony Felder,21,California,1.8796,105.6870222,4.69,NA,28,294.64,NA,NA,NA,29.91512273,defense,line_backer,ILB,No
+2009,Robby Felix,22,Texas-El Paso,1.905,136.9848957,5.2,73.66,33,246.38,7.96,4.73,NA,37.74702454,offense,offensive_lineman,C,No
+2009,Alex Fletcher,23,Stanford,1.8796,134.7169339,5.39,71.12,30,243.84,7.78,4.65,NA,38.13215215,offense,offensive_lineman,C,No
+2009,Matt Fodge,22,Oklahoma St.,1.8288,87.54332741,4.93,NA,NA,NA,NA,NA,NA,26.17523705,special_teams,kicking_specialist,P,No
+2009,Juan Garcia,24,Washington,1.8796,139.2528576,5.28,63.5,34,236.22,8,4.87,NA,39.41606299,offense,offensive_lineman,OG,No
+2009,Dan Gay,22,Baylor,1.9304,139.70645,5.48,57.15,18,218.44,8.67,5.42,NA,37.49055238,offense,offensive_lineman,OG,No
+2009,Sean Griffin,22,Michigan,1.8542,109.7693535,5.08,NA,14,NA,NA,NA,NA,31.92772345,special_teams,other_special,LS,No
+2009,Cullen Harper,22,Clemson,1.905,102.0582833,4.86,76.2,19,266.7,7.43,4.49,NA,28.12278319,offense,backs_receivers,QB,No
+2009,Sunny Harris,22,Michigan St.,1.9304,135.1705263,4.88,64.77,28,269.24,8.18,4.87,NA,36.27332665,defense,defensive_lineman,DT,No
+2009,Brett Helms,22,LSU,1.8796,129.7274178,5.39,NA,25,NA,NA,NA,NA,36.71985022,offense,offensive_lineman,C,No
+2009,Sammie Hill,22,Colorado,1.9304,149.2318897,5.12,71.12,27,276.86,7.89,4.97,NA,40.0467264,defense,defensive_lineman,DT,No
+2009,Chase Holbrook,23,New Mexico St.,1.9304,109.7693535,5.12,68.58,NA,274.32,7.93,4.65,NA,29.45686258,offense,backs_receivers,QB,No
+2009,Greg Isdaner,22,West Virginia,1.905,147.4175203,5.28,68.58,24,233.68,7.96,5.07,NA,40.62179794,offense,offensive_lineman,OG,No
+2009,Taurus Johnson,22,South Florida,1.8288,93.44002822,4.49,90.17,18,307.34,7.37,4.24,NA,27.93833592,offense,backs_receivers,WR,No
+2009,Aaron Kelly,22,Clemson,1.9304,92.53284348,4.49,96.52,11,302.26,7.25,4.45,NA,24.83140482,offense,backs_receivers,WR,No
+2009,Andy Kemp,21,Wisconsin,1.9558,141.9744118,5.35,64.77,23,231.14,7.86,4.86,NA,37.11600243,offense,offensive_lineman,OG,No
+2009,Anthony Kimble,23,Stanford,1.8288,97.97595192,4.54,91.44,17,309.88,7.08,4.4,NA,29.29456582,offense,backs_receivers,RB,No
+2009,Cornelius Lewis,22,Tennessee St.,1.905,150.5926668,5.22,62.23,29,228.6,NA,NA,NA,41.49672897,offense,offensive_lineman,OT,No
+2009,Kyle Link,22,McNeese St.,1.9558,138.3456729,5.45,NA,19,NA,NA,NA,NA,36.16735061,offense,offensive_lineman,OT,No
+2009,Marlon Lucky,22,Nebraska,1.8034,97.97595192,4.5,85.09,18,289.56,7.1,NA,NA,30.12557612,offense,backs_receivers,RB,No
+2009,Brennan Marion,21,Tulsa,1.8034,84.82177319,4.52,NA,NA,NA,NA,NA,NA,26.08093858,offense,backs_receivers,WR,No
+2009,Jose Martinez,21,Texas-El Paso,1.7526,89.35769689,4.96,NA,NA,NA,NA,NA,NA,29.0915159,special_teams,kicking_specialist,K,No
+2009,Marcus McClinton,22,Kentucky,1.8288,95.2543977,4.49,93.98,16,304.8,7.45,4.22,NA,28.48082788,defense,defensive_back,FS,No
+2009,Andrew Means,22,Indiana,1.8542,97.06876718,4.36,87.63,12,294.64,6.85,4.21,NA,28.23360669,offense,backs_receivers,WR,No
 2009,Mo Miller,NA,Michigan St.,1.905,148.324705,5.38,72.39,21,246.38,8.42,5.03,NA,40.87177823,offense,offensive_lineman,OG,No
-2009,Branden Ore,NA,West Liberty,1.8034,97.06876718,4.61,91.44,21,284.48,7.35,4.44,NA,29.8466356,offense,backs_receivers,RB,No
-2009,Ryan Palmer,NA,Texas,1.7272,86.1825503,4.54,92.71,16,307.34,7.12,4.29,NA,28.8891047,defense,defensive_back,CB,No
-2009,Anthony Parker,NA,Tennessee,1.8796,134.7169339,5.08,NA,24,NA,NA,NA,NA,38.13215215,offense,offensive_lineman,OG,No
-2009,Augustus Parrish,NA,Kent St.,1.9304,136.9848957,5.29,NA,21,198.12,NA,NA,NA,36.76021694,offense,offensive_lineman,OT,No
-2009,Darius Passmore,NA,Marshall,1.8288,85.27536556,4.46,85.09,NA,NA,NA,NA,NA,25.4971221,offense,backs_receivers,WR,No
+2009,Branden Ore,23,West Liberty,1.8034,97.06876718,4.61,91.44,21,284.48,7.35,4.44,NA,29.8466356,offense,backs_receivers,RB,No
+2009,Ryan Palmer,21,Texas,1.7272,86.1825503,4.54,92.71,16,307.34,7.12,4.29,NA,28.8891047,defense,defensive_back,CB,No
+2009,Anthony Parker,22,Tennessee,1.8796,134.7169339,5.08,NA,24,NA,NA,NA,NA,38.13215215,offense,offensive_lineman,OG,No
+2009,Augustus Parrish,21,Kent St.,1.9304,136.9848957,5.29,NA,21,198.12,NA,NA,NA,36.76021694,offense,offensive_lineman,OT,No
+2009,Darius Passmore,23,Marshall,1.8288,85.27536556,4.46,85.09,NA,NA,NA,NA,NA,25.4971221,offense,backs_receivers,WR,No
 2010,Kion Wilson\WilsKi00,23,South Florida,1.8288,108.4085764,4.87,92.71,27,312.42,NA,4.53,NA,32.41389459,defense,line_backer,ILB,No
 2010,Stephen Williams\WillSt01,23,Toledo,1.9304,95.2543977,4.5,92.71,15,317.5,6.81,4.11,NA,25.56174026,offense,backs_receivers,WR,No
 2010,Keiland Williams\WillKe03,23,LSU,1.8034,105.6870222,4.52,NA,NA,NA,NA,NA,NA,32.49657053,offense,backs_receivers,RB,No
@@ -2429,59 +2429,59 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2010,Jonathon Amaya\AmayJo00,21,Nevada,1.8542,92.07925111,4.43,71.12,8,299.72,NA,NA,NA,26.78234653,defense,defensive_back,FS,No
 2010,Danario Alexander\AlexDa00,23,Missouri,1.9558,97.52235955,4.62,NA,NA,NA,NA,NA,NA,25.49501765,offense,backs_receivers,WR,No
 2010,Seyi Ajirotutu\AjirSe00,22,Fresno St.,1.905,92.53284348,4.6,91.44,14,292.1,7.22,4.39,NA,25.49799009,offense,backs_receivers,WR,No
-2010,Justin Woodall,NA,Alabama,1.8542,101.1510985,4.64,86.36,13,299.72,6.88,4.17,NA,29.42100136,defense,defensive_back,SS,No
-2010,Ryan Wolfe,NA,UNLV,1.8542,92.98643585,4.65,NA,13,NA,NA,NA,NA,27.04621202,offense,backs_receivers,WR,No
-2010,Lindsey Witten,NA,Connecticut,1.9304,113.3980925,4.7,92.71,23,292.1,7.32,4.62,NA,30.43064316,defense,defensive_lineman,DE,No
-2010,Jeremy Williams,NA,Tulane,1.8288,93.44002822,4.59,91.44,14,297.18,6.73,NA,NA,27.93833592,offense,backs_receivers,WR,No
-2010,Tony Washington,NA,Appalachian St.,1.9812,141.0672271,5.25,74.93,33,289.56,7.52,4.84,NA,35.93928982,offense,offensive_lineman,OT,No
-2010,Lorenzo Washington,NA,Alabama,1.9304,131.9953797,5.21,76.2,25,271.78,7.4,4.68,NA,35.42126864,defense,defensive_lineman,DT,No
-2010,Stephan Virgil,NA,Virginia Tech,1.8034,83.00740371,4.69,86.36,12,287.02,7.11,4.35,NA,25.52305754,defense,defensive_back,CB,No
-2010,Adam Ulatoski,NA,Texas,1.9558,136.077711,5.52,66.04,24,238.76,7.98,4.99,NA,35.57444323,offense,offensive_lineman,OG,No
-2010,Leigh Tiffin,NA,Alabama,1.8542,94.80080533,NA,NA,NA,NA,NA,NA,NA,27.57394298,special_teams,kicking_specialist,K,No
-2010,Brett Swenson,NA,Michigan St.,1.7272,80.73944186,NA,NA,12,NA,NA,NA,NA,27.06452967,special_teams,kicking_specialist,K,No
-2010,Jevan Snead,NA,Mississippi,1.905,99.33672903,5.04,83.82,NA,269.24,7.08,4.33,NA,27.3728423,offense,backs_receivers,QB,No
-2010,Riley Skinner,NA,Wake Forest,1.8288,97.06876718,5.05,76.2,NA,256.54,7.04,4.29,NA,29.02331984,offense,backs_receivers,QB,No
-2010,Devin Ross,NA,Arizona,1.778,83.00740371,4.64,101.6,16,302.26,7.07,NA,NA,26.25749655,defense,defensive_back,CB,No
-2010,Rahim Alem,NA,LSU,1.905,113.8516849,4.75,77.47,NA,269.24,7.54,4.8,NA,31.37252702,defense,defensive_lineman,DE,No
-2010,Charles Alexander,NA,LSU,1.9304,136.077711,5.4,NA,NA,NA,NA,NA,NA,36.5167718,defense,defensive_lineman,DT,No
-2010,Lucien Antoine,NA,Oklahoma St.,1.8288,97.52235955,4.62,81.28,28,304.8,7.38,4.47,NA,29.15894283,defense,defensive_back,SS,No
-2010,Alric Arnett,NA,West Virginia,1.8796,85.27536556,4.52,101.6,NA,309.88,7.03,4.43,NA,24.13752392,offense,backs_receivers,WR,No
-2010,Kevin Basped,NA,Nevada,1.9304,117.0268315,4.75,73.66,26,264.16,7.54,4.88,NA,31.40442374,defense,defensive_lineman,DE,No
-2010,Jason Beauchamp,NA,UNLV,1.905,110.6765383,4.89,100.33,21,304.8,7.1,NA,NA,30.49759599,defense,line_backer,ILB,No
-2010,Chris Bell,NA,Norfolk St.,1.8796,95.70799007,4.5,88.9,15,297.18,6.76,4.35,NA,27.09051887,offense,backs_receivers,WR,No
-2010,Ciron Black,NA,LSU,1.9304,148.324705,5.53,64.77,23,231.14,8.52,5.13,NA,39.80328126,offense,offensive_lineman,OG,No
-2010,Nyan Boateng,NA,California,1.8542,92.53284348,4.66,91.44,14,284.48,7.35,4.69,NA,26.91427927,offense,backs_receivers,WR,No
-2010,Dorian Brooks,NA,James Madison,1.8796,138.7992652,5.15,58.42,26,254,7.73,4.66,NA,39.28767191,offense,offensive_lineman,OG,No
-2010,Chris Brown,NA,Oklahoma,1.778,95.2543977,4.55,91.44,17,292.1,NA,NA,NA,30.13155341,offense,backs_receivers,RB,No
-2010,Lee Campbell,NA,Minnesota,1.8796,112.0373154,4.88,86.36,17,274.32,7.27,4.4,NA,31.71259791,defense,line_backer,ILB,No
-2010,Chris Carter,NA,California-Davis,1.8034,86.63614267,4.49,NA,12,NA,NA,NA,NA,26.63881962,offense,backs_receivers,WR,No
-2010,Chris Chancellor,NA,Clemson,1.7526,80.28584949,4.49,86.36,14,292.1,6.85,4.07,NA,26.13806251,defense,defensive_back,CB,No
-2010,Daryll Clark,NA,Penn St.,1.8796,106.594207,4.72,NA,21,NA,NA,NA,NA,30.1719049,offense,backs_receivers,QB,No
-2010,Harry Coleman,NA,LSU,1.8542,95.70799007,4.56,83.82,13,292.1,7.24,4.42,NA,27.83780846,defense,defensive_back,SS,No
-2010,Andre Dixon,NA,Connecticut,1.8542,92.98643585,4.56,101.6,NA,297.18,6.99,4.19,NA,27.04621202,offense,backs_receivers,RB,No
-2010,Riar Geer,NA,Colorado,1.905,116.1196467,5,83.82,13,269.24,7.13,4.29,NA,31.99747776,offense,backs_receivers,FB,No
-2010,Kurtis Gregory,NA,Missouri,1.9304,138.3456729,5.31,64.77,26,231.14,7.62,4.93,NA,37.12538466,offense,offensive_lineman,OG,No
-2010,Tim Hiller,NA,West. Michigan,1.9304,103.8726527,4.97,82.55,18,299.72,7.1,4.54,NA,27.87446914,offense,backs_receivers,QB,No
-2010,Shay Hodge,NA,Mississippi,1.8542,94.80080533,4.62,85.09,11,297.18,6.9,4.32,NA,27.57394298,offense,backs_receivers,WR,No
-2010,Simoni Lawrence,NA,Minnesota,1.8288,105.2334298,4.59,101.6,21,312.42,7.3,4.43,NA,31.46453366,defense,line_backer,OLB,No
-2010,Boris Lee,NA,Troy,1.8288,107.9549841,4.94,82.55,27,284.48,NA,NA,NA,32.2782716,defense,line_backer,ILB,No
-2010,Scott Long,NA,Louisville,1.8796,97.97595192,4.46,105.41,20,312.42,6.45,4.09,NA,27.73247429,offense,backs_receivers,WR,No
-2010,Darius Marshall,NA,Marshall,1.7526,86.1825503,4.59,90.17,14,276.86,NA,4.39,NA,28.05780721,offense,backs_receivers,RB,No
-2010,Sam Maxwell,NA,Kentucky,1.8796,111.583723,4.98,83.82,NA,274.32,7.37,4.52,NA,31.58420683,defense,line_backer,OLB,No
-2010,Chris McGaha,NA,Arizona St.,1.8542,91.17206637,4.52,101.6,19,309.88,NA,4.21,NA,26.51848105,offense,backs_receivers,WR,No
-2010,Mike McLaughlin,NA,Boston Col.,1.8288,109.7693535,4.84,97.79,29,289.56,6.85,4.11,NA,32.82076356,defense,line_backer,ILB,No
-2010,Greg Middleton,NA,Indiana,1.905,121.5627552,4.96,96.52,NA,294.64,7.65,4.69,NA,33.49735953,defense,defensive_lineman,DE,No
-2010,Brandon Minor,NA,Michigan,1.8288,97.06876718,4.59,NA,NA,NA,NA,NA,NA,29.02331984,offense,backs_receivers,RB,No
-2010,Aleric Mullins,NA,North Carolina,1.8542,145.6031508,4.95,NA,NA,NA,NA,NA,NA,42.35041003,defense,defensive_lineman,DT,No
-2010,Vince Oghobaase,NA,Duke,1.9558,137.4384881,5.46,66.04,27,228.6,7.84,NA,NA,35.93018766,defense,defensive_lineman,DT,No
-2010,Pat Paschall,NA,North Dakota St.,1.8288,94.80080533,4.65,97.79,15,299.72,7.02,4.33,NA,28.34520489,offense,backs_receivers,RB,No
-2010,Colin Peek,NA,Alabama,1.9558,115.212462,4.93,NA,19,NA,NA,NA,NA,30.11969527,offense,backs_receivers,TE,No
-2010,Jared Perry,NA,Missouri,1.8542,80.73944186,4.51,85.09,11,307.34,6.75,4.39,NA,23.48402799,offense,backs_receivers,WR,No
-2010,Josh Pinkard,NA,USC,1.8542,97.06876718,4.58,NA,NA,NA,NA,NA,NA,28.23360669,defense,defensive_back,FS,No
-2010,Scott Ravanesi,NA,Southern Illinois,1.8288,86.63614267,4.85,NA,NA,NA,NA,NA,NA,25.90399107,special_teams,kicking_specialist,P,No
-2010,Dace Richardson,NA,Iowa,1.9558,145.1495584,5.76,59.69,19,220.98,8.58,5.38,NA,37.94607278,offense,offensive_lineman,OG,No
-2010,Dennis Rogan,NA,Tennessee,1.7526,83.91458845,4.73,96.52,NA,299.72,NA,4.1,NA,27.31944386,defense,defensive_back,FS,No
-2011,Ryan Winterswyk\WintRy00,NA,Boise St.,1.9304,121.5627552,4.96,76.2,18,281.94,7.01,4.37,NA,32.62164947,defense,defensive_lineman,DE,No
+2010,Justin Woodall,22,Alabama,1.8542,101.1510985,4.64,86.36,13,299.72,6.88,4.17,NA,29.42100136,defense,defensive_back,SS,No
+2010,Ryan Wolfe,23,UNLV,1.8542,92.98643585,4.65,NA,13,NA,NA,NA,NA,27.04621202,offense,backs_receivers,WR,No
+2010,Lindsey Witten,21,Connecticut,1.9304,113.3980925,4.7,92.71,23,292.1,7.32,4.62,NA,30.43064316,defense,defensive_lineman,DE,No
+2010,Jeremy Williams,23,Tulane,1.8288,93.44002822,4.59,91.44,14,297.18,6.73,NA,NA,27.93833592,offense,backs_receivers,WR,No
+2010,Tony Washington,19,Appalachian St.,1.9812,141.0672271,5.25,74.93,33,289.56,7.52,4.84,NA,35.93928982,offense,offensive_lineman,OT,No
+2010,Lorenzo Washington,23,Alabama,1.9304,131.9953797,5.21,76.2,25,271.78,7.4,4.68,NA,35.42126864,defense,defensive_lineman,DT,No
+2010,Stephan Virgil,22,Virginia Tech,1.8034,83.00740371,4.69,86.36,12,287.02,7.11,4.35,NA,25.52305754,defense,defensive_back,CB,No
+2010,Adam Ulatoski,24,Texas,1.9558,136.077711,5.52,66.04,24,238.76,7.98,4.99,NA,35.57444323,offense,offensive_lineman,OG,No
+2010,Leigh Tiffin,21,Alabama,1.8542,94.80080533,NA,NA,NA,NA,NA,NA,NA,27.57394298,special_teams,kicking_specialist,K,No
+2010,Brett Swenson,22,Michigan St.,1.7272,80.73944186,NA,NA,12,NA,NA,NA,NA,27.06452967,special_teams,kicking_specialist,K,No
+2010,Jevan Snead,22,Mississippi,1.905,99.33672903,5.04,83.82,NA,269.24,7.08,4.33,NA,27.3728423,offense,backs_receivers,QB,No
+2010,Riley Skinner,23,Wake Forest,1.8288,97.06876718,5.05,76.2,NA,256.54,7.04,4.29,NA,29.02331984,offense,backs_receivers,QB,No
+2010,Devin Ross,21,Arizona,1.778,83.00740371,4.64,101.6,16,302.26,7.07,NA,NA,26.25749655,defense,defensive_back,CB,No
+2010,Rahim Alem,23,LSU,1.905,113.8516849,4.75,77.47,NA,269.24,7.54,4.8,NA,31.37252702,defense,defensive_lineman,DE,No
+2010,Charles Alexander,24,LSU,1.9304,136.077711,5.4,NA,NA,NA,NA,NA,NA,36.5167718,defense,defensive_lineman,DT,No
+2010,Lucien Antoine,24,Oklahoma St.,1.8288,97.52235955,4.62,81.28,28,304.8,7.38,4.47,NA,29.15894283,defense,defensive_back,SS,No
+2010,Alric Arnett,22,West Virginia,1.8796,85.27536556,4.52,101.6,NA,309.88,7.03,4.43,NA,24.13752392,offense,backs_receivers,WR,No
+2010,Kevin Basped,21,Nevada,1.9304,117.0268315,4.75,73.66,26,264.16,7.54,4.88,NA,31.40442374,defense,defensive_lineman,DE,No
+2010,Jason Beauchamp,22,UNLV,1.905,110.6765383,4.89,100.33,21,304.8,7.1,NA,NA,30.49759599,defense,line_backer,ILB,No
+2010,Chris Bell,23,Norfolk St.,1.8796,95.70799007,4.5,88.9,15,297.18,6.76,4.35,NA,27.09051887,offense,backs_receivers,WR,No
+2010,Ciron Black,23,LSU,1.9304,148.324705,5.53,64.77,23,231.14,8.52,5.13,NA,39.80328126,offense,offensive_lineman,OG,No
+2010,Nyan Boateng,23,California,1.8542,92.53284348,4.66,91.44,14,284.48,7.35,4.69,NA,26.91427927,offense,backs_receivers,WR,No
+2010,Dorian Brooks,21,James Madison,1.8796,138.7992652,5.15,58.42,26,254,7.73,4.66,NA,39.28767191,offense,offensive_lineman,OG,No
+2010,Chris Brown,22,Oklahoma,1.778,95.2543977,4.55,91.44,17,292.1,NA,NA,NA,30.13155341,offense,backs_receivers,RB,No
+2010,Lee Campbell,23,Minnesota,1.8796,112.0373154,4.88,86.36,17,274.32,7.27,4.4,NA,31.71259791,defense,line_backer,ILB,No
+2010,Chris Carter,22,California-Davis,1.8034,86.63614267,4.49,NA,12,NA,NA,NA,NA,26.63881962,offense,backs_receivers,WR,No
+2010,Chris Chancellor,23,Clemson,1.7526,80.28584949,4.49,86.36,14,292.1,6.85,4.07,NA,26.13806251,defense,defensive_back,CB,No
+2010,Daryll Clark,24,Penn St.,1.8796,106.594207,4.72,NA,21,NA,NA,NA,NA,30.1719049,offense,backs_receivers,QB,No
+2010,Harry Coleman,24,LSU,1.8542,95.70799007,4.56,83.82,13,292.1,7.24,4.42,NA,27.83780846,defense,defensive_back,SS,No
+2010,Andre Dixon,24,Connecticut,1.8542,92.98643585,4.56,101.6,NA,297.18,6.99,4.19,NA,27.04621202,offense,backs_receivers,RB,No
+2010,Riar Geer,23,Colorado,1.905,116.1196467,5,83.82,13,269.24,7.13,4.29,NA,31.99747776,offense,backs_receivers,FB,No
+2010,Kurtis Gregory,23,Missouri,1.9304,138.3456729,5.31,64.77,26,231.14,7.62,4.93,NA,37.12538466,offense,offensive_lineman,OG,No
+2010,Tim Hiller,23,West. Michigan,1.9304,103.8726527,4.97,82.55,18,299.72,7.1,4.54,NA,27.87446914,offense,backs_receivers,QB,No
+2010,Shay Hodge,22,Mississippi,1.8542,94.80080533,4.62,85.09,11,297.18,6.9,4.32,NA,27.57394298,offense,backs_receivers,WR,No
+2010,Simoni Lawrence,21,Minnesota,1.8288,105.2334298,4.59,101.6,21,312.42,7.3,4.43,NA,31.46453366,defense,line_backer,OLB,No
+2010,Boris Lee,22,Troy,1.8288,107.9549841,4.94,82.55,27,284.48,NA,NA,NA,32.2782716,defense,line_backer,ILB,No
+2010,Scott Long,22,Louisville,1.8796,97.97595192,4.46,105.41,20,312.42,6.45,4.09,NA,27.73247429,offense,backs_receivers,WR,No
+2010,Darius Marshall,21,Marshall,1.7526,86.1825503,4.59,90.17,14,276.86,NA,4.39,NA,28.05780721,offense,backs_receivers,RB,No
+2010,Sam Maxwell,22,Kentucky,1.8796,111.583723,4.98,83.82,NA,274.32,7.37,4.52,NA,31.58420683,defense,line_backer,OLB,No
+2010,Chris McGaha,23,Arizona St.,1.8542,91.17206637,4.52,101.6,19,309.88,NA,4.21,NA,26.51848105,offense,backs_receivers,WR,No
+2010,Mike McLaughlin,22,Boston Col.,1.8288,109.7693535,4.84,97.79,29,289.56,6.85,4.11,NA,32.82076356,defense,line_backer,ILB,No
+2010,Greg Middleton,23,Indiana,1.905,121.5627552,4.96,96.52,NA,294.64,7.65,4.69,NA,33.49735953,defense,defensive_lineman,DE,No
+2010,Brandon Minor,21,Michigan,1.8288,97.06876718,4.59,NA,NA,NA,NA,NA,NA,29.02331984,offense,backs_receivers,RB,No
+2010,Aleric Mullins,23,North Carolina,1.8542,145.6031508,4.95,NA,NA,NA,NA,NA,NA,42.35041003,defense,defensive_lineman,DT,No
+2010,Vince Oghobaase,23,Duke,1.9558,137.4384881,5.46,66.04,27,228.6,7.84,NA,NA,35.93018766,defense,defensive_lineman,DT,No
+2010,Pat Paschall,22,North Dakota St.,1.8288,94.80080533,4.65,97.79,15,299.72,7.02,4.33,NA,28.34520489,offense,backs_receivers,RB,No
+2010,Colin Peek,23,Alabama,1.9558,115.212462,4.93,NA,19,NA,NA,NA,NA,30.11969527,offense,backs_receivers,TE,No
+2010,Jared Perry,21,Missouri,1.8542,80.73944186,4.51,85.09,11,307.34,6.75,4.39,NA,23.48402799,offense,backs_receivers,WR,No
+2010,Josh Pinkard,23,USC,1.8542,97.06876718,4.58,NA,NA,NA,NA,NA,NA,28.23360669,defense,defensive_back,FS,No
+2010,Scott Ravanesi,22,Southern Illinois,1.8288,86.63614267,4.85,NA,NA,NA,NA,NA,NA,25.90399107,special_teams,kicking_specialist,P,No
+2010,Dace Richardson,23,Iowa,1.9558,145.1495584,5.76,59.69,19,220.98,8.58,5.38,NA,37.94607278,offense,offensive_lineman,OG,No
+2010,Dennis Rogan,21,Tennessee,1.7526,83.91458845,4.73,96.52,NA,299.72,NA,4.1,NA,27.31944386,defense,defensive_back,FS,No
+2011,Ryan Winterswyk\WintRy00,24,Boise St.,1.9304,121.5627552,4.96,76.2,18,281.94,7.01,4.37,NA,32.62164947,defense,defensive_lineman,DE,No
 2011,Zack Williams\WillZa01,22,Washington St.,1.905,140.1600423,5.18,76.2,28,261.62,7.54,4.62,NA,38.62195558,offense,offensive_lineman,C,No
 2011,Ian Williams\WillIa00,21,Notre Dame,1.8542,144.695966,5.21,72.39,31,248.92,NA,4.78,NA,42.08654455,defense,defensive_lineman,DT,No
 2011,Scott Tolzien\TolzSc00,23,Wisconsin,1.8796,96.16158244,4.92,74.93,NA,294.64,6.84,4.12,NA,27.21890995,offense,backs_receivers,QB,No
@@ -2560,39 +2560,39 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2011,Armando Allen\AlleAr00,21,Notre Dame,1.7272,90.26488163,4.59,NA,23,NA,NA,NA,NA,30.25753598,offense,backs_receivers,RB,No
 2011,Danny Aiken\AikeDa00,22,Virginia,1.9304,110.6765383,5,NA,11,NA,NA,NA,NA,29.70030773,special_teams,other_special,LS,No
 2011,Darvin Adams\AdamDa00,21,Auburn,1.8796,86.1825503,4.56,NA,NA,NA,NA,NA,NA,24.39430609,offense,backs_receivers,WR,No
-2011,Jimmy Young,NA,TCU,1.8288,92.53284348,4.5,93.98,19,292.1,7.08,4.18,NA,27.66708994,offense,backs_receivers,WR,No
-2011,Nate Williams,NA,Washington,1.8288,95.70799007,4.68,77.47,17,289.56,6.98,4.15,NA,28.61645087,defense,defensive_back,SS,No
-2011,Marshall Williams,NA,Wake Forest,1.8542,85.27536556,4.56,90.17,9,312.42,6.61,4.09,NA,24.80335541,offense,backs_receivers,WR,No
-2011,Deunta Williams,NA,North Carolina,1.8796,92.98643585,4.53,NA,NA,NA,NA,NA,NA,26.32017236,defense,defensive_back,FS,No
-2011,Colby Whitlock,NA,Texas Tech,1.8796,136.9848957,5.27,77.47,25,266.7,7.73,4.75,NA,38.77410757,defense,defensive_lineman,DT,No
-2011,Jeff Van Camp,NA,Florida Atlantic,1.9558,98.88313666,4.83,78.74,NA,289.56,6.87,4.16,NA,25.85076208,offense,backs_receivers,QB,No
-2011,Terrance Turner,NA,Indiana,1.8796,99.7903214,4.53,104.14,16,325.12,6.77,4.15,NA,28.24603863,offense,backs_receivers,WR,No
-2011,Devon Torrence,NA,Ohio St.,1.8288,90.26488163,4.68,83.82,NA,281.94,6.95,4.09,NA,26.98897499,defense,defensive_back,CB,No
-2011,Isaiah Thompson,NA,Houston,1.905,136.077711,6,63.5,23,208.28,9.04,5.56,NA,37.49704425,offense,offensive_lineman,OG,No
-2011,Jerrard Tarrant,NA,Georgia Tech,1.8288,92.53284348,4.57,83.82,14,289.56,6.92,4.21,NA,27.66708994,defense,defensive_back,FS,No
-2011,Ladi Ajiboye,NA,South Carolina,1.8542,134.7169339,5.3,60.96,23,231.14,7.72,4.71,NA,39.18402424,defense,defensive_lineman,DT,No
-2011,Niles Brinkley,NA,Wisconsin,1.7526,87.54332741,4.54,85.09,15,304.8,7.23,NA,NA,28.50082522,defense,defensive_back,CB,No
-2011,DeAndre Brown,NA,Southern Miss,1.9812,105.6870222,4.59,73.66,20,297.18,6.93,4.33,NA,26.92557726,offense,backs_receivers,WR,No
-2011,Ryan Colburn,NA,Fresno St.,1.905,105.6870222,5.12,NA,NA,NA,6.84,4.28,NA,29.12270437,offense,backs_receivers,QB,No
-2011,Graig Cooper,NA,Miami (FL),1.778,92.98643585,4.6,NA,18,289.56,6.66,4.03,NA,29.41413548,offense,backs_receivers,RB,No
-2011,Vance Cuff,NA,Georgia,1.778,80.73944186,4.53,91.44,NA,304.8,6.91,4.09,NA,25.54007861,defense,defensive_back,CB,No
-2011,Wayne Daniels,NA,TCU,1.8288,117.9340162,5.03,63.5,NA,269.24,7.81,4.68,NA,35.26197737,defense,line_backer,OLB,No
+2011,Jimmy Young,23,TCU,1.8288,92.53284348,4.5,93.98,19,292.1,7.08,4.18,NA,27.66708994,offense,backs_receivers,WR,No
+2011,Nate Williams,22,Washington,1.8288,95.70799007,4.68,77.47,17,289.56,6.98,4.15,NA,28.61645087,defense,defensive_back,SS,No
+2011,Marshall Williams,22,Wake Forest,1.8542,85.27536556,4.56,90.17,9,312.42,6.61,4.09,NA,24.80335541,offense,backs_receivers,WR,No
+2011,Deunta Williams,23,North Carolina,1.8796,92.98643585,4.53,NA,NA,NA,NA,NA,NA,26.32017236,defense,defensive_back,FS,No
+2011,Colby Whitlock,22,Texas Tech,1.8796,136.9848957,5.27,77.47,25,266.7,7.73,4.75,NA,38.77410757,defense,defensive_lineman,DT,No
+2011,Jeff Van Camp,23,Florida Atlantic,1.9558,98.88313666,4.83,78.74,NA,289.56,6.87,4.16,NA,25.85076208,offense,backs_receivers,QB,No
+2011,Terrance Turner,24,Indiana,1.8796,99.7903214,4.53,104.14,16,325.12,6.77,4.15,NA,28.24603863,offense,backs_receivers,WR,No
+2011,Devon Torrence,21,Ohio St.,1.8288,90.26488163,4.68,83.82,NA,281.94,6.95,4.09,NA,26.98897499,defense,defensive_back,CB,No
+2011,Isaiah Thompson,23,Houston,1.905,136.077711,6,63.5,23,208.28,9.04,5.56,NA,37.49704425,offense,offensive_lineman,OG,No
+2011,Jerrard Tarrant,21,Georgia Tech,1.8288,92.53284348,4.57,83.82,14,289.56,6.92,4.21,NA,27.66708994,defense,defensive_back,FS,No
+2011,Ladi Ajiboye,23,South Carolina,1.8542,134.7169339,5.3,60.96,23,231.14,7.72,4.71,NA,39.18402424,defense,defensive_lineman,DT,No
+2011,Niles Brinkley,23,Wisconsin,1.7526,87.54332741,4.54,85.09,15,304.8,7.23,NA,NA,28.50082522,defense,defensive_back,CB,No
+2011,DeAndre Brown,21,Southern Miss,1.9812,105.6870222,4.59,73.66,20,297.18,6.93,4.33,NA,26.92557726,offense,backs_receivers,WR,No
+2011,Ryan Colburn,24,Fresno St.,1.905,105.6870222,5.12,NA,NA,NA,6.84,4.28,NA,29.12270437,offense,backs_receivers,QB,No
+2011,Graig Cooper,23,Miami (FL),1.778,92.98643585,4.6,NA,18,289.56,6.66,4.03,NA,29.41413548,offense,backs_receivers,RB,No
+2011,Vance Cuff,22,Georgia,1.778,80.73944186,4.53,91.44,NA,304.8,6.91,4.09,NA,25.54007861,defense,defensive_back,CB,No
+2011,Wayne Daniels,23,TCU,1.8288,117.9340162,5.03,63.5,NA,269.24,7.81,4.68,NA,35.26197737,defense,line_backer,OLB,No
 2011,Josh Davis,NA,Georgia,2.0066,141.9744118,5.5,60.96,NA,231.14,7.98,5.07,NA,35.26049967,offense,offensive_lineman,OT,No
-2011,Noel Devine,NA,West Virginia,1.7018,81.19303423,4.43,NA,24,NA,NA,NA,NA,28.03507569,offense,backs_receivers,RB,No
-2011,Reid Forrest,NA,Washington St.,1.8288,85.72895793,4.69,NA,NA,NA,NA,NA,NA,25.63274509,special_teams,kicking_specialist,P,No
-2011,Charlie Gantt,NA,Michigan St.,1.9304,114.3052772,4.85,77.47,27,284.48,7.15,4.4,NA,30.67408831,offense,backs_receivers,TE,No
-2011,Josh Jasper,NA,LSU,1.778,78.92507238,5.06,NA,NA,NA,NA,NA,NA,24.96614426,special_teams,kicking_specialist,K,No
-2011,Carl Johnson,NA,Florida,1.9558,163.7468456,5.4,64.77,25,243.84,NA,5.03,NA,42.80791335,offense,offensive_lineman,OG,No
-2011,Rich Lapham,NA,Boston Col.,2.032,142.8815966,5.34,NA,NA,NA,NA,NA,NA,34.60420587,offense,offensive_lineman,OT,No
-2011,Pep Levingston,NA,LSU,1.905,132.448972,4.86,74.93,NA,264.16,7.29,4.62,NA,36.49712307,defense,defensive_lineman,DE,No
-2011,Alex Linnenkohl,NA,Oregon St.,1.8796,137.8920805,5.36,67.31,24,226.06,7.67,4.62,NA,39.03088974,offense,offensive_lineman,C,No
-2011,Derrick Locke,NA,Kentucky,1.7272,85.27536556,4.37,95.25,16,299.72,6.98,4.15,NA,28.58500886,offense,backs_receivers,RB,No
-2011,DeAndre McDaniel,NA,Clemson,1.8288,98.42954429,4.63,88.9,NA,294.64,NA,NA,NA,29.43018881,defense,defensive_back,SS,No
+2011,Noel Devine,23,West Virginia,1.7018,81.19303423,4.43,NA,24,NA,NA,NA,NA,28.03507569,offense,backs_receivers,RB,No
+2011,Reid Forrest,23,Washington St.,1.8288,85.72895793,4.69,NA,NA,NA,NA,NA,NA,25.63274509,special_teams,kicking_specialist,P,No
+2011,Charlie Gantt,23,Michigan St.,1.9304,114.3052772,4.85,77.47,27,284.48,7.15,4.4,NA,30.67408831,offense,backs_receivers,TE,No
+2011,Josh Jasper,23,LSU,1.778,78.92507238,5.06,NA,NA,NA,NA,NA,NA,24.96614426,special_teams,kicking_specialist,K,No
+2011,Carl Johnson,23,Florida,1.9558,163.7468456,5.4,64.77,25,243.84,NA,5.03,NA,42.80791335,offense,offensive_lineman,OG,No
+2011,Rich Lapham,23,Boston Col.,2.032,142.8815966,5.34,NA,NA,NA,NA,NA,NA,34.60420587,offense,offensive_lineman,OT,No
+2011,Pep Levingston,23,LSU,1.905,132.448972,4.86,74.93,NA,264.16,7.29,4.62,NA,36.49712307,defense,defensive_lineman,DE,No
+2011,Alex Linnenkohl,23,Oregon St.,1.8796,137.8920805,5.36,67.31,24,226.06,7.67,4.62,NA,39.03088974,offense,offensive_lineman,C,No
+2011,Derrick Locke,21,Kentucky,1.7272,85.27536556,4.37,95.25,16,299.72,6.98,4.15,NA,28.58500886,offense,backs_receivers,RB,No
+2011,DeAndre McDaniel,23,Clemson,1.8288,98.42954429,4.63,88.9,NA,294.64,NA,NA,NA,29.43018881,defense,defensive_back,SS,No
 2011,Andrew McGee,NA,Oklahoma St.,1.8034,88.45051215,4.71,86.36,NA,297.18,NA,NA,NA,27.19670066,defense,defensive_back,CB,No
-2011,Joseph Morgan,NA,Michigan St.,1.8288,85.72895793,4.38,90.17,10,312.42,6.91,4.25,NA,25.63274509,offense,backs_receivers,WR,No
-2011,Kris O'Dowd,NA,USC,1.9304,137.8920805,5.12,82.55,31,266.7,7.67,4.59,NA,37.00366209,offense,offensive_lineman,C,No
-2011,Jake Rogers,NA,Cincinnati,1.8796,96.61517481,5.06,NA,NA,NA,NA,NA,NA,27.34730103,special_teams,kicking_specialist,K,No
-2011,Jock Sanders,NA,West Virginia,1.6764,82.10021897,4.5,87.63,19,307.34,6.78,4.13,NA,29.21386454,offense,backs_receivers,WR,No
+2011,Joseph Morgan,22,Michigan St.,1.8288,85.72895793,4.38,90.17,10,312.42,6.91,4.25,NA,25.63274509,offense,backs_receivers,WR,No
+2011,Kris O'Dowd,22,USC,1.9304,137.8920805,5.12,82.55,31,266.7,7.67,4.59,NA,37.00366209,offense,offensive_lineman,C,No
+2011,Jake Rogers,23,Cincinnati,1.8796,96.61517481,5.06,NA,NA,NA,NA,NA,NA,27.34730103,special_teams,kicking_specialist,K,No
+2011,Jock Sanders,22,West Virginia,1.6764,82.10021897,4.5,87.63,19,307.34,6.78,4.13,NA,29.21386454,offense,backs_receivers,WR,No
 2012,Markus Zusevics\ZuseMa00,22,Iowa,1.9558,137.4384881,5.08,NA,NA,NA,NA,NA,NA,35.93018766,offense,offensive_lineman,OT,No
 2012,Desmond Wynn\WynnDe01,23,Rutgers,1.9558,137.4384881,4.98,82.55,28,NA,NA,NA,NA,35.93018766,offense,offensive_lineman,OG,No
 2012,Fozzy Whittaker\WhitFo00,23,Texas,1.7526,87.54332741,4.49,NA,20,NA,NA,NA,NA,28.50082522,offense,backs_receivers,RB,No
@@ -2660,51 +2660,51 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2012,Brandon Bolden\BoldBr00,22,Mississippi,1.8034,100.6975061,4.55,96.52,21,302.26,6.96,4.44,NA,30.96239768,offense,backs_receivers,RB,No
 2012,Tim Benford\BenfTi00,22,Tennessee Tech,1.8034,92.98643585,4.51,NA,15,NA,NA,NA,NA,28.59140326,offense,backs_receivers,WR,No
 2012,Chas Alecxih\AlecCh00,23,Pittsburgh,1.9304,134.2633415,5.31,64.77,19,251.46,7.74,4.62,NA,36.02988151,defense,defensive_lineman,DT,No
-2012,Patrick Witt,NA,Yale,1.905,102.0582833,5.06,80.01,NA,256.54,7.14,4.37,NA,28.12278319,offense,backs_receivers,QB,No
-2012,Carson Wiggs,NA,Purdue,1.8542,100.2439138,4.91,NA,NA,NA,NA,NA,NA,29.15713588,special_teams,kicking_specialist,K,No
-2012,Marc Tyler,NA,USC,1.8034,99.33672903,4.7,77.47,19,279.4,NA,NA,NA,30.5439869,offense,backs_receivers,RB,No
-2012,Phillip Thomas,NA,Syracuse,1.8034,89.81128926,4.68,83.82,14,309.88,NA,NA,NA,27.61511144,defense,defensive_back,FS,No
-2012,Johnny Thomas,NA,Oklahoma St.,1.778,93.44002822,4.57,90.17,20,312.42,7.01,4.25,NA,29.55761906,defense,defensive_back,SS,No
-2012,Darron Thomas,NA,Oregon,1.905,99.7903214,4.77,91.44,14,307.34,7.17,4.28,NA,27.49783245,offense,backs_receivers,QB,No
-2012,Dave Teggart,NA,Connecticut,1.8288,91.17206637,5.25,NA,NA,NA,NA,NA,NA,27.26022097,special_teams,kicking_specialist,K,No
-2012,Brian Stahovich,NA,San Diego St.,1.8288,95.70799007,4.78,NA,NA,NA,NA,NA,NA,28.61645087,special_teams,kicking_specialist,P,No
-2012,Darrell Scott,NA,South Florida,1.8288,104.7798375,4.68,80.01,NA,NA,NA,NA,NA,31.32891067,offense,backs_receivers,RB,No
-2012,Brett Roy,NA,Nevada,1.905,124.7379018,5,77.47,32,274.32,7.31,4.62,NA,34.37229056,defense,defensive_lineman,DT,No
-2012,Trenton Robinson,NA,Michigan St.,1.778,88.45051215,4.46,88.9,15,317.5,NA,4.15,NA,27.9792996,defense,defensive_back,FS,No
-2012,Gerell Robinson,NA,Arizona St.,1.905,102.965468,4.54,90.17,NA,287.02,NA,4.15,NA,28.37276348,offense,backs_receivers,WR,No
-2012,Ryan Baker,NA,LSU,1.8034,105.2334298,4.8,86.36,30,287.02,7.21,4.35,NA,32.35710027,defense,line_backer,OLB,No
-2012,Mike Ball,NA,Nevada,1.7272,93.44002822,4.54,91.44,21,284.48,7.1,4.23,NA,31.32187141,offense,backs_receivers,RB,No
-2012,Jamie Blatnick,NA,Oklahoma St.,1.905,119.2947933,4.81,82.55,28,284.48,7.22,4.2,NA,32.87240879,defense,defensive_lineman,DE,No
-2012,Charles Brown,NA,North Carolina,1.7526,91.62565874,4.53,90.17,18,289.56,6.94,4.06,NA,29.82987925,defense,defensive_back,CB,No
-2012,Aaron Corp,NA,Richmond,1.905,97.52235955,4.61,80.01,NA,269.24,7.03,4.3,NA,26.87288171,offense,backs_receivers,QB,No
-2012,Lennon Creer,NA,Louisiana Tech,1.8034,99.33672903,4.67,85.09,21,279.4,7.26,4.4,NA,30.5439869,offense,backs_receivers,RB,No
-2012,John Cullen,NA,Utah,1.9304,134.7169339,5.28,68.58,23,259.08,7.58,4.59,NA,36.15160408,offense,offensive_lineman,OT,No
-2012,Taylor Dever,NA,Notre Dame,1.9558,135.1705263,5.4,71.12,18,254,7.49,4.9,NA,35.33728027,offense,offensive_lineman,OT,No
-2012,Derek Dimke,NA,Illinois,1.8034,80.73944186,5.02,NA,NA,NA,NA,NA,NA,24.82570624,special_teams,kicking_specialist,K,No
-2012,Loni Fangupo,NA,BYU,1.8542,146.5103355,5.12,80.01,36,251.46,7.94,4.62,NA,42.61427552,defense,defensive_lineman,DT,No
-2012,Antonio Fenelus,NA,Wisconsin,1.7272,86.1825503,4.57,81.28,20,276.86,6.8,4.2,NA,28.8891047,defense,defensive_back,CB,No
-2012,Chris Galippo,NA,USC,1.8542,109.3157612,4.73,74.93,19,271.78,6.9,4.1,NA,31.79579071,defense,line_backer,ILB,No
-2012,Jacory Harris,NA,Miami (FL),1.905,92.07925111,4.65,93.98,NA,287.02,7.1,4.4,NA,25.37299994,offense,backs_receivers,QB,No
-2012,Janzen Jackson,NA,McNeese St.,1.8034,85.27536556,4.6,92.71,9,317.5,6.9,4.15,NA,26.22040884,defense,defensive_back,FS,No
-2012,Jamaar Jarrett,NA,Arizona St.,1.9558,120.2019781,4.96,76.2,21,289.56,NA,4.34,NA,31.42409152,defense,defensive_lineman,DE,No
-2012,Jordan Jefferson,NA,LSU,1.9304,101.1510985,4.58,92.71,14,294.64,6.81,4.06,NA,27.1441337,offense,backs_receivers,QB,No
-2012,Jeremy Jones,NA,Wayne State (MI),1.7526,89.35769689,4.56,80.01,20,294.64,7.14,4.18,NA,29.0915159,defense,defensive_back,CB,No
-2012,Coryell Judie,NA,Texas A&M,1.8288,87.99691978,4.45,93.98,NA,320.04,7.33,4.25,NA,26.31086004,defense,defensive_back,CB,No
-2012,Brandon Lindsey,NA,Pittsburgh,1.8796,115.212462,4.85,83.82,23,297.18,7.36,4.28,NA,32.61133551,defense,line_backer,OLB,No
-2012,D'Anton Lynn,NA,Penn St.,1.8288,93.44002822,4.71,80.01,17,281.94,NA,NA,NA,27.93833592,defense,defensive_back,CB,No
-2012,Kyle Martens,NA,Rice,1.9558,102.5118756,4.92,NA,NA,NA,NA,NA,NA,26.7994139,special_teams,kicking_specialist,P,No
-2012,Marquis Maze,NA,Alabama,1.7272,84.36818082,4.51,85.09,NA,284.48,NA,NA,NA,28.28091302,offense,backs_receivers,WR,No
-2012,Vaughn Meatoga,NA,Hawaii,1.8542,133.3561568,4.93,76.2,27,274.32,7.1,4.21,NA,38.78822601,defense,defensive_lineman,DT,No
-2012,Rennie Moore,NA,Clemson,1.905,121.5627552,5,77.47,21,276.86,NA,4.53,NA,33.49735953,defense,defensive_lineman,DT,No
-2012,Tyler Nielsen,NA,Iowa,1.905,107.9549841,4.63,NA,21,NA,7.27,4.31,NA,29.7476551,defense,line_backer,OLB,No
-2012,Josh Oglesby,NA,Virginia Tech,2.0066,153.3142211,5.75,72.39,22,NA,NA,NA,NA,38.07683351,offense,offensive_lineman,OT,No
-2012,Donte Paige-Moss,NA,North Carolina,1.905,121.5627552,4.67,NA,26,NA,NA,NA,NA,33.49735953,defense,defensive_lineman,DE,No
-2012,Tydreke Powell,NA,North Carolina,1.8796,141.0672271,5.28,72.39,29,251.46,7.31,4.62,NA,39.92962733,defense,defensive_lineman,DT,No
-2012,DeAndre Presley,NA,Appalachian St.,1.778,83.91458845,4.53,81.28,8,289.56,7.19,4.28,NA,26.54446372,defense,defensive_back,CB,No
-2012,Nick Provo,NA,Syracuse,1.905,107.5013917,4.76,NA,NA,NA,NA,NA,NA,29.62266496,offense,backs_receivers,TE,No
-2012,Antwuan Reed,NA,Pittsburgh,1.778,85.27536556,4.58,92.71,14,314.96,NA,4.2,NA,26.97491448,defense,defensive_back,CB,No
-2012,Beau Reliford,NA,Florida St.,1.9558,116.1196467,4.84,NA,NA,NA,NA,NA,NA,30.35685822,offense,backs_receivers,TE,No
-2013,Khalid Wooten\WootKa00,NA,Nevada,1.8034,95.2543977,4.53,85.09,17,297.18,6.95,4.18,NA,29.28875456,defense,defensive_back,CB,No
+2012,Patrick Witt,21,Yale,1.905,102.0582833,5.06,80.01,NA,256.54,7.14,4.37,NA,28.12278319,offense,backs_receivers,QB,No
+2012,Carson Wiggs,22,Purdue,1.8542,100.2439138,4.91,NA,NA,NA,NA,NA,NA,29.15713588,special_teams,kicking_specialist,K,No
+2012,Marc Tyler,23,USC,1.8034,99.33672903,4.7,77.47,19,279.4,NA,NA,NA,30.5439869,offense,backs_receivers,RB,No
+2012,Phillip Thomas,21,Syracuse,1.8034,89.81128926,4.68,83.82,14,309.88,NA,NA,NA,27.61511144,defense,defensive_back,FS,No
+2012,Johnny Thomas,22,Oklahoma St.,1.778,93.44002822,4.57,90.17,20,312.42,7.01,4.25,NA,29.55761906,defense,defensive_back,SS,No
+2012,Darron Thomas,21,Oregon,1.905,99.7903214,4.77,91.44,14,307.34,7.17,4.28,NA,27.49783245,offense,backs_receivers,QB,No
+2012,Dave Teggart,23,Connecticut,1.8288,91.17206637,5.25,NA,NA,NA,NA,NA,NA,27.26022097,special_teams,kicking_specialist,K,No
+2012,Brian Stahovich,21,San Diego St.,1.8288,95.70799007,4.78,NA,NA,NA,NA,NA,NA,28.61645087,special_teams,kicking_specialist,P,No
+2012,Darrell Scott,22,South Florida,1.8288,104.7798375,4.68,80.01,NA,NA,NA,NA,NA,31.32891067,offense,backs_receivers,RB,No
+2012,Brett Roy,22,Nevada,1.905,124.7379018,5,77.47,32,274.32,7.31,4.62,NA,34.37229056,defense,defensive_lineman,DT,No
+2012,Trenton Robinson,22,Michigan St.,1.778,88.45051215,4.46,88.9,15,317.5,NA,4.15,NA,27.9792996,defense,defensive_back,FS,No
+2012,Gerell Robinson,22,Arizona St.,1.905,102.965468,4.54,90.17,NA,287.02,NA,4.15,NA,28.37276348,offense,backs_receivers,WR,No
+2012,Ryan Baker,24,LSU,1.8034,105.2334298,4.8,86.36,30,287.02,7.21,4.35,NA,32.35710027,defense,line_backer,OLB,No
+2012,Mike Ball,23,Nevada,1.7272,93.44002822,4.54,91.44,21,284.48,7.1,4.23,NA,31.32187141,offense,backs_receivers,RB,No
+2012,Jamie Blatnick,22,Oklahoma St.,1.905,119.2947933,4.81,82.55,28,284.48,7.22,4.2,NA,32.87240879,defense,defensive_lineman,DE,No
+2012,Charles Brown,24,North Carolina,1.7526,91.62565874,4.53,90.17,18,289.56,6.94,4.06,NA,29.82987925,defense,defensive_back,CB,No
+2012,Aaron Corp,22,Richmond,1.905,97.52235955,4.61,80.01,NA,269.24,7.03,4.3,NA,26.87288171,offense,backs_receivers,QB,No
+2012,Lennon Creer,23,Louisiana Tech,1.8034,99.33672903,4.67,85.09,21,279.4,7.26,4.4,NA,30.5439869,offense,backs_receivers,RB,No
+2012,John Cullen,21,Utah,1.9304,134.7169339,5.28,68.58,23,259.08,7.58,4.59,NA,36.15160408,offense,offensive_lineman,OT,No
+2012,Taylor Dever,22,Notre Dame,1.9558,135.1705263,5.4,71.12,18,254,7.49,4.9,NA,35.33728027,offense,offensive_lineman,OT,No
+2012,Derek Dimke,21,Illinois,1.8034,80.73944186,5.02,NA,NA,NA,NA,NA,NA,24.82570624,special_teams,kicking_specialist,K,No
+2012,Loni Fangupo,26,BYU,1.8542,146.5103355,5.12,80.01,36,251.46,7.94,4.62,NA,42.61427552,defense,defensive_lineman,DT,No
+2012,Antonio Fenelus,22,Wisconsin,1.7272,86.1825503,4.57,81.28,20,276.86,6.8,4.2,NA,28.8891047,defense,defensive_back,CB,No
+2012,Chris Galippo,22,USC,1.8542,109.3157612,4.73,74.93,19,271.78,6.9,4.1,NA,31.79579071,defense,line_backer,ILB,No
+2012,Jacory Harris,21,Miami (FL),1.905,92.07925111,4.65,93.98,NA,287.02,7.1,4.4,NA,25.37299994,offense,backs_receivers,QB,No
+2012,Janzen Jackson,21,McNeese St.,1.8034,85.27536556,4.6,92.71,9,317.5,6.9,4.15,NA,26.22040884,defense,defensive_back,FS,No
+2012,Jamaar Jarrett,21,Arizona St.,1.9558,120.2019781,4.96,76.2,21,289.56,NA,4.34,NA,31.42409152,defense,defensive_lineman,DE,No
+2012,Jordan Jefferson,21,LSU,1.9304,101.1510985,4.58,92.71,14,294.64,6.81,4.06,NA,27.1441337,offense,backs_receivers,QB,No
+2012,Jeremy Jones,22,Wayne State (MI),1.7526,89.35769689,4.56,80.01,20,294.64,7.14,4.18,NA,29.0915159,defense,defensive_back,CB,No
+2012,Coryell Judie,24,Texas A&M,1.8288,87.99691978,4.45,93.98,NA,320.04,7.33,4.25,NA,26.31086004,defense,defensive_back,CB,No
+2012,Brandon Lindsey,23,Pittsburgh,1.8796,115.212462,4.85,83.82,23,297.18,7.36,4.28,NA,32.61133551,defense,line_backer,OLB,No
+2012,D'Anton Lynn,22,Penn St.,1.8288,93.44002822,4.71,80.01,17,281.94,NA,NA,NA,27.93833592,defense,defensive_back,CB,No
+2012,Kyle Martens,21,Rice,1.9558,102.5118756,4.92,NA,NA,NA,NA,NA,NA,26.7994139,special_teams,kicking_specialist,P,No
+2012,Marquis Maze,23,Alabama,1.7272,84.36818082,4.51,85.09,NA,284.48,NA,NA,NA,28.28091302,offense,backs_receivers,WR,No
+2012,Vaughn Meatoga,23,Hawaii,1.8542,133.3561568,4.93,76.2,27,274.32,7.1,4.21,NA,38.78822601,defense,defensive_lineman,DT,No
+2012,Rennie Moore,23,Clemson,1.905,121.5627552,5,77.47,21,276.86,NA,4.53,NA,33.49735953,defense,defensive_lineman,DT,No
+2012,Tyler Nielsen,23,Iowa,1.905,107.9549841,4.63,NA,21,NA,7.27,4.31,NA,29.7476551,defense,line_backer,OLB,No
+2012,Josh Oglesby,23,Virginia Tech,2.0066,153.3142211,5.75,72.39,22,NA,NA,NA,NA,38.07683351,offense,offensive_lineman,OT,No
+2012,Donte Paige-Moss,20,North Carolina,1.905,121.5627552,4.67,NA,26,NA,NA,NA,NA,33.49735953,defense,defensive_lineman,DE,No
+2012,Tydreke Powell,23,North Carolina,1.8796,141.0672271,5.28,72.39,29,251.46,7.31,4.62,NA,39.92962733,defense,defensive_lineman,DT,No
+2012,DeAndre Presley,22,Appalachian St.,1.778,83.91458845,4.53,81.28,8,289.56,7.19,4.28,NA,26.54446372,defense,defensive_back,CB,No
+2012,Nick Provo,23,Syracuse,1.905,107.5013917,4.76,NA,NA,NA,NA,NA,NA,29.62266496,offense,backs_receivers,TE,No
+2012,Antwuan Reed,22,Pittsburgh,1.778,85.27536556,4.58,92.71,14,314.96,NA,4.2,NA,26.97491448,defense,defensive_back,CB,No
+2012,Beau Reliford,22,Florida St.,1.9558,116.1196467,4.84,NA,NA,NA,NA,NA,NA,30.35685822,offense,backs_receivers,TE,No
+2013,Khalid Wooten\WootKa00,23,Nevada,1.8034,95.2543977,4.53,85.09,17,297.18,6.95,4.18,Tennessee Titans / 6th / 202nd pick / 2019,29.28875456,defense,defensive_back,CB,Yes
 2013,Cierre Wood\WoodCi00,22,Notre Dame,1.8034,96.61517481,4.56,95.25,16,314.96,NA,NA,NA,29.70716534,offense,backs_receivers,RB,No
 2013,George Winn\WinnGe00,22,Cincinnati,1.778,98.88313666,4.75,87.63,22,302.26,NA,NA,NA,31.27942212,offense,backs_receivers,RB,No
 2013,Brad Wing\WingBr00,22,LSU,1.8796,92.98643585,4.86,NA,NA,NA,NA,NA,NA,26.32017236,special_teams,kicking_specialist,P,No
@@ -2713,13 +2713,13 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2013,Conner Vernon\VernCo01,22,Duke,1.8288,88.90410452,4.68,82.55,NA,317.5,6.93,4.22,NA,26.58210602,offense,backs_receivers,WR,No
 2013,Matthew Tucker\TuckMa00,21,TCU,1.8288,100.2439138,4.55,90.17,17,299.72,NA,NA,NA,29.97268077,offense,backs_receivers,RB,No
 2013,Kenbrell Thompkins\ThomKe02,24,Cincinnati,1.8542,87.54332741,4.54,85.09,8,307.34,6.88,4.21,NA,25.46301912,offense,backs_receivers,WR,No
-2013,Chase Thomas\ThomCh02,NA,Stanford,1.905,110.6765383,4.91,81.28,18,287.02,7.17,4.31,NA,30.49759599,defense,line_backer,OLB,No
+2013,Chase Thomas\ThomCh02,23,Stanford,1.905,110.6765383,4.91,81.28,18,287.02,7.17,4.31,NA,30.49759599,defense,line_backer,OLB,No
 2013,Mike Taylor\TaylMi00,24,Wisconsin,1.8542,106.1406146,4.75,NA,NA,NA,NA,NA,NA,30.87226152,defense,line_backer,OLB,No
 2013,Bruce Taylor\TaylBr03,23,Virginia Tech,1.8542,107.5013917,5.01,77.47,19,292.1,7.21,4.39,NA,31.26805974,defense,line_backer,ILB,No
 2013,Rod Sweeting\SweeRo01,22,Georgia Tech,1.8034,85.72895793,4.42,93.98,11,314.96,NA,NA,NA,26.3598791,defense,defensive_back,CB,No
 2013,Jake Stoneburner\StonJa01,23,Ohio St.,1.905,114.3052772,4.65,87.63,18,294.64,7.12,4.27,NA,31.49751717,offense,backs_receivers,TE,No
 2013,Walter Stewart\StewWa01,22,Cincinnati,1.9304,111.583723,4.69,NA,NA,NA,NA,NA,NA,29.94375287,defense,defensive_lineman,DE,No
-2013,Jonathan Stewart\StewJo01,NA,Texas A&M,1.9304,109.7693535,4.68,78.74,19,299.72,7.44,4.53,NA,29.45686258,defense,line_backer,ILB,No
+2013,Jonathan Stewart\StewJo01,22,Texas A&M,1.9304,109.7693535,4.68,78.74,19,299.72,7.44,4.53,NA,29.45686258,defense,line_backer,ILB,No
 2013,Jawanza Starling\StarJa01,21,USC,1.8542,91.62565874,4.64,91.44,17,309.88,6.68,4.34,NA,26.65041379,defense,defensive_back,SS,No
 2013,Damion Square\SquaDa00,24,Alabama,1.8796,132.9025644,5.23,NA,NA,NA,NA,NA,NA,37.61858781,defense,defensive_lineman,DE,No
 2013,Ryan Spadola\SpadRy00,22,Lehigh,1.8542,92.53284348,4.48,85.09,15,302.26,6.72,4.07,NA,26.91427927,offense,backs_receivers,WR,No
@@ -2748,9 +2748,9 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2013,Lamar Mady\MadyLa00,23,Youngstown St.,1.8796,143.7887813,5.48,58.42,35,241.3,8.07,4.82,NA,40.69997384,offense,offensive_lineman,OG,No
 2013,John Lotulelei\LotuJo00,21,UNLV,1.8034,105.6870222,4.84,90.17,25,297.18,6.91,4.3,NA,32.49657053,defense,line_backer,OLB,No
 2013,Zach Line\LineZa01,22,SMU,1.8288,105.2334298,4.77,77.47,26,281.94,NA,NA,NA,31.46453366,offense,backs_receivers,FB,No
-2013,Robert Lester\LestRo00,NA,Alabama,1.8542,99.7903214,4.66,85.09,NA,297.18,NA,NA,NA,29.02520314,defense,defensive_back,SS,No
+2013,Robert Lester\LestRo00,24,Alabama,1.8542,99.7903214,4.66,85.09,NA,297.18,NA,NA,NA,29.02520314,defense,defensive_back,SS,No
 2013,Alec Lemon\LemoAl00,21,Syracuse,1.8542,91.62565874,4.59,81.28,7,284.48,7.04,4.29,NA,26.65041379,offense,backs_receivers,WR,No
-2013,Scott Kovanda\KovaSc00,NA,Ball St.,1.8796,93.89362059,4.84,NA,NA,NA,NA,NA,NA,26.57695453,special_teams,kicking_specialist,P,No
+2013,Scott Kovanda\KovaSc00,23,Ball St.,1.8796,93.89362059,4.84,NA,NA,NA,NA,NA,NA,26.57695453,special_teams,kicking_specialist,P,No
 2013,Jake Knott\KnotJa00,22,Iowa St.,1.8796,110.2229459,4.84,NA,NA,NA,NA,NA,NA,31.19903357,defense,line_backer,OLB,No
 2013,Collin Klein\KleiCo00,23,Kansas St.,1.9558,102.5118756,4.78,73.66,NA,281.94,7.17,4.4,NA,26.7994139,offense,backs_receivers,QB,No
 2013,Brandon Kaufman\KaufBr00,22,East. Washington,1.9558,97.97595192,4.67,85.09,9,292.1,7.11,4.44,NA,25.61359912,offense,backs_receivers,WR,No
@@ -2763,7 +2763,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2013,Tony Jefferson\JeffTo00,21,Oklahoma,1.8034,96.61517481,4.75,NA,16,NA,NA,NA,NA,29.70716534,defense,defensive_back,FS,No
 2013,Aaron Hester\HestAa00,23,UCLA,1.8796,89.81128926,4.62,73.66,NA,284.48,7.26,4.33,NA,25.42143476,defense,defensive_back,CB,No
 2013,Mark Harrison\HarrMa04,22,Rutgers,1.905,104.7798375,4.46,97.79,17,327.66,6.99,4.33,NA,28.87272407,offense,backs_receivers,WR,No
-2013,Cory Grissom\GrisCo00,NA,South Florida,1.8542,138.7992652,5.31,69.85,22,246.38,7.79,4.81,NA,40.37141891,defense,defensive_lineman,DT,No
+2013,Cory Grissom\GrisCo00,22,South Florida,1.8542,138.7992652,5.31,69.85,22,246.38,7.79,4.81,NA,40.37141891,defense,defensive_lineman,DT,No
 2013,MarQueis Gray\GrayMa00,23,Minnesota,1.905,108.8621688,4.65,76.2,15,281.94,7.25,4.3,NA,29.9976354,offense,backs_receivers,QB,No
 2013,Ray Graham\GrahRa00,22,Pittsburgh,1.7526,90.26488163,4.8,82.55,18,284.48,7.17,4.21,NA,29.38686124,offense,backs_receivers,RB,No
 2013,Kwame Geathers\GeatKw00,22,Georgia,1.9558,155.1285905,5.44,67.31,NA,243.84,8.11,5.27,NA,40.55486528,defense,defensive_lineman,DT,No
@@ -2776,9 +2776,9 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2013,Marcus Davis\DaviMa00,23,Virginia Tech,1.905,105.6870222,4.56,100.33,19,304.8,7.15,NA,NA,29.12270437,offense,backs_receivers,WR,No
 2013,Emmett Cleary\CleaEm01,22,Boston Col.,2.0066,143.3351889,5.21,72.39,24,274.32,7.81,4.7,NA,35.59845973,offense,offensive_lineman,OT,No
 2013,Braxston Cave\CaveBr00,23,Notre Dame,1.905,137.4384881,5.33,64.77,NA,248.92,7.81,4.71,NA,37.87201469,offense,offensive_lineman,C,No
-2013,Anthony Cantele\CantAn00,NA,Kansas St.,1.778,81.6466266,4.76,NA,NA,NA,NA,NA,NA,25.82704578,special_teams,kicking_specialist,K,No
-2013,Colby Cameron\CameCo00,NA,Louisiana Tech,1.8796,96.16158244,4.78,77.47,NA,284.48,6.98,4.28,NA,27.21890995,offense,backs_receivers,QB,No
-2013,Adrian Bushell\BushAd00,NA,Louisville,1.7526,84.36818082,4.58,83.82,17,294.64,6.92,4.25,NA,27.46711653,defense,defensive_back,CB,No
+2013,Anthony Cantele\CantAn00,23,Kansas St.,1.778,81.6466266,4.76,NA,NA,NA,NA,NA,NA,25.82704578,special_teams,kicking_specialist,K,No
+2013,Colby Cameron\CameCo00,22,Louisiana Tech,1.8796,96.16158244,4.78,77.47,NA,284.48,6.98,4.28,NA,27.21890995,offense,backs_receivers,QB,No
+2013,Adrian Bushell\BushAd00,23,Louisville,1.7526,84.36818082,4.58,83.82,17,294.64,6.92,4.25,NA,27.46711653,defense,defensive_back,CB,No
 2013,Marlon Brown\BrowMa00,21,Georgia,1.9304,96.61517481,4.63,NA,NA,NA,NA,NA,NA,25.92690798,offense,backs_receivers,WR,No
 2013,Braden Brown\BrowBr03,24,BYU,1.9558,140.6136347,5.2,71.12,26,254,7.43,4.7,NA,36.760258,offense,offensive_lineman,OT,No
 2013,Tyler Bray\BrayTy00,21,Tennessee,1.9812,105.2334298,5.05,NA,NA,254,7.2,4.51,NA,26.81001684,offense,backs_receivers,QB,No
@@ -2791,29 +2791,29 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2013,Zach Allen\AlleZa00,22,North Carolina St.,1.8796,150.5926668,5.43,NA,32,NA,NA,NA,NA,42.62584011,offense,offensive_lineman,OG,No
 2013,Ryan Allen\AlleRy01,23,Louisiana Tech,1.8542,103.8726527,4.98,NA,NA,NA,NA,NA,NA,30.21259781,special_teams,kicking_specialist,P,No
 2013,Johnny Adams\AdamJo02,23,Michigan St.,1.778,83.91458845,4.48,NA,16,NA,NA,NA,NA,26.54446372,defense,defensive_back,CB,No
-2013,Tom Wort,NA,Oklahoma,1.8288,106.594207,4.78,80.01,21,281.94,7.41,4.51,NA,31.87140263,defense,line_backer,ILB,No
-2013,Nathan Williams,NA,Ohio St.,1.905,109.3157612,4.88,88.9,24,287.02,6.99,4.44,NA,30.12262555,defense,line_backer,OLB,No
-2013,James Vandenberg,NA,Iowa,1.905,102.5118756,4.92,81.28,NA,294.64,6.95,4.52,NA,28.24777333,offense,backs_receivers,QB,No
-2013,Dax Swanson,NA,SMU,1.778,84.36818082,4.56,83.82,15,309.88,NA,NA,NA,26.68794731,defense,defensive_back,CB,No
-2013,Dylan Breeding,NA,Arkansas,1.8542,96.61517481,4.74,73.66,11,279.4,NA,NA,NA,28.10167395,special_teams,kicking_specialist,P,No
-2013,Bobby Cowan,NA,Idaho,1.9304,99.33672903,5.13,NA,NA,NA,NA,NA,NA,26.65724341,special_teams,kicking_specialist,P,No
-2013,Alex Dunnachie,NA,Hawaii,1.905,98.42954429,4.97,NA,NA,NA,NA,NA,NA,27.12286201,special_teams,kicking_specialist,P,No
-2013,Mike Edwards,NA,Hawaii,1.7526,85.72895793,4.56,91.44,14,314.96,6.94,4.18,NA,27.91013454,defense,defensive_back,CB,No
-2013,Manese Foketi,NA,Texas A&M,1.9558,144.2423737,5.54,59.69,25,259.08,8.11,5.06,NA,37.70890982,offense,offensive_lineman,OG,No
-2013,Tyrone Goard,NA,East. Kentucky,1.9304,92.98643585,4.5,91.44,10,312.42,6.9,4.39,NA,24.95312739,offense,backs_receivers,WR,No
-2013,D.J. Harper,NA,Boise St.,1.7526,95.70799007,4.52,85.09,23,304.8,7.07,4.35,NA,31.15893327,offense,backs_receivers,RB,No
-2013,Montel Harris,NA,Temple,1.7272,94.34721296,4.68,82.55,19,287.02,6.95,4.18,NA,31.62596725,offense,backs_receivers,RB,No
-2013,Josh Hubner,NA,Arizona St.,1.9304,105.2334298,5.06,NA,13,NA,NA,NA,NA,28.23963686,special_teams,kicking_specialist,P,No
-2013,Luke Ingram,NA,Hawaii,1.9558,117.0268315,5.05,NA,24,269.24,NA,NA,NA,30.59402118,special_teams,other_special,LS,No
-2013,Mark Jackson,NA,Glenville State,1.9558,148.7782974,5.65,52.07,20,231.14,8.07,5.03,NA,38.8947246,offense,offensive_lineman,OG,No
-2013,Stefphon Jefferson,NA,Nevada,1.778,96.61517481,4.68,78.74,15,297.18,6.97,4.44,NA,30.56200418,offense,backs_receivers,RB,No
-2013,P.J. Lonergan,NA,LSU,1.905,137.8920805,5.38,NA,25,NA,NA,NA,NA,37.99700484,offense,offensive_lineman,C,No
-2013,Philip Lutzenkirchen,NA,Auburn,1.905,117.0268315,4.94,77.47,21,284.48,7.15,4.35,NA,32.24745805,offense,backs_receivers,TE,No
-2013,Joe Madsen,NA,West Virginia,1.905,140.6136347,5.2,63.5,25,248.92,7.6,4.83,NA,38.74694572,offense,offensive_lineman,C,No
-2013,Brad McDougald,NA,Illinois,1.8288,97.52235955,4.51,87.63,19,309.88,7.07,4.44,NA,29.15894283,defense,defensive_back,FS,No
-2013,Greg Reid,NA,Florida St.,1.7272,86.1825503,4.46,NA,10,NA,NA,NA,NA,28.8891047,defense,defensive_back,CB,No
-2013,Robbie Rouse,NA,Fresno St.,1.6764,86.1825503,4.8,86.36,15,289.56,6.97,4.25,NA,30.66648763,offense,backs_receivers,RB,No
-2013,Matt Stankiewitch,NA,Penn St.,1.905,136.9848957,5.43,60.96,27,233.68,7.9,4.96,NA,37.74702454,offense,offensive_lineman,C,No
+2013,Tom Wort,22,Oklahoma,1.8288,106.594207,4.78,80.01,21,281.94,7.41,4.51,NA,31.87140263,defense,line_backer,ILB,No
+2013,Nathan Williams,23,Ohio St.,1.905,109.3157612,4.88,88.9,24,287.02,6.99,4.44,NA,30.12262555,defense,line_backer,OLB,No
+2013,James Vandenberg,23,Iowa,1.905,102.5118756,4.92,81.28,NA,294.64,6.95,4.52,NA,28.24777333,offense,backs_receivers,QB,No
+2013,Dax Swanson,21,SMU,1.778,84.36818082,4.56,83.82,15,309.88,NA,NA,NA,26.68794731,defense,defensive_back,CB,No
+2013,Dylan Breeding,22,Arkansas,1.8542,96.61517481,4.74,73.66,11,279.4,NA,NA,NA,28.10167395,special_teams,kicking_specialist,P,No
+2013,Bobby Cowan,22,Idaho,1.9304,99.33672903,5.13,NA,NA,NA,NA,NA,NA,26.65724341,special_teams,kicking_specialist,P,No
+2013,Alex Dunnachie,23,Hawaii,1.905,98.42954429,4.97,NA,NA,NA,NA,NA,NA,27.12286201,special_teams,kicking_specialist,P,No
+2013,Mike Edwards,21,Hawaii,1.7526,85.72895793,4.56,91.44,14,314.96,6.94,4.18,NA,27.91013454,defense,defensive_back,CB,No
+2013,Manese Foketi,22,Texas A&M,1.9558,144.2423737,5.54,59.69,25,259.08,8.11,5.06,NA,37.70890982,offense,offensive_lineman,OG,No
+2013,Tyrone Goard,23,East. Kentucky,1.9304,92.98643585,4.5,91.44,10,312.42,6.9,4.39,NA,24.95312739,offense,backs_receivers,WR,No
+2013,D.J. Harper,23,Boise St.,1.7526,95.70799007,4.52,85.09,23,304.8,7.07,4.35,NA,31.15893327,offense,backs_receivers,RB,No
+2013,Montel Harris,23,Temple,1.7272,94.34721296,4.68,82.55,19,287.02,6.95,4.18,NA,31.62596725,offense,backs_receivers,RB,No
+2013,Josh Hubner,21,Arizona St.,1.9304,105.2334298,5.06,NA,13,NA,NA,NA,NA,28.23963686,special_teams,kicking_specialist,P,No
+2013,Luke Ingram,22,Hawaii,1.9558,117.0268315,5.05,NA,24,269.24,NA,NA,NA,30.59402118,special_teams,other_special,LS,No
+2013,Mark Jackson,24,Glenville State,1.9558,148.7782974,5.65,52.07,20,231.14,8.07,5.03,NA,38.8947246,offense,offensive_lineman,OG,No
+2013,Stefphon Jefferson,21,Nevada,1.778,96.61517481,4.68,78.74,15,297.18,6.97,4.44,NA,30.56200418,offense,backs_receivers,RB,No
+2013,P.J. Lonergan,22,LSU,1.905,137.8920805,5.38,NA,25,NA,NA,NA,NA,37.99700484,offense,offensive_lineman,C,No
+2013,Philip Lutzenkirchen,21,Auburn,1.905,117.0268315,4.94,77.47,21,284.48,7.15,4.35,NA,32.24745805,offense,backs_receivers,TE,No
+2013,Joe Madsen,23,West Virginia,1.905,140.6136347,5.2,63.5,25,248.92,7.6,4.83,NA,38.74694572,offense,offensive_lineman,C,No
+2013,Brad McDougald,22,Kansas,1.8288,97.52235955,4.51,87.63,19,309.88,7.07,4.44,NA,29.15894283,defense,defensive_back,FS,No
+2013,Greg Reid,22,Florida St.,1.7272,86.1825503,4.46,NA,10,NA,NA,NA,NA,28.8891047,defense,defensive_back,CB,No
+2013,Robbie Rouse,22,Fresno St.,1.6764,86.1825503,4.8,86.36,15,289.56,6.97,4.25,NA,30.66648763,offense,backs_receivers,RB,No
+2013,Matt Stankiewitch,23,Penn St.,1.905,136.9848957,5.43,60.96,27,233.68,7.9,4.96,NA,37.74702454,offense,offensive_lineman,C,No
 2014,Kerry Wynn\WynnKe00,23,Richmond,1.9558,120.6555704,4.97,86.36,31,287.02,NA,NA,NA,31.542673,defense,defensive_lineman,DE,No
 2014,Albert Wilson\WilsAl02,21,Georgia St.,1.7526,91.62565874,4.43,95.25,10,312.42,7,4.21,NA,29.82987925,offense,backs_receivers,WR,No
 2014,Damien Williams\WillDa05,21,Oklahoma,1.8034,100.6975061,4.45,90.17,16,307.34,7.37,4.25,NA,30.96239768,offense,backs_receivers,RB,No
@@ -2827,7 +2827,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,James Stone\StonJa02,21,Tennessee,1.9304,138.7992652,5.17,69.85,22,266.7,8.16,4.63,NA,37.24710723,offense,offensive_lineman,C,No
 2014,Josh Stewart\StewJo04,21,Oklahoma St.,1.778,80.73944186,4.69,88.9,11,297.18,7.1,4.33,NA,25.54007861,offense,backs_receivers,WR,No
 2014,Anthony Steen\SteeAn00,23,Alabama,1.905,142.4280042,5.33,NA,NA,NA,NA,NA,NA,39.24690631,offense,offensive_lineman,OG,No
-2014,Daniel Sorensen\SoreDa00,NA,BYU,1.8542,92.98643585,4.67,81.28,13,289.56,6.47,3.95,NA,27.04621202,defense,defensive_back,SS,No
+2014,Daniel Sorensen\SoreDa00,23,BYU,1.8542,92.98643585,4.67,81.28,13,289.56,6.47,3.95,NA,27.04621202,defense,defensive_back,SS,No
 2014,Willie Snead\SneaWi00,21,Ball St.,1.8034,88.45051215,4.62,85.09,11,287.02,7.19,4.39,NA,27.19670066,offense,backs_receivers,WR,No
 2014,Jerome Smith\SmitJe02,22,Syracuse,1.8034,99.7903214,4.84,91.44,14,299.72,7.53,4.6,NA,30.68345716,offense,backs_receivers,RB,No
 2014,Shayne Skov\SkovSh00,23,Stanford,1.8796,111.1301307,5.09,NA,NA,NA,NA,NA,NA,31.45581574,defense,line_backer,ILB,No
@@ -2839,9 +2839,9 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,Bryn Renner\RennBr01,24,North Carolina,1.905,103.4190604,4.87,64.77,NA,274.32,7.22,4.3,NA,28.49775363,offense,backs_receivers,QB,No
 2014,Silas Redd\ReddSi00,22,USC,1.778,96.16158244,4.7,93.98,18,309.88,NA,NA,NA,30.41852059,offense,backs_receivers,RB,No
 2014,Kelcy Quarles\QuarKe01,22,South Carolina,1.9304,134.7169339,5.03,59.69,27,259.08,NA,NA,NA,36.15160408,defense,defensive_lineman,DT,No
-2014,Loucheiz Purifoy\PuriLo00,NA,Florida,1.8034,86.1825503,4.61,90.17,6,304.8,NA,NA,NA,26.49934936,defense,defensive_back,CB,No
+2014,Loucheiz Purifoy\PuriLo00,21,Florida,1.8034,86.1825503,4.61,90.17,6,304.8,NA,NA,NA,26.49934936,defense,defensive_back,CB,No
 2014,LaDarius Perkins\PerkLa00,23,Mississippi St.,1.7018,88.45051215,4.46,90.17,23,314.96,7.08,4.3,NA,30.54100424,offense,backs_receivers,RB,No
-2014,Jacob Pedersen\PedeJa00,NA,Wisconsin,1.905,107.9549841,4.82,72.39,NA,281.94,7.55,4.4,NA,29.7476551,offense,backs_receivers,TE,No
+2014,Jacob Pedersen\PedeJa00,22,Wisconsin,1.905,107.9549841,4.82,72.39,NA,281.94,7.55,4.4,NA,29.7476551,offense,backs_receivers,TE,No
 2014,Matt Patchan\PatcMa01,23,Boston Col.,1.9812,136.9848957,4.97,85.09,22,NA,NA,NA,NA,34.89924606,offense,offensive_lineman,OT,No
 2014,Tenny Palepoi\PaleTe00,23,Utah,1.8542,135.1705263,5.1,77.47,31,281.94,7.67,4.53,NA,39.31595698,defense,defensive_lineman,DT,No
 2014,Jordan Najvar\NajvJo01,23,Baylor,1.9812,116.1196467,4.93,82.55,18,284.48,7.14,4.47,NA,29.58346686,offense,backs_receivers,TE,No
@@ -2850,8 +2850,8 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,James Morris\MorrJa01,22,Iowa,1.8542,109.3157612,4.8,87.63,18,297.18,6.94,4.36,NA,31.79579071,defense,line_backer,ILB,No
 2014,Tevin Mims\MimsTe00,NA,South Florida,1.9304,117.9340162,4.95,69.85,17,276.86,NA,NA,NA,31.64786889,defense,defensive_lineman,DE,No
 2014,Josh Mauro\MaurJo00,23,Stanford,1.9812,122.9235323,5.21,81.28,21,294.64,7.43,4.51,NA,31.31687312,defense,defensive_lineman,DE,No
-2014,Eathyn Manumaleuna\ManuEa00,NA,BYU,1.8796,134.2633415,5.16,71.12,29,256.54,7.78,4.61,NA,38.00376106,defense,defensive_lineman,DT,No
-2014,Cody Mandell\MandCo01,NA,Alabama,1.8796,97.97595192,4.89,68.58,NA,276.86,NA,NA,NA,27.73247429,special_teams,kicking_specialist,P,No
+2014,Eathyn Manumaleuna\ManuEa00,25,BYU,1.8796,134.2633415,5.16,71.12,29,256.54,7.78,4.61,NA,38.00376106,defense,defensive_lineman,DT,No
+2014,Cody Mandell\MandCo01,21,Alabama,1.8796,97.97595192,4.89,68.58,NA,276.86,NA,NA,NA,27.73247429,special_teams,kicking_specialist,P,No
 2014,Jordan Lynch\LyncJo01,23,Northern Illinois,1.8288,98.42954429,4.76,74.93,NA,276.86,6.55,4.2,NA,29.43018881,offense,backs_receivers,QB,No
 2014,Colt Lyerla\LyerCo00,21,Oregon,1.9304,109.7693535,4.61,99.06,15,325.12,NA,NA,NA,29.45686258,offense,backs_receivers,TE,No
 2014,Marcus Lucas\LucaMa01,22,Missouri,1.9304,98.88313666,4.6,91.44,20,314.96,7.07,4.25,NA,26.53552084,offense,backs_receivers,WR,No
@@ -2863,7 +2863,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,Kenny Ladler\LadlKe00,21,Vanderbilt,1.8288,93.89362059,4.7,92.71,24,322.58,NA,NA,NA,28.07395891,defense,defensive_back,FS,No
 2014,Zach Kerr\KerrZa00,23,Tennessee,1.8542,147.8711126,5.06,72.39,28,251.46,7.93,4.71,NA,43.01007374,defense,defensive_lineman,DT,No
 2014,Henry Josey\JoseHe00,22,Missouri,1.7272,87.99691978,4.43,87.63,20,299.72,7.07,4.13,NA,29.49729638,offense,backs_receivers,RB,No
-2014,Reggie Jordan\JordRe00,NA,Missouri Western St.,1.905,108.8621688,4.77,76.2,24,294.64,7.22,4.3,NA,29.9976354,offense,backs_receivers,FB,No
+2014,Reggie Jordan\JordRe00,23,Missouri Western St.,1.905,108.8621688,4.77,76.2,24,294.64,7.22,4.3,NA,29.9976354,offense,backs_receivers,FB,No
 2014,T.J. Jones\JoneTJ00,21,Notre Dame,1.8288,85.27536556,4.46,83.82,NA,302.26,6.82,4.27,NA,25.4971221,offense,backs_receivers,WR,No
 2014,Howard Jones\JoneHo01,24,Shepherd,1.8796,106.594207,4.6,102.87,21,314.96,7.16,4.41,NA,30.1719049,defense,line_backer,OLB,No
 2014,Christian Jones\JoneCh05,23,Florida St.,1.905,108.8621688,4.68,85.09,NA,292.1,NA,NA,NA,29.9976354,defense,line_backer,OLB,No
@@ -2876,8 +2876,8 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,James Hurst\HursJa00,22,North Carolina,1.9558,134.2633415,5.59,NA,NA,NA,NA,NA,NA,35.10011732,offense,offensive_lineman,OT,No
 2014,Allen Hurns\HurnAl01,22,Miami (FL),1.8542,89.81128926,4.55,78.74,14,304.8,7.23,4.5,NA,26.12268282,offense,backs_receivers,WR,No
 2014,Adrian Hubbard\HubbAd00,22,Alabama,1.9812,116.5732391,4.69,97.79,NA,297.18,NA,NA,NA,29.69902728,defense,line_backer,OLB,No
-2014,Tom Hornsey\HornTo01,NA,Memphis,1.905,100.2439138,5.05,NA,NA,NA,NA,NA,NA,27.6228226,special_teams,kicking_specialist,P,No
-2014,Cody Hoffman\HoffCo00,NA,BYU,1.9304,101.1510985,4.65,69.85,13,274.32,6.89,4.2,NA,27.1441337,offense,backs_receivers,WR,No
+2014,Tom Hornsey\HornTo01,25,Memphis,1.905,100.2439138,5.05,NA,NA,NA,NA,NA,NA,27.6228226,special_teams,kicking_specialist,P,No
+2014,Cody Hoffman\HoffCo00,22,BYU,1.9304,101.1510985,4.65,69.85,13,274.32,6.89,4.2,NA,27.1441337,offense,backs_receivers,WR,No
 2014,Ryan Hewitt\HewiRy00,23,Stanford,1.9304,111.583723,4.87,83.82,NA,276.86,7.04,4.35,NA,29.94375287,offense,backs_receivers,FB,No
 2014,Jonotthan Harrison\HarrJo03,22,Florida,1.905,137.8920805,5.15,68.58,27,287.02,7.97,4.86,NA,37.99700484,offense,offensive_lineman,C,No
 2014,Victor Hampton\HampVi00,21,South Carolina,1.7526,89.35769689,4.69,85.09,20,299.72,7.01,4.2,NA,29.0915159,defense,defensive_back,CB,No
@@ -2889,16 +2889,16 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,David Fluellen\FlueDa00,22,Toledo,1.8034,101.6046909,4.72,92.71,NA,304.8,6.9,NA,NA,31.2413382,offense,backs_receivers,RB,No
 2014,Matt Feiler\FeilMa00,21,Bloomsburg,1.9812,149.6854821,5.37,67.31,36,261.62,8.13,4.86,NA,38.13493775,offense,offensive_lineman,OT,No
 2014,Kasim Edebali\EdebKa00,24,Boston Col.,1.8796,114.7588696,4.79,87.63,19,292.1,7.2,4.35,NA,32.48294442,defense,line_backer,OLB,No
-2014,Mike Davis\DaviMi00,NA,Texas,1.8288,89.35769689,4.52,NA,10,NA,NA,NA,NA,26.71772901,offense,backs_receivers,WR,No
+2014,Mike Davis\DaviMi00,21,Texas,1.8288,89.35769689,4.52,NA,10,NA,NA,NA,NA,26.71772901,offense,backs_receivers,WR,No
 2014,Chris Davis\DaviCh05,23,Auburn,1.778,91.62565874,4.54,NA,15,NA,NA,NA,NA,28.98368471,defense,defensive_back,CB,No
 2014,Isaiah Crowell\CrowIs00,21,Arkansas,1.8034,101.6046909,4.57,96.52,23,297.18,NA,NA,NA,31.2413382,offense,backs_receivers,RB,No
-2014,Tim Cornett\CornTi00,NA,UNLV,1.8288,94.80080533,4.48,87.63,NA,317.5,7.01,4.26,NA,28.34520489,offense,backs_receivers,RB,No
+2014,Tim Cornett\CornTi00,21,UNLV,1.8288,94.80080533,4.48,87.63,NA,317.5,7.01,4.26,NA,28.34520489,offense,backs_receivers,RB,No
 2014,J.C. Copeland\CopeJ.00,22,LSU,1.8034,122.9235323,4.95,72.39,23,281.94,7.68,4.58,NA,37.79644041,offense,backs_receivers,FB,No
 2014,Damian Copeland\CopeDa00,23,Louisville,1.8034,83.46099608,4.5,101.6,12,304.8,6.53,3.9,NA,25.6625278,offense,backs_receivers,WR,No
 2014,Kain Colter\ColtKa00,23,Northwestern,1.778,89.81128926,4.71,NA,NA,NA,NA,NA,NA,28.40975036,offense,backs_receivers,WR,No
 2014,Deandre Coleman\ColeDe01,23,California,1.9558,142.4280042,5.12,NA,24,NA,NA,NA,NA,37.23458391,defense,defensive_lineman,DT,No
 2014,Brandon Coleman\ColeBr00,21,Rutgers,1.9812,102.0582833,4.56,82.55,21,NA,7.33,4.51,NA,26.00109392,offense,backs_receivers,WR,No
-2014,Steven Clark\ClarSt00,NA,Auburn,1.9558,104.7798375,5.18,NA,NA,NA,NA,NA,NA,27.39232129,special_teams,kicking_specialist,P,No
+2014,Steven Clark\ClarSt00,22,Auburn,1.9558,104.7798375,5.18,NA,NA,NA,NA,NA,NA,27.39232129,special_teams,kicking_specialist,P,No
 2014,Trey Burton\BurtTr01,22,Florida,1.8796,101.6046909,4.62,76.2,NA,284.48,7.14,4.32,NA,28.75960297,offense,backs_receivers,WR,No
 2014,Isaiah Burse\BursIs01,22,Fresno St.,1.778,85.27536556,4.58,78.74,16,292.1,6.74,3.94,NA,26.97491448,offense,backs_receivers,WR,No
 2014,Max Bullough\BullMa00,22,Michigan St.,1.905,112.9445001,4.78,78.74,30,284.48,7.22,4.3,NA,31.12254673,defense,line_backer,ILB,No
@@ -2912,41 +2912,41 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,Dion Bailey\BailDi00,22,USC,1.8288,91.17206637,4.66,86.36,NA,287.02,6.97,4.15,NA,27.26022097,defense,defensive_back,FS,No
 2014,George Atkinson\AtkiGe01,21,Notre Dame,1.8542,98.88313666,4.48,96.52,19,307.34,7.07,4.46,NA,28.76133766,offense,backs_receivers,RB,No
 2014,Antonio Andrews\AndrAn00,21,Western Kentucky,1.778,102.0582833,4.82,74.93,20,269.24,7.24,4.49,NA,32.28380723,offense,backs_receivers,RB,No
-2014,Todd Washington,NA,SE Louisiana,1.8034,88.90410452,4.57,NA,13,NA,NA,NA,NA,27.33617092,defense,defensive_back,CB,No
-2014,Uani' Unga,NA,BYU,1.8542,104.7798375,4.82,NA,NA,NA,NA,NA,NA,30.4764633,defense,line_backer,ILB,No
-2014,D.J. Tialavea,NA,Utah St.,1.905,121.1091628,4.95,NA,NA,NA,NA,NA,NA,33.37236938,offense,backs_receivers,TE,No
+2014,Todd Washington,21,SE Louisiana,1.8034,88.90410452,4.57,NA,13,NA,NA,NA,NA,27.33617092,defense,defensive_back,CB,No
+2014,Uani' Unga,26,BYU,1.8542,104.7798375,4.82,NA,NA,NA,NA,NA,NA,30.4764633,defense,line_backer,ILB,No
+2014,D.J. Tialavea,22,Utah St.,1.905,121.1091628,4.95,NA,NA,NA,NA,NA,NA,33.37236938,offense,backs_receivers,TE,No
 2014,Matt Armstrong,NA,Grand Valley St.,1.8796,136.9848957,5.18,NA,NA,NA,NA,NA,NA,38.77410757,offense,offensive_lineman,C,No
-2014,A.D. Denham,NA,Kansas,1.9304,106.594207,4.69,82.55,NA,NA,NA,NA,NA,28.60480457,offense,backs_receivers,TE,No
-2014,Joe Don Duncan,NA,Dixie State,1.905,121.5627552,4.79,NA,35,NA,NA,NA,NA,33.49735953,offense,backs_receivers,TE,No
-2014,Anthony Fera,NA,Texas,1.8542,95.70799007,4.85,NA,NA,NA,NA,NA,NA,27.83780846,special_teams,kicking_specialist,K,No
-2014,Tim Flanders,NA,SMU,1.7526,93.89362059,4.75,81.28,20,287.02,7.07,NA,NA,30.56824259,offense,backs_receivers,RB,No
-2014,Marcus Heit,NA,Kansas St.,1.905,117.0268315,4.91,73.66,NA,292.1,NA,NA,NA,32.24745805,special_teams,other_special,LS,No
-2014,Tyler Larsen,NA,Utah St.,1.9304,141.9744118,5.17,59.69,36,259.08,8.22,4.7,NA,38.09916524,offense,offensive_lineman,C,No
-2014,A.C. Leonard,NA,Tennessee St.,1.8796,114.3052772,4.5,86.36,20,325.12,NA,NA,NA,32.35455334,offense,backs_receivers,TE,No
-2014,Jeff Mathews,NA,Cornell,1.9304,101.1510985,5.26,64.77,NA,266.7,7.14,4.36,NA,27.1441337,offense,backs_receivers,QB,No
-2014,Adam Muema,NA,San Diego St.,1.778,91.62565874,4.56,NA,NA,NA,NA,NA,NA,28.98368471,offense,backs_receivers,RB,No
+2014,A.D. Denham,22,Utah,1.9304,106.594207,4.69,82.55,NA,NA,NA,NA,NA,28.60480457,offense,backs_receivers,TE,No
+2014,Joe Don Duncan,23,Dixie State,1.905,121.5627552,4.79,NA,35,NA,NA,NA,NA,33.49735953,offense,backs_receivers,TE,No
+2014,Anthony Fera,22,Texas,1.8542,95.70799007,4.85,NA,NA,NA,NA,NA,NA,27.83780846,special_teams,kicking_specialist,K,No
+2014,Tim Flanders,22,Sam Houston St.,1.7526,93.89362059,4.75,81.28,20,287.02,7.07,NA,NA,30.56824259,offense,backs_receivers,RB,No
+2014,Marcus Heit,23,Kansas St.,1.905,117.0268315,4.91,73.66,NA,292.1,NA,NA,NA,32.24745805,special_teams,other_special,LS,No
+2014,Tyler Larsen,22,Utah St.,1.9304,141.9744118,5.17,59.69,36,259.08,8.22,4.7,NA,38.09916524,offense,offensive_lineman,C,No
+2014,A.C. Leonard,22,Tennessee St.,1.8796,114.3052772,4.5,86.36,20,325.12,NA,NA,NA,32.35455334,offense,backs_receivers,TE,No
+2014,Jeff Mathews,22,Cornell,1.9304,101.1510985,5.26,64.77,NA,266.7,7.14,4.36,NA,27.1441337,offense,backs_receivers,QB,No
+2014,Adam Muema,21,San Diego St.,1.778,91.62565874,4.56,NA,NA,NA,NA,NA,NA,28.98368471,offense,backs_receivers,RB,No
 2015,Cam Worthy\WortCa00,22,East Carolina,1.8796,95.70799007,4.59,NA,12,NA,NA,NA,NA,27.09051887,offense,backs_receivers,WR,No
 2015,Julian Wilson\WilsJu00,23,Oklahoma,1.8796,92.98643585,4.58,91.44,NA,317.5,6.94,4.22,NA,26.32017236,defense,defensive_back,CB,No
 2015,Trey Williams\WillTr03,22,Texas A&M,1.7018,88.45051215,4.49,85.09,18,302.26,6.84,4.12,NA,30.54100424,offense,backs_receivers,RB,No
 2015,Kevin White\WhitKe01,NA,TCU,1.7526,83.00740371,4.63,90.17,18,307.34,NA,NA,NA,27.02409852,defense,defensive_back,CB,No
 2015,Jermaine Whitehead\WhitJe02,21,Auburn,1.8034,89.35769689,4.59,93.98,15,325.12,6.95,4.11,NA,27.47564118,defense,defensive_back,FS,No
 2015,DeAndrew White\WhitDe01,23,Alabama,1.8034,87.54332741,4.44,87.63,NA,299.72,6.97,4.18,NA,26.91776014,offense,backs_receivers,WR,No
-2015,Tony Washington\WashTo01,NA,Oregon,1.9304,112.0373154,4.99,82.55,17,279.4,7.2,4.31,NA,30.06547545,defense,line_backer,OLB,No
+2015,Tony Washington\WashTo01,22,Oregon,1.9304,112.0373154,4.99,82.55,17,279.4,7.2,4.31,NA,30.06547545,defense,line_backer,OLB,No
 2015,Louis Trinca-Pasat\TrinLo01,23,Iowa,1.8542,131.5417873,4.96,81.28,NA,266.7,7.4,4.3,NA,38.26049505,defense,defensive_lineman,DT,No
 2015,Eric Tomlinson\TomlEr01,22,Texas-El Paso,1.9812,119.2947933,4.98,77.47,19,279.4,7.46,4.54,NA,30.39238978,offense,backs_receivers,TE,No
 2015,J.R. Tavai\TavaJ.00,21,USC,1.8796,112.9445001,4.91,77.47,20,284.48,NA,NA,NA,31.96938008,defense,line_backer,OLB,No
 2015,J.T. Surratt\SurrJ.00,22,South Carolina,1.8542,137.8920805,5.19,76.2,29,269.24,7.78,4.71,NA,40.10755343,defense,defensive_lineman,DT,No
 2015,Blake Sims\SimsBl01,22,Alabama,1.8034,98.88313666,4.57,77.47,NA,292.1,NA,NA,NA,30.40451664,offense,backs_receivers,QB,No
-2015,Jean Sifrin\SifrJe00,NA,Massachusetts,1.9558,111.1301307,4.84,83.82,NA,289.56,7.5,4.6,NA,29.05246197,offense,backs_receivers,TE,No
+2015,Jean Sifrin\SifrJe00,27,Massachusetts,1.9558,111.1301307,4.84,83.82,NA,289.56,7.5,4.6,NA,29.05246197,offense,backs_receivers,TE,No
 2015,Wes Saxton\SaxtWe01,21,South Alabama,1.905,112.4909078,4.65,91.44,NA,302.26,7.29,4.49,NA,30.99755658,offense,backs_receivers,TE,No
 2015,Ezell Ruffin\RuffEz00,22,San Diego St.,1.8288,98.88313666,4.68,69.85,17,279.4,7.35,4.58,NA,29.5658118,offense,backs_receivers,WR,No
 2015,Spencer Roth\RothSp00,21,Baylor,1.9304,102.965468,5.06,NA,NA,NA,NA,NA,NA,27.63102399,special_teams,kicking_specialist,P,No
-2015,Jared Roberts\RobeJa01,NA,Colorado St.,1.8288,95.2543977,5.02,NA,NA,NA,NA,NA,NA,28.48082788,special_teams,kicking_specialist,K,No
+2015,Jared Roberts\RobeJa01,22,Colorado St.,1.8288,95.2543977,5.02,NA,NA,NA,NA,NA,NA,28.48082788,special_teams,kicking_specialist,K,No
 2015,Bobby Richardson\RichBo00,22,Indiana,1.905,128.3666407,5.16,82.55,NA,269.24,7.57,4.41,NA,35.37221174,defense,defensive_lineman,DT,No
-2015,Cedric Reed\ReedCe00,NA,Texas,1.9558,122.0163475,4.89,NA,22,NA,NA,NA,NA,31.89841743,defense,defensive_lineman,DE,No
+2015,Cedric Reed\ReedCe00,22,Texas,1.9558,122.0163475,4.89,NA,22,NA,NA,NA,NA,31.89841743,defense,defensive_lineman,DE,No
 2015,Thomas Rawls\RawlTh00,21,Central Michigan,1.7526,97.52235955,4.65,90.17,15,294.64,NA,NA,NA,31.74962395,offense,backs_receivers,RB,No
 2015,Cody Prewitt\PrewCo00,22,Mississippi,1.8796,94.34721296,4.6,88.9,11,317.5,7.12,4.23,NA,26.70534561,defense,defensive_back,FS,No
-2015,Garry Peters\PeteGa00,NA,Clemson,1.8288,86.63614267,4.61,82.55,7,302.26,6.8,4,NA,25.90399107,defense,defensive_back,CB,No
+2015,Garry Peters\PeteGa00,23,Clemson,1.8288,86.63614267,4.61,82.55,7,302.26,6.8,4,NA,25.90399107,defense,defensive_back,CB,No
 2015,Trevor Pardula\PardTr00,NA,Kansas,1.9304,102.965468,5.12,NA,NA,NA,NA,NA,NA,27.63102399,special_teams,kicking_specialist,P,No
 2015,Leon Orr\OrrxLe00,23,Florida,1.9558,146.5103355,5.16,71.12,NA,254,8.26,4.9,NA,38.30181721,defense,defensive_lineman,DT,No
 2015,Darrian Miller\MillDa00,21,Kentucky,1.9558,139.2528576,5.51,63.5,NA,246.38,7.91,4.87,NA,36.40451357,offense,offensive_lineman,OT,No
@@ -2958,94 +2958,94 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2015,Justin Manton\MantJu00,22,La-Monroe,1.905,88.90410452,4.93,NA,NA,NA,NA,NA,NA,24.49806891,special_teams,kicking_specialist,K,No
 2015,Greg Mancz\MancGr00,22,Toledo,1.9304,136.5313034,5.08,NA,NA,NA,NA,NA,NA,36.63849437,offense,offensive_lineman,C,No
 2015,Terrence Magee\MageTe00,21,LSU,1.7272,96.61517481,4.62,93.98,22,292.1,7.52,4.37,NA,32.38620685,offense,backs_receivers,RB,No
-2015,Deon Long\LongDe00,NA,Maryland,1.8288,87.08973504,4.51,86.36,12,304.8,6.98,4.27,NA,26.03961406,offense,backs_receivers,WR,No
+2015,Deon Long\LongDe00,23,Maryland,1.8288,87.08973504,4.51,86.36,12,304.8,6.98,4.27,NA,26.03961406,offense,backs_receivers,WR,No
 2015,Josh Lambo\LambJo00,24,Texas A&M,1.8288,97.97595192,5.16,NA,NA,NA,NA,NA,NA,29.29456582,special_teams,kicking_specialist,K,No
 2015,Taiwan Jones\JoneTa01,21,Michigan St.,1.905,111.1301307,4.95,81.28,19,292.1,7.25,4.33,NA,30.62258614,defense,line_backer,ILB,No
 2015,Will Johnson\JohnWi01,NA,Texas St.,1.8796,93.44002822,5.02,NA,NA,NA,NA,NA,NA,26.44856344,special_teams,kicking_specialist,P,No
-2015,Anthony Jefferson\JeffAn00,NA,UCLA,1.8542,89.81128926,4.72,85.09,15,294.64,7.18,4.15,NA,26.12268282,defense,defensive_back,SS,No
+2015,Anthony Jefferson\JeffAn00,22,UCLA,1.8542,89.81128926,4.72,85.09,15,294.64,7.18,4.15,NA,26.12268282,defense,defensive_back,SS,No
 2015,Mike Hull\HullMi01,23,Penn St.,1.8288,107.5013917,4.68,NA,31,NA,6.99,4.15,NA,32.14264861,defense,line_backer,OLB,No
 2015,Troy Hill\HillTr01,23,Oregon,1.778,81.6466266,4.55,82.55,NA,304.8,6.81,4.21,NA,25.82704578,defense,defensive_back,CB,No
-2015,Sean Hickey\HickSe00,NA,Syracuse,1.9558,140.1600423,5.39,NA,35,NA,NA,NA,NA,36.64167652,offense,offensive_lineman,OT,No
-2015,Dee Hart\HartDe00,NA,Colorado St.,1.7018,90.26488163,4.8,83.82,NA,287.02,7.2,4.38,NA,31.16748638,offense,backs_receivers,RB,No
-2015,Anthony Harris\HarrAn00,NA,Virginia,1.8542,83.00740371,4.56,NA,NA,NA,NA,NA,NA,24.1436917,defense,defensive_back,FS,No
-2015,Josh Harper\HarpJo00,NA,Fresno St.,1.8542,86.63614267,4.64,81.28,13,274.32,7.15,4.36,NA,25.19915363,offense,backs_receivers,WR,No
+2015,Sean Hickey\HickSe00,23,Syracuse,1.9558,140.1600423,5.39,NA,35,NA,NA,NA,NA,36.64167652,offense,offensive_lineman,OT,No
+2015,Dee Hart\HartDe00,22,Colorado St.,1.7018,90.26488163,4.8,83.82,NA,287.02,7.2,4.38,NA,31.16748638,offense,backs_receivers,RB,No
+2015,Anthony Harris\HarrAn00,23,Virginia,1.8542,83.00740371,4.56,NA,NA,NA,NA,NA,NA,24.1436917,defense,defensive_back,FS,No
+2015,Josh Harper\HarpJo00,23,Fresno St.,1.8542,86.63614267,4.64,81.28,13,274.32,7.15,4.36,NA,25.19915363,offense,backs_receivers,WR,No
 2015,Rannell Hall\HallRa02,22,Central Florida,1.8288,89.81128926,4.6,104.14,16,335.28,6.86,4.15,NA,26.853352,offense,backs_receivers,WR,No
-2015,Connor Halliday\HallCo00,NA,Washington St.,1.905,92.53284348,4.87,NA,NA,NA,NA,NA,NA,25.49799009,offense,backs_receivers,QB,No
-2015,Chris Hackett\HackCh00,NA,TCU,1.8288,88.45051215,4.81,81.28,NA,279.4,7.12,4.2,NA,26.44648303,defense,defensive_back,FS,No
+2015,Connor Halliday\HallCo00,22,Washington St.,1.905,92.53284348,4.87,NA,NA,NA,NA,NA,NA,25.49799009,offense,backs_receivers,QB,No
+2015,Chris Hackett\HackCh00,21,TCU,1.8288,88.45051215,4.81,81.28,NA,279.4,7.12,4.2,NA,26.44648303,defense,defensive_back,FS,No
 2015,Ladarius Gunter\GuntLa00,22,Miami (FL),1.8542,91.62565874,4.62,85.09,12,274.32,7.18,4.41,NA,26.65041379,defense,defensive_back,FS,No
 2015,Antwan Goodley\GoodAn01,23,Baylor,1.778,94.80080533,4.44,NA,NA,NA,NA,NA,NA,29.98806983,offense,backs_receivers,WR,No
 2015,Jacoby Glenn\GlenJa01,21,Central Florida,1.8288,81.19303423,4.64,86.36,NA,312.42,6.97,4.26,NA,24.27651519,defense,defensive_back,CB,No
 2015,Alani Fua\FuaxAl00,23,BYU,1.9558,107.9549841,4.73,87.63,18,299.72,6.83,4.15,NA,28.22239163,defense,line_backer,OLB,No
 2015,Sam Ficken\FickSa00,22,Penn St.,1.8542,86.63614267,5.06,NA,NA,NA,NA,NA,NA,25.19915363,special_teams,kicking_specialist,K,No
 2015,Cody Fajardo\FajaCo00,22,Nevada,1.8542,101.1510985,4.63,82.55,NA,299.72,6.95,4.1,NA,29.42100136,offense,backs_receivers,QB,No
-2015,Durell Eskridge\EskrDu00,NA,Syracuse,1.905,94.34721296,4.56,78.74,NA,297.18,7.09,4.26,NA,25.99795068,defense,defensive_back,FS,No
+2015,Durell Eskridge\EskrDu00,23,Syracuse,1.905,94.34721296,4.56,78.74,NA,297.18,7.09,4.26,NA,25.99795068,defense,defensive_back,FS,No
 2015,Jahwan Edwards\EdwaJa00,22,Ball St.,1.7526,99.7903214,4.8,90.17,16,297.18,7.63,4.5,NA,32.4879873,offense,backs_receivers,RB,No
 2015,Michael Dyer\DyerMi00,24,Louisville,1.7272,98.88313666,4.58,86.36,26,304.8,NA,NA,NA,33.14644645,offense,backs_receivers,RB,No
 2015,Kurtis Drummond\DrumKu01,23,Michigan St.,1.8542,94.34721296,4.65,100.33,NA,302.26,7.09,4.33,NA,27.44201024,defense,defensive_back,FS,No
 2015,Reese Dismukes\DismRe01,22,Auburn,1.905,134.2633415,5.31,69.85,23,271.78,8.14,4.7,NA,36.99708366,offense,offensive_lineman,C,No
-2015,Trey DePriest\DePrTr00,NA,Alabama,1.8288,115.212462,4.93,NA,NA,NA,NA,NA,NA,34.44823944,defense,line_backer,ILB,No
+2015,Trey DePriest\DePrTr00,21,Alabama,1.8288,115.212462,4.93,NA,NA,NA,NA,NA,NA,34.44823944,defense,line_backer,ILB,No
 2015,Ryan Delaire\DelaRy00,23,Towson,1.9304,115.212462,4.97,NA,23,NA,NA,NA,NA,30.91753345,defense,defensive_lineman,DE,No
-2015,Titus Davis\DaviTi00,NA,Central Michigan,1.8542,88.90410452,4.51,82.55,NA,302.26,7.14,4.28,NA,25.85881734,offense,backs_receivers,WR,No
+2015,Titus Davis\DaviTi00,22,Central Michigan,1.8542,88.90410452,4.51,82.55,NA,302.26,7.14,4.28,NA,25.85881734,offense,backs_receivers,WR,No
 2015,Aaron Davis\DaviAa00,21,Colorado St.,1.8288,102.0582833,4.95,73.66,16,271.78,7.38,4.37,NA,30.51517273,defense,line_backer,OLB,No
 2015,John Crockett\CrocJo00,23,North Dakota St.,1.8288,98.42954429,4.62,101.6,15,317.5,7.15,4.25,NA,29.43018881,offense,backs_receivers,RB,No
 2015,Corey Crawford\CrawCo00,23,Clemson,1.9558,135.6241186,5.01,83.82,NA,279.4,7.64,4.65,NA,35.45586175,defense,defensive_lineman,DE,No
-2015,Justin Cox\CoxxJu00,NA,Mississippi St.,1.8542,86.63614267,4.36,96.52,15,327.66,7.05,4.07,NA,25.19915363,defense,defensive_back,CB,No
+2015,Justin Cox\CoxxJu00,22,Mississippi St.,1.8542,86.63614267,4.36,96.52,15,327.66,7.05,4.07,NA,25.19915363,defense,defensive_back,CB,No
 2015,La'el Collins\CollLa01,21,LSU,1.9304,138.3456729,5.1,68.58,21,274.32,7.7,4.63,NA,37.12538466,offense,offensive_lineman,OT,No
 2015,Justin Coleman\ColeJu01,21,Tennessee,1.8034,83.91458845,4.53,95.25,20,314.96,6.61,3.98,NA,25.80199806,defense,defensive_back,CB,No
-2015,Cameron Clear\CleaCa00,NA,Texas A&M,1.9558,125.6450865,4.98,81.28,NA,274.32,7.52,4.48,NA,32.84706925,offense,offensive_lineman,OT,No
-2015,Kyle Christy\ChriKy00,NA,Florida,1.8796,91.62565874,4.93,NA,NA,NA,NA,NA,NA,25.9349991,special_teams,kicking_specialist,P,No
-2015,Donald Celiscar\CeliDo00,NA,West. Michigan,1.8034,87.99691978,4.62,NA,NA,304.8,NA,NA,NA,27.0572304,defense,defensive_back,CB,No
+2015,Cameron Clear\CleaCa00,21,Texas A&M,1.9558,125.6450865,4.98,81.28,NA,274.32,7.52,4.48,NA,32.84706925,offense,offensive_lineman,OT,No
+2015,Kyle Christy\ChriKy00,22,Florida,1.8796,91.62565874,4.93,NA,NA,NA,NA,NA,NA,25.9349991,special_teams,kicking_specialist,P,No
+2015,Donald Celiscar\CeliDo00,23,West. Michigan,1.8034,87.99691978,4.62,NA,NA,304.8,NA,NA,NA,27.0572304,defense,defensive_back,CB,No
 2015,B.J. Catalon\CataB.00,NA,TCU,1.7018,84.36818082,4.57,91.44,NA,289.56,6.9,4.15,NA,29.13141943,offense,backs_receivers,RB,No
 2015,Shane Carden\CardSh00,23,East Carolina,1.8796,98.88313666,4.94,74.93,NA,264.16,7.17,4.45,NA,27.98925646,offense,backs_receivers,QB,No
 2015,Dominique Brown\BrowDo01,23,Louisville,1.8796,106.1406146,4.63,NA,17,NA,NA,NA,NA,30.04351381,offense,backs_receivers,RB,No
 2015,Kyle Brindza\BrinKy00,22,Notre Dame,1.8542,107.0477993,5.17,NA,14,NA,NA,NA,NA,31.136127,special_teams,kicking_specialist,K,No
 2015,Brandon Bridge\BridBr00,22,South Alabama,1.9304,103.8726527,4.72,83.82,NA,279.4,7.18,4.37,NA,27.87446914,offense,backs_receivers,QB,No
-2015,Anthony Boone\BoonAn00,NA,Duke,1.8288,104.7798375,5.03,67.31,NA,254,7.47,4.62,NA,31.32891067,offense,backs_receivers,QB,No
+2015,Anthony Boone\BoonAn00,23,Duke,1.8288,104.7798375,5.03,67.31,NA,254,7.47,4.62,NA,31.32891067,offense,backs_receivers,QB,No
 2015,Detrick Bonner\BonnDe00,23,Virginia Tech,1.8288,93.89362059,4.56,NA,15,NA,NA,NA,NA,28.07395891,defense,defensive_back,FS,No
 2015,Al Bond\BondAl00,23,Memphis,1.9304,137.4384881,5.57,59.69,22,228.6,7.9,4.65,NA,36.88193951,offense,offensive_lineman,OG,No
 2015,E.J. Bibbs\BibbE.00,23,Iowa St.,1.8796,117.0268315,4.88,NA,20,NA,NA,NA,NA,33.12489984,offense,backs_receivers,TE,No
 2015,Tavaris Barnes\BarnTa00,23,Clemson,1.9304,127.9130483,4.8,NA,22,NA,NA,NA,NA,34.32576549,defense,defensive_lineman,DE,No
 2015,Dres Anderson\AndeDr00,22,Utah,1.8542,84.82177319,4.54,NA,13,NA,NA,NA,NA,24.67142267,offense,backs_receivers,WR,No
-2015,Zach Zenner,NA,South Dakota St.,1.8034,101.1510985,4.6,104.14,25,307.34,7.08,4.14,NA,31.10186794,offense,backs_receivers,FB,No
-2015,Zack Wagenmann,NA,Montana,1.905,112.0373154,4.81,95.25,14,276.86,7.07,4.26,NA,30.87256643,defense,defensive_lineman,DE,No
-2015,Tyler Varga,NA,Yale,1.8034,100.6975061,4.69,NA,23,NA,NA,NA,NA,30.96239768,offense,backs_receivers,FB,No
-2015,Lynden Trail,NA,Norfolk St.,2.0066,122.0163475,4.91,82.55,24,297.18,7.32,4.48,NA,30.30375211,defense,defensive_lineman,DE,No
-2015,Adam Shead,NA,Oklahoma,1.9304,153.3142211,5.74,NA,26,NA,NA,NA,NA,41.14222956,offense,offensive_lineman,OG,No
-2015,Ross Scheuerman,NA,Lafayette,1.8288,92.53284348,4.62,83.82,15,307.34,7.08,4.11,NA,27.66708994,offense,backs_receivers,WR,No
+2015,Zach Zenner,23,South Dakota St.,1.8034,101.1510985,4.6,104.14,25,307.34,7.08,4.14,NA,31.10186794,offense,backs_receivers,FB,No
+2015,Zack Wagenmann,22,Montana,1.905,112.0373154,4.81,95.25,14,276.86,7.07,4.26,NA,30.87256643,defense,defensive_lineman,DE,No
+2015,Tyler Varga,21,Yale,1.8034,100.6975061,4.69,NA,23,NA,NA,NA,NA,30.96239768,offense,backs_receivers,FB,No
+2015,Lynden Trail,23,Norfolk St.,2.0066,122.0163475,4.91,82.55,24,297.18,7.32,4.48,NA,30.30375211,defense,defensive_lineman,DE,No
+2015,Adam Shead,23,Oklahoma,1.9304,153.3142211,5.74,NA,26,NA,NA,NA,NA,41.14222956,offense,offensive_lineman,OG,No
+2015,Ross Scheuerman,21,Lafayette,1.8288,92.53284348,4.62,83.82,15,307.34,7.08,4.11,NA,27.66708994,offense,backs_receivers,WR,No
 2015,Will Baumann,NA,Boise St.,1.9812,84.82177319,5.14,NA,NA,NA,NA,NA,NA,21.60979806,special_teams,kicking_specialist,P,No
-2015,Bryan Bennett,NA,SE Louisiana,1.8796,95.70799007,4.81,93.98,NA,317.5,7.13,4.2,NA,27.09051887,offense,backs_receivers,QB,No
-2015,Brett Boyko,NA,UNLV,2.0066,136.5313034,5.6,63.5,NA,261.62,7.91,4.75,NA,33.90865943,offense,offensive_lineman,OG,No
-2015,Malcolm Brown,NA,Texas,1.8034,101.6046909,4.62,87.63,19,297.18,6.86,4.15,NA,31.2413382,offense,backs_receivers,RB,No
-2015,Takoby Cofield,NA,Duke,1.9304,140.6136347,5.19,76.2,23,256.54,8.09,4.79,NA,37.73399752,offense,offensive_lineman,OT,No
-2015,Rob Crisp,NA,Boise St.,2.0066,136.5313034,5.26,82.55,26,271.78,8.07,4.6,NA,33.90865943,offense,offensive_lineman,OT,No
-2015,Yannick Cudjoe-Virgil,NA,Maryland,1.8796,112.4909078,4.8,NA,25,NA,NA,NA,NA,31.840989,defense,line_backer,OLB,No
-2015,DaVaris Daniels,NA,Notre Dame,1.8542,91.17206637,4.62,93.98,13,309.88,NA,NA,NA,26.51848105,offense,backs_receivers,WR,No
-2015,Devante Davis,NA,UNLV,1.905,99.7903214,4.57,90.17,16,292.1,7.25,4.12,NA,27.49783245,offense,backs_receivers,WR,No
-2015,AJ Derby,NA,Arkansas,1.9304,115.6660544,4.72,NA,15,NA,NA,NA,NA,31.03925603,offense,backs_receivers,TE,No
-2015,B.J. Finney,NA,Kansas St.,1.9304,144.2423737,5.25,60.96,20,251.46,NA,4.76,NA,38.7077781,offense,offensive_lineman,C,No
-2015,Dante Fowler,NA,Florida,1.905,118.3876086,4.6,82.55,19,284.48,7.4,4.32,NA,32.6224285,defense,line_backer,OLB,No
-2015,Chad Hamilton,NA,Coastal Carolina,1.8796,132.448972,4.97,NA,NA,NA,NA,NA,NA,37.49019672,offense,offensive_lineman,C,No
-2015,Braylon Heard,NA,Kentucky,1.778,89.81128926,4.63,77.47,19,294.64,7.19,4.4,NA,28.40975036,offense,backs_receivers,RB,No
-2015,Zack Hodges,NA,Harvard,1.8796,113.3980925,4.68,85.09,NA,317.5,NA,4.65,NA,32.09777117,defense,line_backer,OLB,No
-2015,Gus Johnson,NA,Stephen F. Austin,1.778,97.52235955,4.7,92.71,26,304.8,7.09,4.13,NA,30.84897135,offense,backs_receivers,RB,No
-2015,Chris Jones,NA,Alabama,1.778,82.55381134,4.63,82.55,8,302.26,6.91,4.19,NA,26.11401296,offense,backs_receivers,WR,No
-2015,Dez Lewis,NA,Central Arkansas,1.9304,97.06876718,4.58,85.09,16,302.26,7.11,4.28,NA,26.04863055,offense,backs_receivers,WR,No
-2015,Kyle Loomis,NA,Portland St.,1.8796,100.2439138,5.08,NA,NA,NA,NA,NA,NA,28.37442971,special_teams,kicking_specialist,P,No
-2015,Derrick Lott,NA,Tenn-Chattanooga,1.9304,142.4280042,4.99,67.31,30,269.24,7.3,4.44,NA,38.22088781,defense,defensive_lineman,DT,No
-2015,Jerry Lovelocke,NA,Prairie View,1.9304,112.4909078,4.99,80.01,NA,287.02,7.3,4.51,NA,30.18719802,offense,backs_receivers,QB,No
-2015,Donatella Luckett,NA,Harding,1.8288,95.70799007,4.4,86.36,17,299.72,7.51,4.5,NA,28.61645087,offense,backs_receivers,WR,No
-2015,Josue Matias,NA,Florida St.,1.9558,140.1600423,5.52,44.45,NA,213.36,8.19,5.12,NA,36.64167652,offense,offensive_lineman,OG,No
+2015,Bryan Bennett,22,SE Louisiana,1.8796,95.70799007,4.81,93.98,NA,317.5,7.13,4.2,NA,27.09051887,offense,backs_receivers,QB,No
+2015,Brett Boyko,22,UNLV,2.0066,136.5313034,5.6,63.5,NA,261.62,7.91,4.75,NA,33.90865943,offense,offensive_lineman,OG,No
+2015,Malcolm Brown,21,Texas,1.8034,101.6046909,4.62,87.63,19,297.18,6.86,4.15,NA,31.2413382,offense,backs_receivers,RB,No
+2015,Takoby Cofield,23,Duke,1.9304,140.6136347,5.19,76.2,23,256.54,8.09,4.79,NA,37.73399752,offense,offensive_lineman,OT,No
+2015,Rob Crisp,23,North Carolina St.,2.0066,136.5313034,5.26,82.55,26,271.78,8.07,4.6,NA,33.90865943,offense,offensive_lineman,OT,No
+2015,Yannick Cudjoe-Virgil,22,Maryland,1.8796,112.4909078,4.8,NA,25,NA,NA,NA,NA,31.840989,defense,line_backer,OLB,No
+2015,DaVaris Daniels,22,Notre Dame,1.8542,91.17206637,4.62,93.98,13,309.88,NA,NA,NA,26.51848105,offense,backs_receivers,WR,No
+2015,Devante Davis,22,UNLV,1.905,99.7903214,4.57,90.17,16,292.1,7.25,4.12,NA,27.49783245,offense,backs_receivers,WR,No
+2015,AJ Derby,23,Arkansas,1.9304,115.6660544,4.72,NA,15,NA,NA,NA,NA,31.03925603,offense,backs_receivers,TE,No
+2015,B.J. Finney,23,Kansas St.,1.9304,144.2423737,5.25,60.96,20,251.46,NA,4.76,NA,38.7077781,offense,offensive_lineman,C,No
+2015,Dante Fowler\FowlDa00,20,Florida,1.905,118.3876086,4.6,82.55,19,284.48,7.4,4.32,Jacksonville Jaguars / 1st / 3rd pick / 2015,32.6224285,defense,line_backer,OLB,Yes
+2015,Chad Hamilton,23,Coastal Carolina,1.8796,132.448972,4.97,NA,NA,NA,NA,NA,NA,37.49019672,offense,offensive_lineman,C,No
+2015,Braylon Heard,23,Kentucky,1.778,89.81128926,4.63,77.47,19,294.64,7.19,4.4,NA,28.40975036,offense,backs_receivers,RB,No
+2015,Zack Hodges,23,Harvard,1.8796,113.3980925,4.68,85.09,NA,317.5,NA,4.65,NA,32.09777117,defense,line_backer,OLB,No
+2015,Gus Johnson,21,Stephen F. Austin,1.778,97.52235955,4.7,92.71,26,304.8,7.09,4.13,NA,30.84897135,offense,backs_receivers,RB,No
+2015,Chris Jones,22,Alabama,1.778,82.55381134,4.63,82.55,8,302.26,6.91,4.19,NA,26.11401296,offense,backs_receivers,WR,No
+2015,Dez Lewis,22,Central Arkansas,1.9304,97.06876718,4.58,85.09,16,302.26,7.11,4.28,Buffalo Bills / 7th / 234th pick / 2015,26.04863055,offense,backs_receivers,WR,Yes
+2015,Kyle Loomis,27,Portland St.,1.8796,100.2439138,5.08,NA,NA,NA,NA,NA,NA,28.37442971,special_teams,kicking_specialist,P,No
+2015,Derrick Lott,24,Tenn-Chattanooga,1.9304,142.4280042,4.99,67.31,30,269.24,7.3,4.44,NA,38.22088781,defense,defensive_lineman,DT,No
+2015,Jerry Lovelocke,22,Prairie View,1.9304,112.4909078,4.99,80.01,NA,287.02,7.3,4.51,NA,30.18719802,offense,backs_receivers,QB,No
+2015,Donatella Luckett,24,Harding,1.8288,95.70799007,4.4,86.36,17,299.72,7.51,4.5,NA,28.61645087,offense,backs_receivers,WR,No
+2015,Josue Matias,22,Florida St.,1.9558,140.1600423,5.52,44.45,NA,213.36,8.19,5.12,NA,36.64167652,offense,offensive_lineman,OG,No
 2016,Avery Young\YounAv01,23,Auburn,1.9558,148.7782974,5.39,NA,NA,NA,8.22,4.91,NA,38.8947246,offense,offensive_lineman,OT,No
-2016,Connor Wujciak\WujcCo00,NA,Boston Col.,1.8796,131.9953797,4.91,87.63,22,297.18,7.32,4.27,NA,37.36180564,defense,defensive_lineman,DT,No
+2016,Connor Wujciak\WujcCo00,23,Boston Col.,1.8796,131.9953797,4.91,87.63,22,297.18,7.32,4.27,NA,37.36180564,defense,defensive_lineman,DT,No
 2016,De'Runnya Wilson\WilsDe00,21,Mississippi St.,1.9558,101.6046909,4.85,71.12,NA,287.02,NA,NA,NA,26.56225094,offense,backs_receivers,WR,No
-2016,Duke Williams\WillDh00,NA,Auburn,1.8796,103.8726527,4.72,76.2,14,307.34,7.43,4.47,NA,29.40155839,offense,backs_receivers,WR,No
+2016,Duke Williams\WillDh00,22,Auburn,1.8796,103.8726527,4.72,76.2,14,307.34,7.43,4.47,NA,29.40155839,offense,backs_receivers,WR,No
 2016,Bryce Williams\WillBr08,23,East Carolina,1.9812,116.5732391,4.94,74.93,19,281.94,7.19,4.53,NA,29.69902728,offense,backs_receivers,TE,No
 2016,Brandon Wilds\WildBr01,22,South Carolina,1.8542,99.7903214,4.54,92.71,21,299.72,7.08,4.33,NA,29.02520314,offense,backs_receivers,RB,No
 2016,Soma Vainuku\VainSo01,23,USC,1.8034,111.583723,4.68,81.28,26,274.32,NA,NA,NA,34.30968391,offense,backs_receivers,FB,No
 2016,Landon Turner\TurnLa00,22,North Carolina,1.9304,149.6854821,5.58,48.26,30,223.52,NA,NA,NA,40.16844898,offense,offensive_lineman,OG,No
 2016,Ron Thompson\ThomRo06,22,Syracuse,1.905,114.7588696,4.92,NA,18,NA,7.46,4.5,NA,31.62250732,defense,defensive_lineman,DE,No
 2016,Lawrence Thomas\ThomLa04,22,Michigan St.,1.905,129.7274178,4.98,88.9,NA,287.02,NA,NA,NA,35.74718218,defense,defensive_lineman,DT,No
-2016,Eric Striker\StriEr00,NA,Oklahoma,1.8034,102.965468,4.8,76.2,23,294.64,7.3,4.46,NA,31.65974897,defense,line_backer,OLB,No
+2016,Eric Striker\StriEr00,22,Oklahoma,1.8034,102.965468,4.8,76.2,23,294.64,7.3,4.46,NA,31.65974897,defense,line_backer,OLB,No
 2016,Joel Stave\StavJo01,23,Wisconsin,1.9558,107.0477993,4.8,85.09,NA,292.1,7.29,4.33,NA,27.98522867,offense,backs_receivers,QB,No
 2016,A.J. Stamps\StamA.00,NA,Kentucky,1.8034,87.54332741,4.79,83.82,15,292.1,7.17,4.25,NA,26.91776014,defense,defensive_back,FS,No
 2016,Nelson Spruce\SpruNe01,23,Colorado,1.8542,93.44002822,4.69,88.9,12,289.56,7.09,4.2,NA,27.17814476,offense,backs_receivers,WR,No
@@ -3060,15 +3060,15 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2016,Tyvis Powell\PoweTy01,22,Ohio St.,1.905,95.70799007,4.46,87.63,15,304.8,7.03,4.25,NA,26.37292112,defense,defensive_back,SS,No
 2016,D.J. Pettway\PettD.01,23,Alabama,1.8796,120.2019781,4.99,71.12,17,274.32,7.74,4.69,NA,34.02363744,defense,defensive_lineman,DE,No
 2016,Kevin Peterson\PeteKe01,21,Oklahoma St.,1.778,82.10021897,4.58,90.17,14,307.34,6.94,4.31,NA,25.97052937,defense,defensive_back,CB,No
-2016,Gionni Paul\PaulGi00,NA,Utah,1.778,104.7798375,5.05,78.74,22,287.02,NA,NA,NA,33.14470876,defense,line_backer,ILB,No
+2016,Gionni Paul\PaulGi00,22,Utah,1.778,104.7798375,5.05,78.74,22,287.02,NA,NA,NA,33.14470876,defense,line_backer,ILB,No
 2016,Montese Overton\OverMo00,24,East Carolina,1.8796,101.1510985,4.61,86.36,18,312.42,7.15,4.47,NA,28.63121188,defense,line_backer,OLB,No
 2016,Drew Ott\OttxDr00,22,Iowa,1.9304,123.830717,4.88,NA,NA,NA,NA,NA,NA,33.23026233,defense,defensive_lineman,DE,No
 2016,Nick O'Toole\OTooNi00,NA,West Virginia,1.905,99.33672903,5.05,NA,NA,NA,NA,NA,NA,27.3728423,special_teams,kicking_specialist,P,No
 2016,Romeo Okwara\OkwaRo01,20,Notre Dame,1.9558,120.2019781,4.9,83.82,23,304.8,7.38,4.53,NA,31.42409152,defense,defensive_lineman,DE,No
-2016,Jaden Oberkrom\OberJa00,NA,TCU,1.8796,84.36818082,4.96,NA,NA,NA,NA,NA,NA,23.88074175,special_teams,kicking_specialist,K,No
+2016,Jaden Oberkrom\OberJa00,22,TCU,1.8796,84.36818082,4.96,NA,NA,NA,NA,NA,NA,23.88074175,special_teams,kicking_specialist,K,No
 2016,Shawn Oakman\OakmSh00,23,Baylor,2.032,130.1810102,4.96,81.28,23,312.42,7.53,4.56,NA,31.52827646,defense,defensive_lineman,DE,No
 2016,Jared Norris\NorrJa00,22,Utah,1.8542,109.3157612,4.8,74.93,19,289.56,NA,4.52,NA,31.79579071,defense,line_backer,ILB,No
-2016,Giorgio Newberry\NewbGi00,NA,Florida St.,1.9558,129.2738255,4.94,76.2,20,289.56,7.53,4.78,NA,33.79572107,defense,defensive_lineman,DE,No
+2016,Giorgio Newberry\NewbGi00,24,Florida St.,1.9558,129.2738255,4.94,76.2,20,289.56,7.53,4.78,NA,33.79572107,defense,defensive_lineman,DE,No
 2016,Stephane Nembot\NembSt01,24,Colorado,2.0066,146.0567431,5.39,67.31,32,261.62,8.55,5.15,NA,36.27437985,offense,offensive_lineman,OT,No
 2016,Will Monday\MondWi00,23,Duke,1.9304,96.16158244,5.1,NA,NA,NA,NA,NA,NA,25.8051854,special_teams,kicking_specialist,P,No
 2016,Cassanova McKinzy\McKiCa01,23,Auburn,1.8542,112.4909078,4.83,NA,21,NA,NA,NA,NA,32.7193199,defense,line_backer,ILB,No
@@ -3083,11 +3083,11 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2016,Luther Maddy\MaddLu00,23,Virginia Tech,1.8288,130.1810102,4.96,NA,29,NA,NA,NA,NA,38.9237981,defense,defensive_lineman,DT,No
 2016,Steve Longa\LongSt00,21,Rutgers,1.8542,109.3157612,4.78,81.28,19,294.64,7.5,4.56,NA,31.79579071,defense,line_backer,ILB,No
 2016,Jordan Lomax\LomaJo00,22,Iowa,1.778,91.62565874,4.75,91.44,8,304.8,7.18,4.15,NA,28.98368471,defense,defensive_back,FS,No
-2016,Cory Littleton\LittCo00,NA,Washington,1.905,107.9549841,4.73,74.93,NA,289.56,7.11,4.32,NA,29.7476551,defense,line_backer,OLB,No
+2016,Cory Littleton\LittCo00,22,Washington,1.905,107.9549841,4.73,74.93,NA,289.56,7.11,4.32,NA,29.7476551,defense,line_backer,OLB,No
 2016,Darius Latham\LathDa01,21,Indiana,1.9304,141.0672271,5.32,73.66,NA,254,7.76,4.63,NA,37.8557201,defense,defensive_lineman,DT,No
 2016,Denver Kirkland\KirkDe00,22,Arkansas,1.9304,151.953444,5.55,57.15,19,238.76,8.72,5.06,NA,40.77706184,offense,offensive_lineman,OT,No
 2016,Nila Kasitati\KasiNi01,22,Oklahoma,1.905,143.7887813,5.32,69.85,12,271.78,8.3,4.83,NA,39.62187676,offense,offensive_lineman,OG,No
-2016,Jonathan Jones\JoneJo02,NA,Auburn,1.7526,84.36818082,4.33,91.44,19,312.42,7.25,4.25,NA,27.46711653,defense,defensive_back,CB,No
+2016,Jonathan Jones\JoneJo02,22,Auburn,1.7526,84.36818082,4.33,91.44,19,312.42,7.25,4.25,NA,27.46711653,defense,defensive_back,CB,No
 2016,Cayleb Jones\JoneCa02,22,Arizona,1.905,94.80080533,4.65,85.09,9,NA,6.99,4.14,NA,26.12294083,offense,backs_receivers,WR,No
 2016,Tyler Johnstone\JohnTy01,23,Oregon,1.9558,136.5313034,5.21,77.47,24,264.16,7.31,4.6,NA,35.69302471,offense,offensive_lineman,OT,No
 2016,Devon Johnson\JohnDe05,22,Marshall,1.8288,107.9549841,4.64,NA,NA,NA,NA,NA,NA,32.2782716,offense,backs_receivers,RB,No
@@ -3106,7 +3106,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2016,Jason Fanaika\FanaJa01,23,Utah,1.8796,122.9235323,4.92,90.17,23,287.02,7.06,4.39,NA,34.79398395,defense,defensive_lineman,DE,No
 2016,Ka'Imi Fairbairn\FairKa01,22,UCLA,1.8034,83.00740371,4.96,NA,NA,NA,NA,NA,NA,25.52305754,special_teams,kicking_specialist,K,No
 2016,Ken Crawley\CrawKe01,22,Colorado,1.8288,84.82177319,4.43,92.71,NA,302.26,NA,NA,NA,25.36149911,defense,defensive_back,CB,No
-2016,Brad Craddock\CradBr00,NA,Maryland,1.8288,84.36818082,4.88,NA,NA,NA,NA,NA,NA,25.22587612,special_teams,kicking_specialist,K,No
+2016,Brad Craddock\CradBr00,23,Maryland,1.8288,84.36818082,4.88,NA,NA,NA,NA,NA,NA,25.22587612,special_teams,kicking_specialist,K,No
 2016,Jeremy Cash\CashJe00,23,Duke,1.8288,96.16158244,4.56,NA,NA,NA,NA,NA,NA,28.75207386,defense,defensive_back,SS,No
 2016,Tevin Carter\CartTe00,23,Utah,1.8542,98.88313666,4.48,NA,19,NA,NA,NA,NA,28.76133766,defense,defensive_back,SS,No
 2016,Tra Carson\CarsTr01,23,Texas A&M,1.8034,102.965468,4.63,NA,19,NA,NA,NA,NA,31.65974897,offense,backs_receivers,RB,No
@@ -3116,48 +3116,48 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2016,Chris Brown\BrowCh07,22,Notre Dame,1.8796,87.99691978,4.48,NA,NA,NA,NA,NA,NA,24.90787043,offense,backs_receivers,WR,No
 2016,Beniquez Brown\BrowBe00,22,Mississippi St.,1.8542,103.8726527,4.77,78.74,18,279.4,7.07,4.28,NA,30.21259781,defense,line_backer,OLB,No
 2016,Jake Brendel\BrenJa01,23,UCLA,1.905,137.4384881,5.01,71.12,25,274.32,7.31,4.27,NA,37.87201469,offense,offensive_lineman,C,No
-2016,Briean Boddy-Calhoun\BoddBr00,NA,Minnesota,1.7526,87.54332741,4.47,88.9,10,312.42,7.16,4.22,NA,28.50082522,defense,defensive_back,CB,No
+2016,Briean Boddy-Calhoun\BoddBr00,23,Minnesota,1.7526,87.54332741,4.47,88.9,10,312.42,7.16,4.22,NA,28.50082522,defense,defensive_back,CB,No
 2016,Jimmy Bean\BeanJi01,22,Oklahoma St.,1.9558,119.7483857,4.87,NA,20,NA,NA,NA,NA,31.30551004,defense,defensive_lineman,DE,No
 2016,Peyton Barber\BarbPe01,22,Auburn,1.778,103.4190604,4.64,82.55,20,281.94,7,4.21,NA,32.71425799,offense,backs_receivers,RB,No
 2016,Geronimo Allison\AlliGe01,22,Illinois,1.905,88.90410452,4.67,83.82,NA,322.58,7.4,4.28,NA,24.49806891,offense,backs_receivers,WR,No
 2016,Jack Allen\AlleJa03,23,Michigan St.,1.8542,133.3561568,5.29,67.31,23,256.54,7.9,4.73,NA,38.78822601,offense,offensive_lineman,C,No
-2016,Dominique Alexander\AlexDo00,NA,Oklahoma,1.8288,105.2334298,4.64,72.39,17,264.16,NA,NA,NA,31.46453366,defense,line_backer,ILB,No
+2016,Dominique Alexander\AlexDo00,20,Oklahoma,1.8288,105.2334298,4.64,72.39,17,264.16,NA,NA,NA,31.46453366,defense,line_backer,ILB,No
 2016,Bralon Addison\AddiBr01,22,Oregon,1.7526,89.35769689,4.66,87.63,13,294.64,6.95,4.14,NA,29.0915159,offense,backs_receivers,WR,No
-2016,Sterling Bailey,NA,Georgia,1.9304,129.2738255,5.23,76.2,20,281.94,7.46,4.73,NA,34.69093321,defense,defensive_lineman,DE,No
-2016,Stephen Anderson,NA,California,1.8796,104.3262451,4.59,96.52,16,302.26,NA,NA,NA,29.52994947,offense,backs_receivers,TE,No
-2016,Mehdi Abdesmad,NA,Boston Col.,1.9812,128.8202331,5.1,74.93,25,274.32,7.55,4.62,NA,32.81915855,defense,defensive_lineman,DE,No
-2016,Vernon Adams,NA,Oregon,1.8034,90.718474,4.83,74.93,NA,289.56,6.82,4.2,NA,27.89405196,offense,backs_receivers,QB,No
-2016,Trevone Boykin,NA,TCU,1.8288,96.16158244,4.77,81.28,NA,279.4,NA,4.4,NA,28.75207386,offense,backs_receivers,QB,No
-2016,Ben Braunecker,NA,Harvard,1.905,113.3980925,4.73,90.17,20,307.34,6.9,4.2,NA,31.24753687,offense,backs_receivers,TE,No
-2016,Joseph Cheek,NA,Texas A&M,1.9812,133.8097492,5.27,NA,20,NA,NA,NA,NA,34.09032314,offense,offensive_lineman,OG,No
-2016,Marshaun Coprich,NA,Illinois St.,1.7272,93.89362059,4.47,86.36,17,284.48,7.26,4.58,NA,31.47391933,offense,backs_receivers,RB,No
-2016,Shadrach Thornton,NA,North Carolina St.,1.8288,98.42954429,4.75,78.74,12,294.64,6.85,4.21,NA,29.43018881,offense,backs_receivers,RB,No
-2016,David Grinnage,NA,North Carolina St.,1.9558,112.4909078,4.9,74.93,NA,269.24,NA,NA,NA,29.4082064,offense,backs_receivers,TE,No
+2016,Sterling Bailey,23,Georgia,1.9304,129.2738255,5.23,76.2,20,281.94,7.46,4.73,NA,34.69093321,defense,defensive_lineman,DE,No
+2016,Stephen Anderson,23,California,1.8796,104.3262451,4.59,96.52,16,302.26,NA,NA,NA,29.52994947,offense,backs_receivers,TE,No
+2016,Mehdi Abdesmad,24,Boston Col.,1.9812,128.8202331,5.1,74.93,25,274.32,7.55,4.62,NA,32.81915855,defense,defensive_lineman,DE,No
+2016,Vernon Adams,23,Oregon,1.8034,90.718474,4.83,74.93,NA,289.56,6.82,4.2,NA,27.89405196,offense,backs_receivers,QB,No
+2016,Trevone Boykin,22,TCU,1.8288,96.16158244,4.77,81.28,NA,279.4,NA,4.4,NA,28.75207386,offense,backs_receivers,QB,No
+2016,Ben Braunecker,22,Harvard,1.905,113.3980925,4.73,90.17,20,307.34,6.9,4.2,NA,31.24753687,offense,backs_receivers,TE,No
+2016,Joseph Cheek,23,Texas A&M,1.9812,133.8097492,5.27,NA,20,NA,NA,NA,NA,34.09032314,offense,offensive_lineman,OG,No
+2016,Marshaun Coprich,21,Illinois St.,1.7272,93.89362059,4.47,86.36,17,284.48,7.26,4.58,NA,31.47391933,offense,backs_receivers,RB,No
+2016,Shadrach Thornton,22,North Carolina St.,1.8288,98.42954429,4.75,78.74,12,294.64,6.85,4.21,NA,29.43018881,offense,backs_receivers,RB,No
+2016,David Grinnage,22,North Carolina St.,1.9558,112.4909078,4.9,74.93,NA,269.24,NA,NA,NA,29.4082064,offense,backs_receivers,TE,No
 2016,Raphael Kirby,NA,Miami (FL),1.8288,107.0477993,4.72,NA,27,NA,NA,NA,NA,32.00702562,defense,line_backer,ILB,No
-2016,Roger Lewis,NA,Bowling Green,1.8288,91.17206637,4.57,85.09,8,294.64,NA,NA,NA,27.26022097,offense,backs_receivers,WR,No
-2016,De'Vante Harris,NA,Texas A&M,1.8034,79.83225712,4.56,97.79,NA,314.96,6.82,4.06,NA,24.54676572,defense,defensive_back,CB,No
-2016,Deiondre Hall,NA,Northern Iowa,1.8796,90.26488163,4.68,93.98,NA,322.58,7.07,4.06,NA,25.54982585,defense,defensive_back,CB,No
-2016,Johnny Holton,NA,Cincinnati,1.8542,86.1825503,4.54,80.01,8,312.42,NA,NA,NA,25.06722089,offense,backs_receivers,WR,No
-2016,Ufomba Kamalu,NA,Miami (FL),1.9558,133.8097492,5.01,63.5,26,269.24,7.32,4.58,NA,34.98153584,defense,defensive_lineman,DE,No
-2016,Marshall Koehn,NA,Iowa,1.8542,89.35769689,4.61,NA,NA,NA,NA,NA,NA,25.99075008,special_teams,kicking_specialist,K,No
-2016,Marquez North,NA,Tennessee,1.8796,101.1510985,4.48,88.9,17,312.42,6.9,4.13,NA,28.63121188,offense,backs_receivers,WR,No
-2016,Victor Ochi,NA,Stony Brook,1.8542,111.583723,4.86,81.28,NA,302.26,7.24,4.4,NA,32.45545442,defense,defensive_lineman,DE,No
-2016,John Lunsford,NA,Liberty,1.8542,97.06876718,4.74,NA,NA,NA,NA,NA,NA,28.23360669,special_teams,kicking_specialist,K,No
-2016,Jimmy Pruitt,NA,San Jose St.,1.8288,89.81128926,4.73,81.28,19,297.18,NA,NA,NA,26.853352,defense,defensive_back,CB,No
-2016,Dominique Robertson,NA,West Georgia,1.9558,146.9639279,5.36,72.39,30,254,8.42,4.83,NA,38.42039869,offense,offensive_lineman,OT,No
-2016,Rashard Robinson,NA,Louisiana St,1.8542,77.56429527,4.49,90.17,NA,307.34,NA,NA,NA,22.5604988,defense,defensive_back,CB,No
-2016,James Cowser,NA,Southern Utah,1.905,112.4909078,4.82,80.01,21,281.94,6.8,4.31,NA,30.99755658,defense,defensive_lineman,DE,No
+2016,Roger Lewis,22,Bowling Green,1.8288,91.17206637,4.57,85.09,8,294.64,NA,NA,NA,27.26022097,offense,backs_receivers,WR,No
+2016,De'Vante Harris,22,Texas A&M,1.8034,79.83225712,4.56,97.79,NA,314.96,6.82,4.06,NA,24.54676572,defense,defensive_back,CB,No
+2016,Deiondre Hall,21,Northern Iowa,1.8796,90.26488163,4.68,93.98,NA,322.58,7.07,4.06,Chicago Bears / 4th / 127th pick / 2016,25.54982585,defense,defensive_back,CB,Yes
+2016,Johnny Holton,25,Cincinnati,1.8542,86.1825503,4.54,80.01,8,312.42,NA,NA,NA,25.06722089,offense,backs_receivers,WR,No
+2016,Ufomba Kamalu,23,Miami (FL),1.9558,133.8097492,5.01,63.5,26,269.24,7.32,4.58,NA,34.98153584,defense,defensive_lineman,DE,No
+2016,Marshall Koehn,23,Iowa,1.8542,89.35769689,4.61,NA,NA,NA,NA,NA,NA,25.99075008,special_teams,kicking_specialist,K,No
+2016,Marquez North,20,Tennessee,1.8796,101.1510985,4.48,88.9,17,312.42,6.9,4.13,NA,28.63121188,offense,backs_receivers,WR,No
+2016,Victor Ochi,22,Stony Brook,1.8542,111.583723,4.86,81.28,NA,302.26,7.24,4.4,NA,32.45545442,defense,defensive_lineman,DE,No
+2016,John Lunsford,22,Liberty,1.8542,97.06876718,4.74,NA,NA,NA,NA,NA,NA,28.23360669,special_teams,kicking_specialist,K,No
+2016,Jimmy Pruitt,23,San Jose St.,1.8288,89.81128926,4.73,81.28,19,297.18,NA,NA,NA,26.853352,defense,defensive_back,CB,No
+2016,Dominique Robertson,21,West Georgia,1.9558,146.9639279,5.36,72.39,30,254,8.42,4.83,NA,38.42039869,offense,offensive_lineman,OT,No
+2016,Rashard Robinson\RobiRa00,20,LSU,1.8542,77.56429527,4.49,90.17,NA,307.34,NA,NA,San Francisco 49ers / 4th / 133rd pick / 2016,22.5604988,defense,defensive_back,CB,Yes
+2016,James Cowser,25,Southern Utah,1.905,112.4909078,4.82,80.01,21,281.94,6.8,4.31,NA,30.99755658,defense,defensive_lineman,DE,No
 2016,Lachlan Edwards,NA,Sam Houston St.,1.9304,94.80080533,4.98,NA,NA,NA,NA,NA,NA,25.44001768,special_teams,kicking_specialist,P,No
-2016,Deandre Elliott,NA,Colorado St.,1.8542,85.27536556,4.55,104.14,NA,317.5,6.93,3.94,NA,24.80335541,defense,defensive_back,CB,No
-2016,Devaunte Sigler,NA,Jacksonville St.,1.905,135.1705263,5.15,63.5,23,NA,7.9,4.97,NA,37.24706395,defense,defensive_lineman,DT,No
-2016,Cleveland Wallace III,NA,San Jose St.,1.8034,85.27536556,4.68,90.17,NA,312.42,NA,NA,NA,26.22040884,defense,defensive_back,CB,No
-2016,Josh Woodrum,NA,Liberty,1.905,104.7798375,4.8,78.74,NA,294.64,6.74,4.31,NA,28.87272407,offense,backs_receivers,QB,No
+2016,Deandre Elliott,23,Colorado St.,1.8542,85.27536556,4.55,104.14,NA,317.5,6.93,3.94,NA,24.80335541,defense,defensive_back,CB,No
+2016,Devaunte Sigler,23,Jacksonville St.,1.905,135.1705263,5.15,63.5,23,NA,7.9,4.97,NA,37.24706395,defense,defensive_lineman,DT,No
+2016,Cleveland Wallace III,22,San Jose St.,1.8034,85.27536556,4.68,90.17,NA,312.42,NA,NA,NA,26.22040884,defense,defensive_back,CB,No
+2016,Josh Woodrum,23,Liberty,1.905,104.7798375,4.8,78.74,NA,294.64,6.74,4.31,NA,28.87272407,offense,backs_receivers,QB,No
 2017,Jesus Wilson\WilsJe00,22,Florida St.,1.7526,85.72895793,4.57,NA,10,302.26,NA,4.57,NA,27.91013454,offense,backs_receivers,WR,No
 2017,Stanley Williams\WillSt03,21,Kentucky,1.7018,86.1825503,4.51,91.44,18,307.34,6.86,4.18,NA,29.75790157,offense,backs_receivers,RB,No
 2017,Kermit Whitfield\WhitKe02,23,Florida St.,1.7272,83.91458845,4.44,82.55,8,304.8,7.17,4.37,NA,28.1288651,offense,backs_receivers,WR,No
 2017,Chad Wheeler\WheeCh00,23,USC,2.0066,138.7992652,5.48,52.07,15,266.7,NA,5.01,NA,34.47192619,offense,offensive_lineman,OT,No
 2017,Greg Ward Jr.\WardGr02,21,Houston,1.8034,84.36818082,NA,NA,10,NA,NA,NA,NA,25.94146832,offense,backs_receivers,WR,No
-2017,Charles Walker\WalkCh01,NA,Oklahoma,1.8796,140.6136347,4.96,71.12,25,271.78,7.89,4.96,NA,39.80123625,defense,defensive_lineman,DT,No
+2017,Charles Walker\WalkCh01,22,Oklahoma,1.8796,140.6136347,4.96,71.12,25,271.78,7.89,4.96,NA,39.80123625,defense,defensive_lineman,DT,No
 2017,Justin Vogel\VogeJu00,23,Miami (FL),1.9304,99.33672903,4.7,86.36,NA,NA,NA,NA,NA,26.65724341,special_teams,kicking_specialist,P,No
 2017,Conrad Ukropina\UkroCo00,NA,Stanford,1.8288,86.1825503,NA,NA,NA,NA,NA,NA,NA,25.76836808,special_teams,kicking_specialist,K,No
 2017,Damarius Travis\TravDa00,22,Minnesota,1.8542,93.44002822,NA,82.55,13,292.1,7.08,4.28,NA,27.17814476,defense,defensive_back,SS,No
@@ -3181,43 +3181,43 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2017,Jalen Robinette\RobiJa02,NA,Air Force,1.905,99.7903214,4.62,80.01,13,304.8,6.77,4.46,NA,27.49783245,offense,backs_receivers,WR,No
 2017,Austin Rehkow\RehkAu00,21,Idaho,1.905,97.06876718,NA,NA,NA,NA,NA,NA,NA,26.74789156,special_teams,kicking_specialist,P,No
 2017,Devine Redding\ReddDe00,21,Indiana,1.7272,92.98643585,4.76,77.47,16,294.64,7.18,4.46,NA,31.16982349,offense,backs_receivers,RB,No
-2017,Michael Rector\RectMi00,NA,Stanford,1.8288,87.54332741,4.42,92.71,NA,327.66,6.77,4.19,NA,26.17523705,offense,backs_receivers,WR,No
+2017,Michael Rector\RectMi00,23,Stanford,1.8288,87.54332741,4.42,92.71,NA,327.66,6.77,4.19,NA,26.17523705,offense,backs_receivers,WR,No
 2017,James Quick\QuicJa00,22,Louisville,1.8288,84.36818082,4.6,78.74,11,292.1,7,4.39,NA,25.22587612,offense,backs_receivers,WR,No
-2017,Hayden Plinke\PlinHa00,NA,Texas-El Paso,1.9304,119.7483857,4.97,71.12,18,276.86,7.55,4.59,NA,32.13475918,offense,backs_receivers,TE,No
+2017,Hayden Plinke\PlinHa00,24,Texas-El Paso,1.9304,119.7483857,4.97,71.12,18,276.86,7.55,4.59,NA,32.13475918,offense,backs_receivers,TE,No
 2017,Carroll Phillips\PhilCa00,24,Illinois,1.905,109.7693535,4.64,76.2,23,312.42,7.06,4.37,NA,30.24761569,defense,line_backer,OLB,No
 2017,Zach Pascal\PascZa00,22,Old Dominion,1.8796,99.33672903,4.55,91.44,14,320.04,7.11,4.29,NA,28.11764754,offense,backs_receivers,WR,No
 2017,Scott Orndoff\OrndSc00,23,Pittsburgh,1.9558,114.7588696,4.84,68.58,17,284.48,7.37,4.45,NA,30.00111379,offense,backs_receivers,TE,No
 2017,Tyler Orlosky\OrloTy00,NA,West Virginia,1.905,135.1705263,NA,NA,24,NA,NA,NA,NA,37.24706395,offense,offensive_lineman,C,No
 2017,Dare Ogunbowale\OgunDa00,22,Wisconsin,1.8034,96.61517481,4.65,88.9,14,304.8,6.99,4.34,NA,29.70716534,offense,backs_receivers,RB,No
 2017,Noble Nwachukwu\NwacNo00,22,West Virginia,1.8542,121.5627552,4.83,77.47,27,279.4,NA,NA,NA,35.35797473,defense,defensive_lineman,DE,No
-2017,Bradley Northnagel\NortBr01,NA,California,1.8796,110.2229459,5.3,64.77,NA,251.46,NA,NA,NA,31.19903357,special_teams,other_special,LS,No
-2017,Speedy Noil\NoilSp00,NA,Texas A&M,1.8034,90.26488163,NA,110.49,18,337.82,NA,NA,NA,27.7545817,offense,backs_receivers,WR,No
+2017,Bradley Northnagel\NortBr01,23,California,1.8796,110.2229459,5.3,64.77,NA,251.46,NA,NA,NA,31.19903357,special_teams,other_special,LS,No
+2017,Speedy Noil\NoilSp00,23,Texas A&M,1.8034,90.26488163,NA,110.49,18,337.82,NA,NA,NA,27.7545817,offense,backs_receivers,WR,No
 2017,Hardy Nickerson\NickHa02,23,Illinois,1.8288,105.2334298,4.78,83.82,18,294.64,NA,4.38,NA,31.46453366,defense,line_backer,ILB,No
 2017,Drew Morgan\MorgDr00,22,Arkansas,1.8288,86.1825503,4.74,76.2,10,284.48,6.85,4.12,NA,25.76836808,offense,backs_receivers,WR,No
 2017,Arthur Maulet\MaulAr00,23,Memphis,1.778,85.72895793,4.62,87.63,18,304.8,NA,NA,NA,27.11839807,defense,defensive_back,CB,No
-2017,Joe Mathis\MathJo00,NA,Washington,1.8796,120.6555704,NA,NA,24,NA,NA,NA,NA,34.15202852,defense,defensive_lineman,DE,No
-2017,Gabe Marks\MarkGa00,NA,Washington St.,1.8034,85.72895793,4.56,74.93,11,297.18,7.01,4.2,NA,26.3598791,offense,backs_receivers,WR,No
+2017,Joe Mathis\MathJo00,21,Washington,1.8796,120.6555704,NA,NA,24,NA,NA,NA,NA,34.15202852,defense,defensive_lineman,DE,No
+2017,Gabe Marks\MarkGa00,22,Washington St.,1.8034,85.72895793,4.56,74.93,11,297.18,7.01,4.2,NA,26.3598791,offense,backs_receivers,WR,No
 2017,Damien Mama\MamaDa00,21,USC,1.905,151.4998516,5.84,62.23,NA,243.84,8.51,5.38,NA,41.74670926,offense,offensive_lineman,OG,No
 2017,Keevan Lucas\LucaKe00,21,Tulsa,1.7526,87.08973504,4.55,82.55,11,302.26,7.23,4.43,NA,28.35315255,offense,backs_receivers,WR,No
 2017,Sefo Liufau\LiufSe00,22,Colorado,1.905,105.2334298,5.08,68.58,NA,266.7,7.32,4.45,NA,28.99771422,offense,backs_receivers,QB,No
-2017,William Likely\LikeWi00,NA,Maryland,1.7018,81.6466266,NA,NA,15,NA,NA,NA,NA,28.19169622,defense,defensive_back,CB,No
+2017,William Likely\LikeWi00,22,Maryland,1.7018,81.6466266,NA,NA,15,NA,NA,NA,NA,28.19169622,defense,defensive_back,CB,No
 2017,Mitch Leidner\LeidMi00,23,Minnesota,1.905,102.5118756,4.93,87.63,NA,312.42,6.96,4.25,NA,28.24777333,offense,backs_receivers,QB,No
 2017,Harvey Langi\LangHa00,24,BYU,1.8796,113.8516849,NA,83.82,23,299.72,7,4.32,NA,32.22616225,defense,line_backer,ILB,No
 2017,Jerome Lane\LaneJe01,20,Akron,1.8796,102.5118756,4.6,88.9,16,317.5,6.87,4.12,NA,29.01638514,offense,backs_receivers,WR,No
 2017,Ashton Lampkin\LampAs00,23,Oklahoma St.,1.8288,85.72895793,4.52,87.63,19,304.8,NA,NA,NA,25.63274509,defense,defensive_back,CB,No
-2017,Trevor Knight\KnigTr00,NA,Texas A&M,1.8542,99.33672903,4.54,90.17,NA,317.5,7.04,4.14,NA,28.8932704,offense,backs_receivers,QB,No
+2017,Trevor Knight\KnigTr00,23,Texas A&M,1.8542,99.33672903,4.54,90.17,NA,317.5,7.04,4.14,NA,28.8932704,offense,backs_receivers,QB,No
 2017,Keith Kelsey\KelsKe00,21,Louisville,1.8288,105.6870222,4.92,74.93,23,284.48,7.28,4.56,NA,31.60015665,defense,line_backer,ILB,No
 2017,Jarron Jones\JoneJa07,22,Notre Dame,1.9812,143.3351889,5.33,52.07,22,NA,NA,NA,NA,36.51709191,defense,defensive_lineman,DT,No
 2017,Jadar Johnson\JohnJa08,21,Clemson,1.8288,93.44002822,4.6,83.82,19,302.26,6.9,4.2,NA,27.93833592,defense,defensive_back,SS,No
 2017,Cameron Johnston\JohnCa02,25,Ohio St.,1.8034,87.99691978,4.92,NA,NA,NA,NA,NA,NA,27.0572304,special_teams,kicking_specialist,P,No
-2017,Hayden Hunt\HuntHa00,NA,Colorado St.,1.8288,96.16158244,NA,NA,NA,NA,NA,NA,NA,28.75207386,special_teams,kicking_specialist,P,No
+2017,Hayden Hunt\HuntHa00,23,Colorado St.,1.8288,96.16158244,NA,NA,NA,NA,NA,NA,NA,28.75207386,special_teams,kicking_specialist,P,No
 2017,Bug Howard\HowaBu00,22,North Carolina,1.9304,100.2439138,4.58,95.25,NA,302.26,6.95,4.14,NA,26.90068856,offense,backs_receivers,WR,No
 2017,Cole Hikutini\HikuCo00,22,Louisville,1.9304,112.0373154,NA,NA,20,NA,NA,NA,NA,30.06547545,offense,backs_receivers,TE,No
 2017,Keon Hatcher\HatcKe00,22,Arkansas,1.8542,96.16158244,4.64,NA,16,NA,NA,NA,NA,27.96974121,offense,backs_receivers,WR,No
 2017,Avery Gennesy\GennAv00,23,Texas A&M,1.905,144.2423737,5.35,50.8,24,231.14,8.08,5,NA,39.7468669,offense,offensive_lineman,OG,No
-2017,Johnathan Ford\FordJo00,NA,Auburn,1.8034,92.98643585,NA,NA,20,NA,NA,NA,NA,28.59140326,defense,defensive_back,FS,No
-2017,Devonte Fields\FielDe00,NA,Louisville,1.8796,107.0477993,4.72,86.36,NA,314.96,7.4,4.5,NA,30.30029598,defense,line_backer,OLB,No
-2017,Jerod Evans\EvanJe01,NA,Virginia Tech,1.905,105.2334298,4.8,67.31,NA,284.48,NA,4.41,NA,28.99771422,offense,backs_receivers,QB,No
+2017,Johnathan Ford\FordRu00,22,Auburn,1.8034,92.98643585,NA,NA,20,NA,NA,NA,Arizona Cardinals / 6th / 208th pick / 2017,28.59140326,defense,defensive_back,FS,Yes
+2017,Devonte Fields\FielDe00,23,Louisville,1.8796,107.0477993,4.72,86.36,NA,314.96,7.4,4.5,NA,30.30029598,defense,line_backer,OLB,No
+2017,Jerod Evans\EvanJe01,23,Virginia Tech,1.905,105.2334298,4.8,67.31,NA,284.48,NA,4.41,NA,28.99771422,offense,backs_receivers,QB,No
 2017,Amba Etta-Tawo\EttaAm00,23,Syracuse,1.8542,94.34721296,4.49,78.74,14,320.04,6.95,4.32,NA,27.44201024,offense,backs_receivers,WR,No
 2017,Brooks Ellis\ElliBr01,22,Arkansas,1.8796,108.8621688,4.79,74.93,18,292.1,6.8,4.25,NA,30.81386032,defense,line_backer,ILB,No
 2017,Ken Ekanem\EkanKe00,22,Virginia Tech,1.905,116.5732391,4.88,77.47,NA,292.1,7.38,4.58,NA,32.12246791,defense,defensive_lineman,DE,No
@@ -3239,30 +3239,30 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2017,Toby Baker\BakeTo01,23,Arkansas,1.905,95.2543977,NA,NA,NA,NA,NA,NA,NA,26.24793097,special_teams,kicking_specialist,P,No
 2017,Quincy Adeboyejo\AdebQu00,21,Mississippi,1.905,89.35769689,4.42,87.63,8,312.42,6.73,4.14,NA,24.62305906,offense,backs_receivers,WR,No
 2017,Erik Austell,NA,Charleston Southern,1.905,136.5313034,5.23,69.85,24,271.78,8.13,4.9,NA,37.6220344,offense,offensive_lineman,OG,No
-2017,Victor Bolden Jr.,NA,Oregon St.,1.7272,80.73944186,4.54,81.28,9,297.18,6.83,4.22,NA,27.06452967,offense,backs_receivers,WR,No
-2017,Kendrick Bourne,NA,East. Washington,1.8542,92.07925111,4.68,86.36,9,317.5,6.73,4.21,NA,26.78234653,offense,backs_receivers,WR,No
-2017,Billy Brown,NA,Shepherd,1.905,115.212462,4.7,73.66,23,299.72,NA,NA,NA,31.74749746,offense,backs_receivers,TE,No
-2017,K.D. Cannon,NA,Baylor,1.8034,82.55381134,4.41,93.98,13,302.26,NA,NA,NA,25.38358728,offense,backs_receivers,WR,No
-2017,Jamal Carter,NA,Miami (FL),1.8542,98.88313666,4.64,88.9,19,309.88,NA,NA,NA,28.76133766,defense,defensive_back,SS,No
-2017,Chunky Clements,NA,Illinois,1.8796,136.5313034,NA,NA,23,NA,NA,NA,NA,38.64571649,defense,defensive_lineman,DT,No
-2017,Ethan Cooper,NA,Indiana (PA),1.8796,146.0567431,5.36,62.23,26,251.46,8.02,4.88,NA,41.34192926,offense,offensive_lineman,OG,No
-2017,Bryan Cox Jr.,NA,Florida,1.905,120.2019781,4.89,67.31,16,276.86,7.36,4.46,NA,33.12238909,defense,defensive_lineman,DE,No
-2017,Julien Davenport,NA,Bucknell,2.0066,144.2423737,5.45,68.58,18,269.24,7.57,4.69,NA,35.82376644,offense,offensive_lineman,OT,No
-2017,Keionta Davis,NA,Tenn-Chattanooga,1.905,122.9235323,NA,NA,NA,NA,NA,NA,NA,33.87232997,defense,defensive_lineman,DE,No
-2017,Jessamen Dunker,NA,Tennessee St.,1.9304,144.2423737,4.98,72.39,23,274.32,NA,NA,NA,38.7077781,offense,offensive_lineman,OG,No
-2017,Connor Harris,NA,Lindenwood,1.8034,109.7693535,4.73,83.82,18,289.56,7.13,4.31,NA,33.75180287,defense,line_backer,ILB,No
-2017,DeAngelo Henderson,NA,Coastal Carolina,1.7018,94.34721296,4.48,86.36,20,304.8,NA,NA,NA,32.57707119,offense,backs_receivers,RB,No
-2017,Javarius Leamon,NA,South Carolina St.,2.0066,150.5926668,NA,59.69,22,NA,NA,NA,NA,37.40091339,offense,offensive_lineman,OT,No
-2017,Cameron Lee,NA,Illinois St.,1.9558,141.5208194,5.44,64.77,18,254,8.02,4.75,NA,36.99742096,offense,offensive_lineman,OG,No
-2017,Ezra Robinson,NA,Tennessee St.,1.8034,85.72895793,4.47,86.36,13,330.2,NA,NA,NA,26.3598791,defense,defensive_back,CB,No
-2017,Rushel Shell III,NA,West Virginia,1.778,102.965468,4.74,82.55,21,NA,NA,NA,NA,32.5707744,offense,backs_receivers,RB,No
-2017,Nate Theaker,NA,Wayne State (MI),1.9558,142.8815966,5.41,68.58,23,266.7,7.97,4.89,NA,37.35316539,offense,offensive_lineman,OG,No
-2017,Jerry Ugokwe,NA,William & Mary,2.0066,145.6031508,5.61,66.04,18,261.62,8.35,5.17,NA,36.1617265,offense,offensive_lineman,OT,No
+2017,Victor Bolden Jr.,21,Oregon St.,1.7272,80.73944186,4.54,81.28,9,297.18,6.83,4.22,NA,27.06452967,offense,backs_receivers,WR,No
+2017,Kendrick Bourne\BourKe00,21,East. Washington,1.8542,92.07925111,4.68,86.36,9,317.5,6.73,4.21,NA,26.78234653,offense,backs_receivers,WR,No
+2017,Billy Brown,23,Shepherd,1.905,115.212462,4.7,73.66,23,299.72,NA,NA,NA,31.74749746,offense,backs_receivers,TE,No
+2017,K.D. Cannon,21,Baylor,1.8034,82.55381134,4.41,93.98,13,302.26,NA,NA,NA,25.38358728,offense,backs_receivers,WR,No
+2017,Jamal Carter,22,Miami (FL),1.8542,98.88313666,4.64,88.9,19,309.88,NA,NA,NA,28.76133766,defense,defensive_back,SS,No
+2017,Chunky Clements,22,Illinois,1.8796,136.5313034,NA,NA,23,NA,NA,NA,NA,38.64571649,defense,defensive_lineman,DT,No
+2017,Ethan Cooper,21,Indiana (PA),1.8796,146.0567431,5.36,62.23,26,251.46,8.02,4.88,NA,41.34192926,offense,offensive_lineman,OG,No
+2017,Bryan Cox Jr.,22,Florida,1.905,120.2019781,4.89,67.31,16,276.86,7.36,4.46,NA,33.12238909,defense,defensive_lineman,DE,No
+2017,Julien Davenport,22,Bucknell,2.0066,144.2423737,5.45,68.58,18,269.24,7.57,4.69,NA,35.82376644,offense,offensive_lineman,OT,No
+2017,Keionta Davis,22,Tenn-Chattanooga,1.905,122.9235323,NA,NA,NA,NA,NA,NA,NA,33.87232997,defense,defensive_lineman,DE,No
+2017,Jessamen Dunker,24,Tennessee St.,1.9304,144.2423737,4.98,72.39,23,274.32,NA,NA,NA,38.7077781,offense,offensive_lineman,OG,No
+2017,Connor Harris,23,Lindenwood,1.8034,109.7693535,4.73,83.82,18,289.56,7.13,4.31,NA,33.75180287,defense,line_backer,ILB,No
+2017,DeAngelo Henderson,24,Coastal Carolina,1.7018,94.34721296,4.48,86.36,20,304.8,NA,NA,NA,32.57707119,offense,backs_receivers,RB,No
+2017,Javarius Leamon,23,South Carolina St.,2.0066,150.5926668,NA,59.69,22,NA,NA,NA,NA,37.40091339,offense,offensive_lineman,OT,No
+2017,Cameron Lee,23,Illinois St.,1.9558,141.5208194,5.44,64.77,18,254,8.02,4.75,NA,36.99742096,offense,offensive_lineman,OG,No
+2017,Ezra Robinson,23,Tennessee St.,1.8034,85.72895793,4.47,86.36,13,330.2,NA,NA,NA,26.3598791,defense,defensive_back,CB,No
+2017,Rushel Shell III,23,West Virginia,1.778,102.965468,4.74,82.55,21,NA,NA,NA,NA,32.5707744,offense,backs_receivers,RB,No
+2017,Nate Theaker,23,Wayne State (MI),1.9558,142.8815966,5.41,68.58,23,266.7,7.97,4.89,NA,37.35316539,offense,offensive_lineman,OG,No
+2017,Jerry Ugokwe,22,William & Mary,2.0066,145.6031508,5.61,66.04,18,261.62,8.35,5.17,NA,36.1617265,offense,offensive_lineman,OT,No
 2018,Chris Worley\WorlCh00,22,Ohio St.,1.8796,107.9549841,4.86,74.93,15,NA,NA,NA,NA,30.55707815,defense,line_backer,ILB,No
 2018,Darrel Williams\WillDa10,22,LSU,1.8288,102.0582833,4.72,81.28,22,276.86,NA,4.21,NA,30.51517273,offense,backs_receivers,RB,No
-2018,Jojo Wicker\WickJo00,NA,Arizona St.,1.905,134.2633415,5.16,76.2,25,266.7,NA,NA,NA,36.99708366,defense,defensive_lineman,DE,No
+2018,Jojo Wicker\WickJo00,21,Arizona St.,1.905,134.2633415,5.16,76.2,25,266.7,NA,NA,NA,36.99708366,defense,defensive_lineman,DE,No
 2018,Sean Welsh\WelsSe00,23,Iowa,1.905,138.7992652,5.43,63.5,20,261.62,7.9,4.81,NA,38.24698513,offense,offensive_lineman,C,No
-2018,Damon Webb\WebbDa01,NA,Ohio St.,1.8034,88.45051215,4.62,NA,17,NA,NA,NA,NA,27.19670066,defense,defensive_back,S,No
+2018,Damon Webb\WebbDa01,22,Ohio St.,1.8034,88.45051215,4.62,NA,17,NA,NA,NA,NA,27.19670066,defense,defensive_back,S,No
 2018,Toby Weathersby\WeatTo00,21,LSU,1.9304,143.7887813,5.34,62.23,28,269.24,8.55,5.38,NA,38.58605553,offense,offensive_lineman,OT,No
 2018,Jester Weah\WeahJe00,23,Pittsburgh,1.8796,95.70799007,4.43,96.52,15,327.66,7.24,4.41,NA,27.09051887,offense,backs_receivers,WR,No
 2018,Levi Wallace\WallLe00,22,Alabama,1.8288,83.00740371,4.63,83.82,NA,NA,NA,NA,NA,24.81900715,defense,defensive_back,CB,No
@@ -3274,24 +3274,24 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2018,Van Smith\SmitVa00,21,Clemson,1.8034,83.91458845,4.61,74.93,NA,NA,NA,NA,NA,25.80199806,defense,defensive_back,S,No
 2018,Coleman Shelton\ShelCo00,22,Washington,1.905,132.448972,5.24,67.31,NA,279.4,7.62,4.59,NA,36.49712307,offense,offensive_lineman,C,No
 2018,Tegray Scales\ScalTe00,21,Indiana,1.8288,104.3262451,4.77,NA,27,NA,NA,NA,NA,31.19328768,defense,line_backer,ILB,No
-2018,Korey Robertson\RobeKo00,NA,Southern Miss,1.8542,96.16158244,4.56,86.36,13,312.42,NA,NA,NA,27.96974121,offense,backs_receivers,WR,No
+2018,Korey Robertson\RobeKo00,22,Southern Miss,1.8542,96.16158244,4.56,86.36,13,312.42,NA,NA,NA,27.96974121,offense,backs_receivers,WR,No
 2018,Byron Pringle\PrinBy00,24,Kansas St.,1.8542,92.07925111,4.46,85.09,15,304.8,6.87,4.4,NA,26.78234653,offense,backs_receivers,WR,No
 2018,Cam Phillips\PhilCa01,22,Virginia Tech,1.8288,91.17206637,NA,NA,NA,NA,NA,NA,NA,27.26022097,offense,backs_receivers,WR,No
 2018,Skai Moore\MoorSk00,23,South Carolina,1.8796,102.5118756,4.73,91.44,NA,297.18,NA,NA,NA,29.01638514,defense,line_backer,OLB,No
 2018,Quenton Meeks\MeekQu00,21,Stanford,1.8796,92.98643585,NA,99.06,11,325.12,6.72,4.23,NA,26.32017236,defense,defensive_back,DB,No
-2018,Tarvarus McFadden\McFaTa00,NA,Florida St.,1.8796,89.81128926,4.67,97.79,NA,307.34,NA,NA,NA,25.42143476,defense,defensive_back,CB,No
-2018,Kc McDermott\McDeKC00,NA,Miami (FL),1.9812,141.0672271,5.35,59.69,26,246.38,7.72,4.82,NA,35.93928982,offense,offensive_lineman,OG,No
-2018,Mike McCray\McCrMi01,NA,Michigan,1.9304,110.2229459,4.76,80.01,16,302.26,7.09,4.25,NA,29.57858516,defense,line_backer,ILB,No
-2018,Chase Litton\LittCh00,NA,Marshall,1.9558,104.3262451,4.9,74.93,NA,269.24,7.49,4.53,NA,27.27373981,offense,backs_receivers,QB,No
+2018,Tarvarus McFadden\McFaTa00,21,Florida St.,1.8796,89.81128926,4.67,97.79,NA,307.34,NA,NA,NA,25.42143476,defense,defensive_back,CB,No
+2018,Kc McDermott\McDeKC00,21,Miami (FL),1.9812,141.0672271,5.35,59.69,26,246.38,7.72,4.82,NA,35.93928982,offense,offensive_lineman,OG,No
+2018,Mike McCray\McCrMi01,23,Michigan,1.9304,110.2229459,4.76,80.01,16,302.26,7.09,4.25,NA,29.57858516,defense,line_backer,ILB,No
+2018,Chase Litton\LittCh00,22,Marshall,1.9558,104.3262451,4.9,74.93,NA,269.24,7.49,4.53,NA,27.27373981,offense,backs_receivers,QB,No
 2018,Allen Lazard\LazaAl00,22,Iowa St.,1.9558,102.965468,4.55,96.52,17,309.88,NA,NA,NA,26.91799538,offense,backs_receivers,WR,No
-2018,Kameron Kelly\KellKa00,NA,San Diego St.,1.8796,90.718474,4.66,83.82,9,304.8,6.94,4.28,NA,25.67821693,defense,defensive_back,S,No
+2018,Kameron Kelly\KellKa00,21,San Diego St.,1.8796,90.718474,4.66,83.82,9,304.8,6.94,4.28,NA,25.67821693,defense,defensive_back,S,No
 2018,Godwin Igwebuike\IgweGo00,23,Northwestern,1.8288,92.98643585,4.44,90.17,19,325.12,6.56,4.12,NA,27.80271293,defense,defensive_back,S,No
 2018,Holton Hill\HillHo00,20,Texas,1.905,90.718474,4.49,78.74,14,304.8,6.83,4.15,NA,24.9980295,defense,defensive_back,CB,No
-2018,Zaycoven Henderson\HendZa00,NA,Texas A&M,1.8288,135.1705263,5.16,74.93,20,266.7,7.33,4.58,NA,40.41565099,defense,defensive_lineman,DT,No
+2018,Zaycoven Henderson\HendZa00,23,Texas A&M,1.8288,135.1705263,5.16,74.93,20,266.7,7.33,4.58,NA,40.41565099,defense,defensive_lineman,DT,No
 2018,Quadree Henderson\HendQu00,21,Pittsburgh,1.7272,87.08973504,4.5,82.55,12,304.8,6.89,4.28,NA,29.19320054,offense,backs_receivers,WR,No
 2018,Taylor Hearn\HearTa00,22,Clemson,1.9304,145.1495584,5.45,60.96,18,243.84,7.84,4.8,NA,38.95122325,offense,offensive_lineman,OG,No
 2018,Nick Gates\GateNi00,22,Nebraska,1.9558,139.2528576,5.46,60.96,20,238.76,7.61,4.68,NA,36.40451357,offense,offensive_lineman,OT,No
-2018,Jarvion Franklin\FranJa02,NA,West. Michigan,1.8034,108.4085764,4.63,76.2,18,276.86,6.93,4.31,NA,33.33339209,offense,backs_receivers,RB,No
+2018,Jarvion Franklin\FranJa02,22,West. Michigan,1.8034,108.4085764,4.63,76.2,18,276.86,6.93,4.31,NA,33.33339209,offense,backs_receivers,RB,No
 2018,Dimitri Flowers\FlowDi00,22,Oklahoma,1.8796,112.4909078,4.83,77.47,17,276.86,7.45,4.53,NA,31.840989,offense,backs_receivers,RB,No
 2018,Riley Ferguson\FergRi00,23,Memphis,1.905,96.16158244,4.98,73.66,NA,279.4,6.96,4.4,NA,26.49791127,offense,backs_receivers,QB,No
 2018,Brandon Facyson\FacyBr00,23,Virginia Tech,1.8796,89.35769689,4.53,NA,16,NA,NA,NA,NA,25.29304368,defense,defensive_back,CB,No
@@ -3300,179 +3300,179 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2018,Jason Cabinda\CabiJa00,21,Penn St.,1.8542,108.4085764,NA,NA,19,NA,NA,NA,NA,31.53192523,defense,line_backer,ILB,No
 2018,Deontay Burnett\BurnDe00,20,USC,1.8288,84.36818082,NA,NA,NA,NA,NA,NA,NA,25.22587612,offense,backs_receivers,WR,No
 2018,David Bright\BrigDa00,NA,Stanford,1.9558,139.2528576,NA,NA,NA,NA,NA,NA,NA,36.40451357,offense,offensive_lineman,OT,No
-2018,Quin Blanding\BlanQu00,NA,Virginia,1.8796,97.52235955,4.63,80.01,NA,309.88,NA,NA,NA,27.6040832,defense,defensive_back,S,No
+2018,Quin Blanding\BlanQu00,21,Virginia,1.8796,97.52235955,4.63,80.01,NA,309.88,NA,NA,NA,27.6040832,defense,defensive_back,S,No
 2018,Kurt Benkert\BenkKu01,22,Virginia,1.905,98.88313666,4.95,78.74,16,284.48,7.15,4.33,NA,27.24785215,offense,backs_receivers,QB,No
 2018,Marcus Baugh\BaugMa01,23,Ohio St.,1.905,112.0373154,4.81,83.82,NA,297.18,7.28,4.51,NA,30.87256643,offense,backs_receivers,TE,No
 2018,J.T. Barrett\BarrJ.00,23,Ohio St.,1.8542,101.6046909,4.7,76.2,NA,274.32,7.38,4.44,NA,29.5529341,offense,backs_receivers,QB,No
 2018,Josh Adams\AdamJo03,21,Notre Dame,1.8796,96.61517481,NA,NA,18,NA,NA,NA,NA,27.34730103,offense,backs_receivers,RB,No
-2018,Ryan Winslow,NA,Pittsburgh,1.9558,98.42954429,NA,NA,NA,NA,NA,NA,NA,25.7321806,special_teams,kicking_specialist,P,No
-2018,Jeff Wilson,NA,North Texas,1.8034,95.2543977,NA,NA,15,NA,NA,NA,NA,29.28875456,offense,backs_receivers,RB,No
-2018,Eddy Wilson,NA,Purdue,1.9304,136.5313034,5.37,NA,26,243.84,NA,NA,NA,36.63849437,defense,defensive_lineman,DT,No
-2018,Jake Wieneke,NA,South Dakota St.,1.9304,100.2439138,4.67,86.36,9,289.56,7.24,4.37,NA,26.90068856,offense,backs_receivers,WR,No
-2018,Karaun White,NA,West Virginia,1.8542,93.44002822,4.52,85.09,24,299.72,7.16,4.57,NA,27.17814476,offense,backs_receivers,WR,No
-2018,David Wells,NA,San Diego St.,1.9812,116.1196467,4.75,83.82,20,294.64,7.5,4.59,NA,29.58346686,offense,backs_receivers,TE,No
-2018,Chris Warren,NA,Texas,1.8796,112.0373154,4.69,83.82,25,307.34,6.98,4.18,NA,31.71259791,offense,backs_receivers,RB,No
-2018,Trey Walker,NA,Louisiana-Lafayette,1.8796,90.718474,4.51,83.82,14,302.26,7,4.28,NA,25.67821693,defense,defensive_back,S,No
-2018,Dmontre Wade,NA,Murray St.,1.8288,90.718474,4.57,90.17,15,304.8,NA,4.4,NA,27.12459798,defense,defensive_back,CB,No
-2018,Shane Tripucka,NA,Texas A&M,1.905,95.70799007,NA,NA,NA,NA,NA,NA,NA,26.37292112,special_teams,kicking_specialist,P,No
-2018,Brett Toth,NA,Army,1.9812,131.9953797,NA,NA,NA,NA,NA,NA,NA,33.62808147,offense,offensive_lineman,OT,No
-2018,Kevin Toliver,NA,LSU,1.905,92.53284348,NA,83.82,10,304.8,NA,NA,NA,25.49799009,defense,defensive_back,CB,No
-2018,Henre Toliver,NA,Arkansas,1.8542,83.91458845,4.63,82.55,6,297.18,7.01,4.15,NA,24.40755718,defense,defensive_back,CB,No
-2018,Roc Thomas,NA,Jacksonville St.,1.778,89.81128926,4.56,90.17,16,317.5,NA,NA,NA,28.40975036,offense,backs_receivers,RB,No
+2018,Ryan Winslow,23,Pittsburgh,1.9558,98.42954429,NA,NA,NA,NA,NA,NA,NA,25.7321806,special_teams,kicking_specialist,P,No
+2018,Jeff Wilson,22,North Texas,1.8034,95.2543977,NA,NA,15,NA,NA,NA,NA,29.28875456,offense,backs_receivers,RB,No
+2018,Eddy Wilson,21,Purdue,1.9304,136.5313034,5.37,NA,26,243.84,NA,NA,NA,36.63849437,defense,defensive_lineman,DT,No
+2018,Jake Wieneke,23,South Dakota St.,1.9304,100.2439138,4.67,86.36,9,289.56,7.24,4.37,NA,26.90068856,offense,backs_receivers,WR,No
+2018,Karaun White,24,West Virginia,1.8542,93.44002822,4.52,85.09,24,299.72,7.16,4.57,NA,27.17814476,offense,backs_receivers,WR,No
+2018,David Wells,22,San Diego St.,1.9812,116.1196467,4.75,83.82,20,294.64,7.5,4.59,NA,29.58346686,offense,backs_receivers,TE,No
+2018,Chris Warren,21,Texas,1.8796,112.0373154,4.69,83.82,25,307.34,6.98,4.18,NA,31.71259791,offense,backs_receivers,RB,No
+2018,Tracy Walker,23,Louisiana-Lafayette,1.8796,90.718474,4.51,83.82,14,302.26,7,4.28,Detroit Lions / 3rd / 82nd pick / 2018,25.67821693,defense,defensive_back,S,Yes
+2018,Dmontre Wade,23,Murray St.,1.8288,90.718474,4.57,90.17,15,304.8,NA,4.4,NA,27.12459798,defense,defensive_back,CB,No
+2018,Shane Tripucka,22,Texas A&M,1.905,95.70799007,NA,NA,NA,NA,NA,NA,NA,26.37292112,special_teams,kicking_specialist,P,No
+2018,Brett Toth,21,Army,1.9812,131.9953797,NA,NA,NA,NA,NA,NA,NA,33.62808147,offense,offensive_lineman,OT,No
+2018,Kevin Toliver,22,LSU,1.905,92.53284348,NA,83.82,10,304.8,NA,NA,NA,25.49799009,defense,defensive_back,CB,No
+2018,Henre Toliver,21,Arkansas,1.8542,83.91458845,4.63,82.55,6,297.18,7.01,4.15,NA,24.40755718,defense,defensive_back,CB,No
+2018,Roc Thomas,22,Jacksonville St.,1.778,89.81128926,4.56,90.17,16,317.5,NA,NA,NA,28.40975036,offense,backs_receivers,RB,No
 2018,Jordan Thomas,NA,Oklahoma,1.8288,84.36818082,4.64,96.52,4,314.96,6.28,3.94,NA,25.22587612,defense,defensive_back,CB,No
-2018,Taylor Stallworth,NA,South Carolina,1.8796,141.5208194,5.28,59.69,18,256.54,7.95,4.75,NA,40.05801842,defense,defensive_lineman,DT,No
-2018,Trequan Smith,NA,Central Florida,1.8796,92.07925111,4.49,95.25,12,330.2,6.97,4.5,NA,26.06339019,offense,backs_receivers,WR,No
-2018,Nic Shimonek,NA,Texas Tech,1.905,99.7903214,4.88,72.39,NA,256.54,7.28,4.32,NA,27.49783245,offense,backs_receivers,QB,No
-2018,Dominick Sanders,NA,Georgia,1.8288,87.54332741,NA,NA,14,NA,NA,NA,NA,26.17523705,defense,defensive_back,S,No
-2018,Olubunmi Rotimi,NA,Old Dominion,1.9304,123.830717,NA,81.28,21,287.02,7.46,4.7,NA,33.23026233,defense,defensive_lineman,DE,No
-2018,Stephen Roberts,NA,Auburn,1.8034,85.72895793,4.53,86.36,NA,307.34,NA,NA,NA,26.3598791,defense,defensive_back,S,No
-2018,Demario Richard,NA,Arizona State,1.7526,98.88313666,4.7,74.93,12,292.1,NA,NA,NA,32.19264196,offense,backs_receivers,RB,No
-2018,Max Redfield,NA,Indiana (PA),1.8542,92.98643585,4.69,NA,15,NA,NA,NA,NA,27.04621202,defense,defensive_back,S,No
-2018,Jacob Pugh,NA,Florida St.,1.9304,111.583723,4.65,97.79,NA,309.88,NA,NA,NA,29.94375287,defense,line_backer,OLB,No
-2018,Eddy Pineiro,NA,Florida,1.8288,83.91458845,NA,NA,NA,NA,NA,NA,NA,25.09025313,special_teams,kicking_specialist,K,No
-2018,Skyler Phillips,NA,Idaho St.,1.905,144.2423737,5.1,73.66,NA,264.16,7.95,4.69,NA,39.7468669,offense,offensive_lineman,OG,No
-2018,Kamryn Pettway,NA,Auburn,1.8288,105.6870222,4.74,85.09,22,294.64,NA,NA,NA,31.60015665,offense,backs_receivers,RB,No
-2018,Daron Payne,NA,Alabama,1.8796,141.0672271,4.95,72.39,27,271.78,7.58,4.71,NA,39.92962733,defense,defensive_lineman,DT,No
-2018,Timon Parris,NA,Stony Brook,1.9812,141.5208194,NA,NA,27,NA,NA,NA,NA,36.05485024,offense,offensive_lineman,OT,No
-2018,Ryan Nall,NA,Oregon St.,1.8796,105.2334298,4.58,83.82,15,309.88,6.95,4.16,NA,29.78673164,offense,backs_receivers,RB,No
-2018,Jmon Moore,NA,Missouri,1.905,93.89362059,4.6,96.52,21,304.8,6.56,4.04,NA,25.87296053,offense,backs_receivers,WR,No
-2018,Steven Mitchell,NA,USC,1.778,85.72895793,4.56,82.55,13,307.34,6.75,4.4,NA,27.11839807,offense,backs_receivers,WR,No
-2018,Tavares Martin,NA,Washington St.,1.8542,80.28584949,4.8,80.01,NA,NA,NA,NA,NA,23.35209525,offense,backs_receivers,WR,No
-2018,K.J. Malone,NA,LSU,1.9304,137.4384881,5.34,74.93,15,261.62,NA,NA,NA,36.88193951,offense,offensive_lineman,OG,No
-2018,Lowell Lotulelei,NA,Utah,1.8796,142.8815966,NA,NA,28,NA,NA,NA,NA,40.44319167,defense,defensive_lineman,DT,No
-2018,Chris Lacy,NA,Oklahoma St.,1.905,92.98643585,4.51,85.09,11,304.8,NA,NA,NA,25.62298024,offense,backs_receivers,WR,No
-2018,Jamarcus King,NA,South Carolina,1.8542,84.36818082,4.7,NA,NA,NA,NA,NA,NA,24.53948993,defense,defensive_back,CB,No
-2018,Joshua Kalu,NA,Nebraska,1.8542,88.45051215,4.58,105.41,17,340.36,NA,NA,NA,25.7268846,defense,defensive_back,S,No
-2018,Michael Joseph,NA,Dubuque,1.8542,82.10021897,NA,86.36,17,NA,6.89,4.2,NA,23.87982622,defense,defensive_back,CB,No
-2018,Jaryd Jones-Smith,NA,Pittsburgh,1.9812,143.7887813,5.22,68.58,16,276.86,8.1,4.94,NA,36.63265233,offense,offensive_lineman,OT,No
-2018,Ronald Jones,NA,USC,1.8034,92.98643585,4.65,92.71,NA,NA,NA,NA,NA,28.59140326,offense,backs_receivers,RB,No
-2018,Chris Jones,NA,Nebraska,1.8288,88.45051215,4.57,NA,14,NA,NA,NA,NA,26.44648303,defense,defensive_back,CB,No
-2018,Danny Johnson,NA,Southern,1.778,83.91458845,4.44,88.9,15,312.42,NA,NA,NA,26.54446372,defense,defensive_back,CB,No
-2018,Richie James,NA,Middle Tennessee St.,1.778,83.00740371,4.48,90.17,6,309.88,6.87,4.16,NA,26.25749655,offense,backs_receivers,WR,No
-2018,J.C. Jackson,NA,Maryland,1.8034,87.54332741,4.46,90.17,14,304.8,NA,NA,NA,26.91776014,defense,defensive_back,CB,No
-2018,Maurice Hurst,NA,Michigan,1.8796,132.448972,NA,NA,NA,NA,NA,NA,NA,37.49019672,defense,defensive_lineman,DT,No
+2018,Taylor Stallworth,22,South Carolina,1.8796,141.5208194,5.28,59.69,18,256.54,7.95,4.75,NA,40.05801842,defense,defensive_lineman,DT,No
+2018,Trequan Smith,22,Central Florida,1.8796,92.07925111,4.49,95.25,12,330.2,6.97,4.5,NA,26.06339019,offense,backs_receivers,WR,No
+2018,Nic Shimonek,23,Texas Tech,1.905,99.7903214,4.88,72.39,NA,256.54,7.28,4.32,NA,27.49783245,offense,backs_receivers,QB,No
+2018,Dominick Sanders,22,Georgia,1.8288,87.54332741,NA,NA,14,NA,NA,NA,NA,26.17523705,defense,defensive_back,S,No
+2018,Olubunmi Rotimi,22,Old Dominion,1.9304,123.830717,NA,81.28,21,287.02,7.46,4.7,NA,33.23026233,defense,defensive_lineman,DE,No
+2018,Stephen Roberts,22,Auburn,1.8034,85.72895793,4.53,86.36,NA,307.34,NA,NA,NA,26.3598791,defense,defensive_back,S,No
+2018,Demario Richard,21,Arizona State,1.7526,98.88313666,4.7,74.93,12,292.1,NA,NA,NA,32.19264196,offense,backs_receivers,RB,No
+2018,Max Redfield,23,Indiana (PA),1.8542,92.98643585,4.69,NA,15,NA,NA,NA,NA,27.04621202,defense,defensive_back,S,No
+2018,Jacob Pugh,22,Florida St.,1.9304,111.583723,4.65,97.79,NA,309.88,NA,NA,NA,29.94375287,defense,line_backer,OLB,No
+2018,Eddy Pineiro,22,Florida,1.8288,83.91458845,NA,NA,NA,NA,NA,NA,NA,25.09025313,special_teams,kicking_specialist,K,No
+2018,Skyler Phillips,22,Idaho St.,1.905,144.2423737,5.1,73.66,NA,264.16,7.95,4.69,NA,39.7468669,offense,offensive_lineman,OG,No
+2018,Kamryn Pettway,21,Auburn,1.8288,105.6870222,4.74,85.09,22,294.64,NA,NA,NA,31.60015665,offense,backs_receivers,RB,No
+2018,Daron Payne\PaynDa00,20,Alabama,1.8796,141.0672271,4.95,72.39,27,271.78,7.58,4.71,Washington Redskins / 1st / 13th pick / 2018,39.92962733,defense,defensive_lineman,DT,Yes
+2018,Timon Parris,22,Stony Brook,1.9812,141.5208194,NA,NA,27,NA,NA,NA,NA,36.05485024,offense,offensive_lineman,OT,No
+2018,Ryan Nall,22,Oregon St.,1.8796,105.2334298,4.58,83.82,15,309.88,6.95,4.16,NA,29.78673164,offense,backs_receivers,RB,No
+2018,Jmon Moore,22,Missouri,1.905,93.89362059,4.6,96.52,21,304.8,6.56,4.04,NA,25.87296053,offense,backs_receivers,WR,No
+2018,Steven Mitchell,23,USC,1.778,85.72895793,4.56,82.55,13,307.34,6.75,4.4,NA,27.11839807,offense,backs_receivers,WR,No
+2018,Tavares Martin,22,Washington St.,1.8542,80.28584949,4.8,80.01,NA,NA,NA,NA,NA,23.35209525,offense,backs_receivers,WR,No
+2018,K.J. Malone,22,LSU,1.9304,137.4384881,5.34,74.93,15,261.62,NA,NA,NA,36.88193951,offense,offensive_lineman,OG,No
+2018,Lowell Lotulelei,22,Utah,1.8796,142.8815966,NA,NA,28,NA,NA,NA,NA,40.44319167,defense,defensive_lineman,DT,No
+2018,Chris Lacy,22,Oklahoma St.,1.905,92.98643585,4.51,85.09,11,304.8,NA,NA,NA,25.62298024,offense,backs_receivers,WR,No
+2018,Jamarcus King,23,South Carolina,1.8542,84.36818082,4.7,NA,NA,NA,NA,NA,NA,24.53948993,defense,defensive_back,CB,No
+2018,Joshua Kalu,22,Nebraska,1.8542,88.45051215,4.58,105.41,17,340.36,NA,NA,NA,25.7268846,defense,defensive_back,S,No
+2018,Michael Joseph,22,Dubuque,1.8542,82.10021897,NA,86.36,17,NA,6.89,4.2,NA,23.87982622,defense,defensive_back,CB,No
+2018,Jaryd Jones-Smith,22,Pittsburgh,1.9812,143.7887813,5.22,68.58,16,276.86,8.1,4.94,NA,36.63265233,offense,offensive_lineman,OT,No
+2018,Ronald Jones\JoneRo01,20,USC,1.8034,92.98643585,4.65,92.71,NA,NA,NA,NA,Tampa Bay Buccaneers / 2nd / 38th pick / 2018,28.59140326,offense,backs_receivers,RB,Yes
+2018,Chris Jones,22,Nebraska,1.8288,88.45051215,4.57,NA,14,NA,NA,NA,NA,26.44648303,defense,defensive_back,CB,No
+2018,Danny Johnson,22,Southern,1.778,83.91458845,4.44,88.9,15,312.42,NA,NA,NA,26.54446372,defense,defensive_back,CB,No
+2018,Richie James\JameRi00,22,Middle Tennessee St.,1.778,83.00740371,4.48,90.17,6,309.88,6.87,4.16,San Francisco 49ers / 7th / 240th pick / 2018,26.25749655,offense,backs_receivers,WR,Yes
+2018,J.C. Jackson,22,Maryland,1.8034,87.54332741,4.46,90.17,14,304.8,NA,NA,NA,26.91776014,defense,defensive_back,CB,No
+2018,Maurice Hurst\HursMa00,22,Michigan,1.8796,132.448972,NA,NA,NA,NA,NA,NA,Oakland Raiders / 5th / 140th pick / 2018,37.49019672,defense,defensive_lineman,DT,Yes
 2018,Kyle Hicks,NA,TCU,1.778,92.53284348,4.63,92.71,13,309.88,NA,NA,NA,29.27065189,offense,backs_receivers,RB,No
-2018,Chris Herndon,NA,Miami (FL),1.9304,114.7588696,NA,NA,21,NA,NA,NA,NA,30.79581088,offense,backs_receivers,TE,No
-2018,Desmond Harrison,NA,West Georgia,1.9812,132.448972,4.9,NA,NA,NA,NA,NA,NA,33.74364189,offense,offensive_lineman,OT,No
-2018,Dashawn Hand,NA,Alabama,1.9304,134.7169339,4.83,80.01,28,281.94,7.98,4.62,NA,36.15160408,defense,defensive_lineman,DE,No
-2018,Grant Haley,NA,Penn St.,1.7526,86.1825503,4.44,86.36,15,302.26,6.51,3.94,NA,28.05780721,defense,defensive_back,CB,No
-2018,Davon Grayson,NA,East Carolina,1.8542,90.26488163,4.51,87.63,19,314.96,NA,NA,NA,26.25461557,offense,backs_receivers,WR,No
-2018,John Franklin-Myers,NA,Stephen F. Austin,1.9304,128.3666407,4.75,83.82,26,287.02,7.36,4.48,NA,34.44748806,defense,defensive_lineman,DE,No
-2018,Robert Foster,NA,Alabama,1.8796,88.90410452,4.41,78.74,NA,294.64,6.9,4.2,NA,25.1646526,offense,backs_receivers,WR,No
-2018,Quinton Flowers,NA,South Florida,1.778,97.06876718,4.63,NA,NA,284.48,6.81,4.57,NA,30.70548776,offense,backs_receivers,QB,No
-2018,Foley Fatukasi,NA,Connecticut,1.9304,144.2423737,5.29,76.2,33,284.48,7.44,4.53,NA,38.7077781,defense,defensive_lineman,DT,No
-2018,Rashard Fant,NA,Indiana,1.778,79.37866475,NA,NA,NA,NA,NA,NA,NA,25.10962784,defense,defensive_back,CB,No
-2018,Donnie Ernsberger,NA,Western Michigan,1.905,109.3157612,4.78,78.74,15,289.56,7.09,4.34,NA,30.12262555,offense,backs_receivers,RB,No
-2018,Matt Dickerson,NA,UCLA,1.9304,132.448972,5.06,78.74,26,NA,NA,NA,NA,35.54299122,defense,defensive_lineman,DE,No
-2018,Nick Deluca,NA,North Dakota St.,1.905,113.8516849,4.85,74.93,18,284.48,7.09,4.23,NA,31.37252702,defense,line_backer,OLB,No
-2018,Dee Delaney,NA,Miami (FL),1.8542,87.99691978,4.46,82.55,13,304.8,6.95,4.25,NA,25.59495186,defense,defensive_back,CB,No
-2018,Joseph Davidson,NA,Bowling Green,2.0066,105.2334298,NA,NA,NA,NA,NA,NA,NA,26.13557803,special_teams,kicking_specialist,P,No
-2018,Trevor Daniel,NA,Tennessee,1.8542,104.3262451,4.98,82.55,23,302.26,NA,NA,NA,30.34453055,special_teams,kicking_specialist,P,No
-2018,Justin Crawford,NA,West Virginia,1.8034,90.26488163,4.64,85.09,11,309.88,NA,NA,NA,27.7545817,offense,backs_receivers,RB,No
-2018,Lavon Coleman,NA,Washington,1.8034,97.52235955,4.65,83.82,23,304.8,NA,NA,NA,29.98610586,offense,backs_receivers,RB,No
-2018,D.J. Chark,NA,LSU,1.905,90.26488163,4.34,101.6,16,327.66,NA,NA,NA,24.87303935,offense,backs_receivers,WR,No
-2018,Andre Chachere,NA,San Jose St.,1.8288,90.718474,4.49,96.52,13,312.42,6.78,4.07,NA,27.12459798,defense,defensive_back,CB,No
-2018,Darren Carrington II,NA,Utah,1.8796,90.26488163,NA,91.44,NA,304.8,NA,NA,NA,25.54982585,offense,backs_receivers,WR,No
-2018,Tanner Carew,NA,Oregon,1.8542,110.2229459,5,76.2,18,281.94,7.26,4.28,NA,32.05965619,special_teams,other_special,LS,No
-2018,Chris Campbell,NA,Penn St.,1.8542,87.99691978,NA,NA,14,NA,NA,NA,NA,25.59495186,defense,defensive_back,CB,No
-2018,Tony Brown,NA,Alabama,1.8288,89.81128926,4.35,80.01,14,320.04,6.78,4.11,NA,26.853352,defense,defensive_back,CB,No
-2018,Drew Brown,NA,Nebraska,1.778,94.34721296,NA,NA,NA,NA,NA,NA,NA,29.84458624,special_teams,kicking_specialist,K,No
-2018,Jessie Bates,NA,Wake Forest,1.8796,88.45051215,4.5,90.17,NA,297.18,6.78,4.26,NA,25.03626151,defense,defensive_back,S,No
-2018,Mike Badgley,NA,Miami (FL),1.778,83.00740371,4.94,NA,NA,281.94,NA,NA,NA,26.25749655,special_teams,kicking_specialist,K,No
-2018,John Atkins,NA,Georgia,1.9304,145.6031508,5.38,60.96,NA,226.06,7.95,4.75,NA,39.07294582,defense,defensive_lineman,DT,No
-2018,Austin Allen,NA,Arkansas,1.8288,95.2543977,4.81,74.93,NA,284.48,7.18,4.48,NA,28.48082788,offense,backs_receivers,QB,No
-2019,Evan Worthington\WortEv00,NA,Colorado,1.8796,96.16158244,4.63,85.09,17,307.34,7.07,4.37,NA,27.21890995,defense,defensive_back,S,No
-2019,Zedrick Woods\WoodZe00,NA,Mississippi,1.8034,92.98643585,4.29,87.63,19,309.88,7,4.15,NA,28.59140326,defense,defensive_back,S,No
-2019,Andrew Wingard\WingAn00,NA,Wyoming,1.8288,94.80080533,4.56,92.71,9,307.34,7.08,4.2,NA,28.34520489,defense,defensive_back,S,No
+2018,Chris Herndon\HernCh00,22,Miami (FL),1.9304,114.7588696,NA,NA,21,NA,NA,NA,New York Jets / 4th / 107th pick / 2018,30.79581088,offense,backs_receivers,TE,Yes
+2018,Desmond Harrison,24,West Georgia,1.9812,132.448972,4.9,NA,NA,NA,NA,NA,NA,33.74364189,offense,offensive_lineman,OT,No
+2018,Dashawn Hand,22,Alabama,1.9304,134.7169339,4.83,80.01,28,281.94,7.98,4.62,NA,36.15160408,defense,defensive_lineman,DE,No
+2018,Grant Haley,22,Penn St.,1.7526,86.1825503,4.44,86.36,15,302.26,6.51,3.94,NA,28.05780721,defense,defensive_back,CB,No
+2018,Davon Grayson,22,East Carolina,1.8542,90.26488163,4.51,87.63,19,314.96,NA,NA,NA,26.25461557,offense,backs_receivers,WR,No
+2018,John Franklin-Myers\FranJo02,21,Stephen F. Austin,1.9304,128.3666407,4.75,83.82,26,287.02,7.36,4.48,Los Angeles Rams / 4th / 135th pick / 2018,34.44748806,defense,defensive_lineman,DE,Yes
+2018,Robert Foster,23,Alabama,1.8796,88.90410452,4.41,78.74,NA,294.64,6.9,4.2,NA,25.1646526,offense,backs_receivers,WR,No
+2018,Quinton Flowers,23,South Florida,1.778,97.06876718,4.63,NA,NA,284.48,6.81,4.57,NA,30.70548776,offense,backs_receivers,QB,No
+2018,Foley Fatukasi\FatuFo00,22,Connecticut,1.9304,144.2423737,5.29,76.2,33,284.48,7.44,4.53,New York Jets / 6th / 180th pick / 2018,38.7077781,defense,defensive_lineman,DT,Yes
+2018,Rashard Fant,23,Indiana,1.778,79.37866475,NA,NA,NA,NA,NA,NA,NA,25.10962784,defense,defensive_back,CB,No
+2018,Donnie Ernsberger,21,Western Michigan,1.905,109.3157612,4.78,78.74,15,289.56,7.09,4.34,NA,30.12262555,offense,backs_receivers,RB,No
+2018,Matt Dickerson,22,UCLA,1.9304,132.448972,5.06,78.74,26,NA,NA,NA,NA,35.54299122,defense,defensive_lineman,DE,No
+2018,Nick Deluca,23,North Dakota St.,1.905,113.8516849,4.85,74.93,18,284.48,7.09,4.23,NA,31.37252702,defense,line_backer,OLB,No
+2018,Dee Delaney,23,Miami (FL),1.8542,87.99691978,4.46,82.55,13,304.8,6.95,4.25,NA,25.59495186,defense,defensive_back,CB,No
+2018,Joseph Davidson,23,Bowling Green,2.0066,105.2334298,NA,NA,NA,NA,NA,NA,NA,26.13557803,special_teams,kicking_specialist,P,No
+2018,Trevor Daniel,23,Tennessee,1.8542,104.3262451,4.98,82.55,23,302.26,NA,NA,NA,30.34453055,special_teams,kicking_specialist,P,No
+2018,Justin Crawford,23,West Virginia,1.8034,90.26488163,4.64,85.09,11,309.88,NA,NA,NA,27.7545817,offense,backs_receivers,RB,No
+2018,Lavon Coleman,23,Washington,1.8034,97.52235955,4.65,83.82,23,304.8,NA,NA,NA,29.98610586,offense,backs_receivers,RB,No
+2018,D.J. Chark\CharDJ00,21,LSU,1.905,90.26488163,4.34,101.6,16,327.66,NA,NA,Jacksonville Jaguars / 2nd / 61st pick / 2018,24.87303935,offense,backs_receivers,WR,Yes
+2018,Andre Chachere,22,San Jose St.,1.8288,90.718474,4.49,96.52,13,312.42,6.78,4.07,NA,27.12459798,defense,defensive_back,CB,No
+2018,Darren Carrington II,23,Utah,1.8796,90.26488163,NA,91.44,NA,304.8,NA,NA,NA,25.54982585,offense,backs_receivers,WR,No
+2018,Tanner Carew,22,Oregon,1.8542,110.2229459,5,76.2,18,281.94,7.26,4.28,NA,32.05965619,special_teams,other_special,LS,No
+2018,Chris Campbell,22,Penn St.,1.8542,87.99691978,NA,NA,14,NA,NA,NA,NA,25.59495186,defense,defensive_back,CB,No
+2018,Tony Brown,22,Alabama,1.8288,89.81128926,4.35,80.01,14,320.04,6.78,4.11,NA,26.853352,defense,defensive_back,CB,No
+2018,Drew Brown,22,Nebraska,1.778,94.34721296,NA,NA,NA,NA,NA,NA,NA,29.84458624,special_teams,kicking_specialist,K,No
+2018,Jessie Bates\BateJe00,20,Wake Forest,1.8796,88.45051215,4.5,90.17,NA,297.18,6.78,4.26,Cincinnati Bengals / 2nd / 54th pick / 2018,25.03626151,defense,defensive_back,S,Yes
+2018,Mike Badgley,22,Miami (FL),1.778,83.00740371,4.94,NA,NA,281.94,NA,NA,NA,26.25749655,special_teams,kicking_specialist,K,No
+2018,John Atkins,25,Georgia,1.9304,145.6031508,5.38,60.96,NA,226.06,7.95,4.75,NA,39.07294582,defense,defensive_lineman,DT,No
+2018,Austin Allen,23,Arkansas,1.8288,95.2543977,4.81,74.93,NA,284.48,7.18,4.48,NA,28.48082788,offense,backs_receivers,QB,No
+2019,Evan Worthington\WortEv00,23,Colorado,1.8796,96.16158244,4.63,85.09,17,307.34,7.07,4.37,NA,27.21890995,defense,defensive_back,S,No
+2019,Zedrick Woods\WoodZe00,21,Mississippi,1.8034,92.98643585,4.29,87.63,19,309.88,7,4.15,NA,28.59140326,defense,defensive_back,S,No
+2019,Andrew Wingard\WingAn00,22,Wyoming,1.8288,94.80080533,4.56,92.71,9,307.34,7.08,4.2,NA,28.34520489,defense,defensive_back,S,No
 2019,Joejuan Williams\WillJo11,21,Vanderbilt,1.9304,95.70799007,4.64,NA,17,NA,NA,NA,NA,25.68346283,defense,defensive_back,CB,No
 2019,James Williams\WillJa08,22,Washington St.,1.7526,89.35769689,4.58,92.71,NA,299.72,7.01,4.25,NA,29.0915159,offense,backs_receivers,RB,No
 2019,Darius West\WestDa00,NA,Kentucky,1.8034,94.34721296,4.39,85.09,19,287.02,NA,NA,NA,29.00981404,defense,defensive_back,S,No
-2019,Antoine Wesley\WeslAn00,NA,Texas Tech,1.9304,93.44002822,NA,93.98,6,297.18,7.07,4.26,NA,25.07484997,offense,backs_receivers,WR,No
-2019,Jamarius Way\WayxJa00,NA,South Alabama,1.905,97.52235955,4.63,82.55,16,302.26,NA,4.66,NA,26.87288171,offense,backs_receivers,WR,No
-2019,Cole Tracy\TracCo00,NA,LSU,1.778,83.46099608,NA,NA,NA,NA,NA,NA,NA,26.40098013,special_teams,kicking_specialist,K,No
-2019,Cody Thompson\ThomCo03,NA,Toledo,1.8542,92.98643585,4.57,97.79,19,302.26,6.87,4.03,NA,27.04621202,offense,backs_receivers,WR,No
+2019,Antoine Wesley\WeslAn01,21,Texas Tech,1.9304,93.44002822,NA,93.98,6,297.18,7.07,4.26,NA,25.07484997,offense,backs_receivers,WR,No
+2019,Jamarius Way\WayxJa00,22,South Alabama,1.905,97.52235955,4.63,82.55,16,302.26,NA,4.66,NA,26.87288171,offense,backs_receivers,WR,No
+2019,Cole Tracy\TracCo00,22,LSU,1.778,83.46099608,NA,NA,NA,NA,NA,NA,NA,26.40098013,special_teams,kicking_specialist,K,No
+2019,Cody Thompson\ThomCo04,23,Toledo,1.8542,92.98643585,4.57,97.79,19,302.26,6.87,4.03,NA,27.04621202,offense,backs_receivers,WR,No
 2019,Jordan Ta'amu\TaamJo00,21,Mississippi,1.905,100.2439138,4.77,69.85,NA,276.86,7.06,4.36,NA,27.6228226,offense,backs_receivers,QB,No
-2019,William Sweet\SweeWi00,NA,North Carolina,1.9812,141.9744118,5.27,77.47,23,281.94,8.01,5,NA,36.17041066,offense,offensive_lineman,OT,No
-2019,Saivion Smith\SmitSa01,NA,Alabama,1.8542,90.26488163,NA,83.82,11,307.34,7.09,4.37,NA,26.25461557,defense,defensive_back,CB,No
+2019,William Sweet\SweeWi01,21,North Carolina,1.9812,141.9744118,5.27,77.47,23,281.94,8.01,5,NA,36.17041066,offense,offensive_lineman,OT,No
+2019,Saivion Smith\SmitSa02,21,Alabama,1.8542,90.26488163,NA,83.82,11,307.34,7.09,4.37,NA,26.25461557,defense,defensive_back,CB,No
 2019,Jaylen Smith\SmitJa06,21,Louisville,1.8796,99.33672903,4.47,87.63,14,309.88,7.55,4.48,NA,28.11764754,offense,backs_receivers,WR,No
-2019,David Sills\SillDa00,NA,West Virginia,1.905,95.70799007,4.57,95.25,14,297.18,6.97,4.28,NA,26.37292112,offense,backs_receivers,WR,No
-2019,Kyle Shurmur\ShurKy00,NA,Vanderbilt,1.9304,104.3262451,4.91,74.93,NA,269.24,7.51,4.53,NA,27.99619171,offense,backs_receivers,QB,No
-2019,Lj Scott\ScotLJ00,NA,Michigan St.,1.8288,102.965468,NA,83.82,21,304.8,7.27,4.34,NA,30.78641871,offense,backs_receivers,RB,No
+2019,David Sills\SillDa00,22,West Virginia,1.905,95.70799007,4.57,95.25,14,297.18,6.97,4.28,NA,26.37292112,offense,backs_receivers,WR,No
+2019,Kyle Shurmur\ShurKy01,22,Vanderbilt,1.9304,104.3262451,4.91,74.93,NA,269.24,7.51,4.53,NA,27.99619171,offense,backs_receivers,QB,No
+2019,Lj Scott\ScotLJ00,22,Michigan St.,1.8288,102.965468,NA,83.82,21,304.8,7.27,4.34,NA,30.78641871,offense,backs_receivers,RB,No
 2019,Brett Rypien\RypiBr00,22,Boise St.,1.8796,95.2543977,4.91,83.82,NA,294.64,7.1,4.29,NA,26.96212778,offense,backs_receivers,QB,No
 2019,Tyler Roemer\RoemTy00,21,San Diego St.,1.9812,141.5208194,5.21,77.47,18,274.32,7.75,4.76,NA,36.05485024,offense,offensive_lineman,OT,No
-2019,Dax Raymond\RaymDa00,NA,Utah St.,1.9558,115.6660544,4.73,81.28,15,276.86,7.15,4.39,NA,30.23827674,offense,backs_receivers,TE,No
+2019,Dax Raymond\RaymDa01,24,Utah St.,1.9558,115.6660544,4.73,81.28,15,276.86,7.15,4.39,NA,30.23827674,offense,backs_receivers,TE,No
 2019,Ryan Pulley\PullRy00,23,Arkansas,1.8034,94.80080533,4.61,78.74,11,281.94,NA,NA,NA,29.1492843,defense,defensive_back,CB,No
 2019,Ryan Pope\PopeRy00,22,San Diego St.,2.0066,145.1495584,NA,NA,25,NA,NA,NA,NA,36.04907314,offense,offensive_lineman,OT,No
 2019,Jamal Peters\PeteJa00,22,Mississippi St.,1.8796,98.88313666,4.63,NA,NA,NA,NA,NA,NA,27.98925646,defense,defensive_back,CB,No
-2019,Yosh Nijman\NijmYo00,NA,Virginia Tech,2.0066,146.9639279,NA,NA,27,289.56,8.07,4.5,NA,36.49968656,offense,offensive_lineman,OT,No
-2019,Nyqwan Murray\MurrNy00,NA,Florida St.,1.778,86.63614267,4.63,86.36,8,287.02,7.2,4.4,NA,27.40536525,offense,backs_receivers,WR,No
-2019,Stanley Morgan\MorgSt01,NA,Nebraska,1.8288,91.62565874,4.53,97.79,14,317.5,6.78,4.13,NA,27.39584396,offense,backs_receivers,WR,No
-2019,Jalin Moore\MoorJa00,NA,Appalachian St.,1.778,96.16158244,NA,NA,27,NA,NA,NA,NA,30.41852059,offense,backs_receivers,RB,No
-2019,Jakobi Meyers\MeyeJa00,NA,North Carolina St.,1.8796,92.07925111,4.63,93.98,13,299.72,7.07,4.23,NA,26.06339019,offense,backs_receivers,WR,No
+2019,Yosh Nijman\NijmYo01,23,Virginia Tech,2.0066,146.9639279,NA,NA,27,289.56,8.07,4.5,NA,36.49968656,offense,offensive_lineman,OT,No
+2019,Nyqwan Murray\MurrNy00,21,Florida St.,1.778,86.63614267,4.63,86.36,8,287.02,7.2,4.4,NA,27.40536525,offense,backs_receivers,WR,No
+2019,Stanley Morgan\MorgSt02,22,Nebraska,1.8288,91.62565874,4.53,97.79,14,317.5,6.78,4.13,NA,27.39584396,offense,backs_receivers,WR,No
+2019,Jalin Moore\MoorJa01,23,Appalachian St.,1.778,96.16158244,NA,NA,27,NA,NA,NA,NA,30.41852059,offense,backs_receivers,RB,No
+2019,Jakobi Meyers\MeyeJa00,22,North Carolina St.,1.8796,92.07925111,4.63,93.98,13,299.72,7.07,4.23,NA,26.06339019,offense,backs_receivers,WR,No
 2019,Mark McLaurin\McLaMa00,21,Mississippi St.,1.8542,96.16158244,4.77,91.44,12,NA,NA,4.46,NA,27.96974121,defense,defensive_back,S,No
-2019,David Long\LongDa01,NA,Michigan,1.8034,88.90410452,4.45,100.33,15,304.8,6.45,3.97,NA,27.33617092,defense,defensive_back,CB,No
+2019,David Long\LongDa01,21,Michigan,1.8034,88.90410452,4.45,100.33,15,304.8,6.45,3.97,Los Angeles Rams / 3rd / 79th pick / 2019,27.33617092,defense,defensive_back,CB,Yes
 2019,Damarkus Lodge\LodgDa00,21,Mississippi,1.8796,91.62565874,4.55,85.09,11,302.26,7.06,4.53,NA,25.9349991,offense,backs_receivers,WR,No
-2019,Brandon Knight\KnigBr00,NA,Indiana,1.9304,142.4280042,NA,NA,NA,NA,NA,NA,NA,38.22088781,offense,offensive_lineman,OT,No
-2019,Tyler Jones\JoneTy01,NA,North Carolina St.,1.905,138.7992652,NA,80.01,23,281.94,7.75,4.82,NA,38.24698513,offense,offensive_lineman,OT,No
-2019,Jaquan Johnson\JohnJa07,NA,Miami (FL),1.778,86.63614267,4.69,83.82,18,307.34,NA,NA,NA,27.40536525,defense,defensive_back,S,No
-2019,Anthony Johnson\JohnAn05,NA,Buffalo,1.8796,94.80080533,NA,82.55,18,309.88,7.12,NA,NA,26.8337367,offense,backs_receivers,WR,No
-2019,Andre James\JameAn00,NA,UCLA,1.9304,135.6241186,5.32,73.66,21,266.7,8,4.84,NA,36.39504922,offense,offensive_lineman,OT,No
-2019,Tyree Jackson\JackTy00,NA,Buffalo,2.0066,112.9445001,4.59,87.63,NA,304.8,7.09,4.28,NA,28.05068504,offense,backs_receivers,QB,No
-2019,Alec Ingold\IngoAl00,NA,Wisconsin,1.8542,109.7693535,4.89,86.36,16,294.64,7.35,4.32,NA,31.92772345,offense,backs_receivers,FB,No
+2019,Brandon Knight\KnigBr00,21,Indiana,1.9304,142.4280042,NA,NA,NA,NA,NA,NA,NA,38.22088781,offense,offensive_lineman,OT,No
+2019,Tyler Jones\JoneTy01,23,North Carolina St.,1.905,138.7992652,NA,80.01,23,281.94,7.75,4.82,NA,38.24698513,offense,offensive_lineman,OT,No
+2019,Jaquan Johnson\JohnJa07,23,Miami (FL),1.778,86.63614267,4.69,83.82,18,307.34,NA,NA,Buffalo Bills / 6th / 181st pick / 2019,27.40536525,defense,defensive_back,S,Yes
+2019,Anthony Johnson\JohnAn05,23,Buffalo,1.8796,94.80080533,NA,82.55,18,309.88,7.12,NA,NA,26.8337367,offense,backs_receivers,WR,No
+2019,Andre James\JameAn00,21,UCLA,1.9304,135.6241186,5.32,73.66,21,266.7,8,4.84,NA,36.39504922,offense,offensive_lineman,OT,No
+2019,Tyree Jackson\JackTy00,21,Buffalo,2.0066,112.9445001,4.59,87.63,NA,304.8,7.09,4.28,NA,28.05068504,offense,backs_receivers,QB,No
+2019,Alec Ingold\IngoAl00,22,Wisconsin,1.8542,109.7693535,4.89,86.36,16,294.64,7.35,4.32,NA,31.92772345,offense,backs_receivers,FB,No
 2019,Mitch Hyatt\HyatMi00,22,Clemson,1.9558,137.4384881,NA,64.77,28,259.08,7.72,4.52,NA,35.93018766,offense,offensive_lineman,OT,No
-2019,Lil'Jordan Humphrey\HumpLi00,NA,Texas,1.9304,95.2543977,4.75,85.09,13,302.26,7.09,4.29,NA,25.56174026,offense,backs_receivers,WR,No
-2019,Elijah Holyfield\HolyEl00,NA,Georgia,1.778,98.42954429,4.78,74.93,26,299.72,NA,NA,NA,31.13593853,offense,backs_receivers,RB,No
+2019,Lil'Jordan Humphrey\HumpLi00,20,Texas,1.9304,95.2543977,4.75,85.09,13,302.26,7.09,4.29,NA,25.56174026,offense,backs_receivers,WR,No
+2019,Elijah Holyfield\HolyEl00,21,Georgia,1.778,98.42954429,4.78,74.93,26,299.72,NA,NA,NA,31.13593853,offense,backs_receivers,RB,No
 2019,Alijah Holder\HoldAl00,23,Stanford,1.8542,86.63614267,4.6,91.44,9,307.34,6.7,4.15,NA,25.19915363,defense,defensive_back,CB,No
 2019,Karan Higdon\HigdKa00,22,Michigan,1.7526,93.44002822,4.49,86.36,21,312.42,NA,NA,NA,30.42056992,offense,backs_receivers,RB,No
-2019,Daniel Helm\HelmDa00,NA,Duke,1.9304,112.9445001,4.89,NA,14,NA,NA,NA,NA,30.30892059,offense,backs_receivers,TE,No
-2019,Montre Hartage\HartMo00,NA,Northwestern,1.8034,86.1825503,4.68,87.63,9,312.42,6.95,4.08,NA,26.49934936,defense,defensive_back,CB,No
-2019,Emanuel Hall\HallEm00,NA,Missouri,1.8796,91.17206637,4.39,110.49,15,358.14,NA,NA,NA,25.80660802,offense,backs_receivers,WR,No
-2019,Donnell Greene\GreeDo01,NA,Minnesota,1.9558,151.953444,NA,NA,NA,NA,NA,NA,NA,39.72479494,offense,offensive_lineman,OT,No
+2019,Daniel Helm\HelmDa00,23,Duke,1.9304,112.9445001,4.89,NA,14,NA,NA,NA,NA,30.30892059,offense,backs_receivers,TE,No
+2019,Montre Hartage\HartMo00,21,Northwestern,1.8034,86.1825503,4.68,87.63,9,312.42,6.95,4.08,NA,26.49934936,defense,defensive_back,CB,No
+2019,Emanuel Hall\HallEm00,21,Missouri,1.8796,91.17206637,4.39,110.49,15,358.14,NA,NA,NA,25.80660802,offense,backs_receivers,WR,No
+2019,Donnell Greene\GreeDo01,23,Minnesota,1.9558,151.953444,NA,NA,NA,NA,NA,NA,NA,39.72479494,offense,offensive_lineman,OT,No
 2019,Dan Godsil\GodsDa00,22,Indiana,1.9304,109.3157612,5,87.63,16,299.72,7.56,4.55,NA,29.33514001,special_teams,other_special,LS,No
-2019,Malik Gant\GantMa00,NA,Marshall,1.8288,94.80080533,4.63,87.63,17,289.56,7.45,4.3,NA,28.34520489,defense,defensive_back,S,No
-2019,Jack Fox\FoxxJa00,NA,Rice,1.8796,96.61517481,4.73,69.85,NA,289.56,NA,NA,NA,27.34730103,special_teams,kicking_specialist,P,No
+2019,Malik Gant\GantMa00,21,Marshall,1.8288,94.80080533,4.63,87.63,17,289.56,7.45,4.3,NA,28.34520489,defense,defensive_back,S,No
+2019,Jack Fox\FoxxJa00,22,Rice,1.8796,96.61517481,4.73,69.85,NA,289.56,NA,NA,NA,27.34730103,special_teams,kicking_specialist,P,No
 2019,Nick Fitzgerald\FitzNi00,23,Mississippi St.,1.9558,102.5118756,4.64,74.93,NA,292.1,NA,NA,NA,26.7994139,offense,backs_receivers,QB,No
-2019,Mark Fields\FielMa00,NA,Clemson,1.778,87.08973504,4.37,NA,18,NA,NA,NA,NA,27.54884884,defense,defensive_back,CB,No
+2019,Mark Fields\FielMa00,22,Clemson,1.778,87.08973504,4.37,NA,18,NA,NA,NA,NA,27.54884884,defense,defensive_back,CB,No
 2019,Jazz Ferguson\FergJa01,22,Northwestern St. (LA),1.9558,102.965468,4.45,93.98,8,312.42,7.25,4.59,NA,26.91799538,offense,backs_receivers,WR,No
-2019,Jovon Durante\DuraJo00,NA,Florida Atlantic,1.8034,72.5747792,4.55,80.01,NA,304.8,7,4.31,NA,22.31524157,offense,backs_receivers,WR,No
-2019,Greg Dortch\DortGr00,NA,Wake Forest,1.7018,78.47148001,NA,NA,NA,NA,NA,NA,NA,27.09535248,offense,backs_receivers,WR,No
-2019,Johnnie Dixon\DixoJo00,NA,Ohio St.,1.778,91.17206637,4.41,95.25,16,304.8,NA,4.43,NA,28.84020112,offense,backs_receivers,WR,No
-2019,D'Cota Dixon\DixoDC00,NA,Wisconsin,1.778,92.53284348,4.81,85.09,20,302.26,NA,NA,NA,29.27065189,defense,defensive_back,S,No
+2019,Jovon Durante\DuraJo00,22,Florida Atlantic,1.8034,72.5747792,4.55,80.01,NA,304.8,7,4.31,NA,22.31524157,offense,backs_receivers,WR,No
+2019,Greg Dortch\DortGr00,20,Wake Forest,1.7018,78.47148001,NA,NA,NA,NA,NA,NA,NA,27.09535248,offense,backs_receivers,WR,No
+2019,Johnnie Dixon\DixoJo00,24,Ohio St.,1.778,91.17206637,4.41,95.25,16,304.8,NA,4.43,NA,28.84020112,offense,backs_receivers,WR,No
+2019,D'Cota Dixon\DixoDC00,24,Wisconsin,1.778,92.53284348,4.81,85.09,20,302.26,NA,NA,NA,29.27065189,defense,defensive_back,S,No
 2019,Lukas Denis\DeniLu00,21,Boston Col.,1.8034,86.1825503,4.64,85.09,16,294.64,6.89,4.09,NA,26.49934936,defense,defensive_back,S,No
-2019,Ryan Davis\DaviRy01,NA,Auburn,1.778,85.72895793,NA,88.9,12,314.96,7.09,4.23,NA,27.11839807,offense,backs_receivers,WR,No
+2019,Ryan Davis\DaviRy01,21,Auburn,1.778,85.72895793,NA,88.9,12,314.96,7.09,4.23,NA,27.11839807,offense,backs_receivers,WR,No
 2019,Felton Davis\DaviFe00,22,Michigan St.,1.905,95.70799007,NA,NA,21,NA,NA,NA,NA,26.37292112,offense,backs_receivers,WR,No
-2019,Davante Davis\DaviDa02,NA,Texas,1.8796,91.62565874,4.57,93.98,14,317.5,6.76,4.15,NA,25.9349991,defense,defensive_back,CB,No
-2019,Jamal Custis\CustJa00,NA,Syracuse,1.9304,97.06876718,4.5,87.63,NA,314.96,NA,NA,NA,26.04863055,offense,backs_receivers,WR,No
-2019,Jonathan Crawford\CrawJo00,NA,Indiana,1.8542,92.98643585,NA,80.01,16,292.1,NA,NA,NA,27.04621202,defense,defensive_back,S,No
-2019,C.J. Conrad,NA,Kentucky,1.9304,112.9445001,NA,NA,NA,NA,NA,NA,NA,30.30892059,offense,backs_receivers,TE,No
-2019,Hamp Cheevers\CheeHa00,NA,Boston Col.,1.7526,76.65711053,4.52,99.06,8,309.88,6.96,4.25,NA,24.95668115,defense,defensive_back,CB,No
+2019,Davante Davis\DaviDa02,23,Texas,1.8796,91.62565874,4.57,93.98,14,317.5,6.76,4.15,NA,25.9349991,defense,defensive_back,CB,No
+2019,Jamal Custis\CustJa00,23,Syracuse,1.9304,97.06876718,4.5,87.63,NA,314.96,NA,NA,NA,26.04863055,offense,backs_receivers,WR,No
+2019,Jonathan Crawford\CrawJo00,22,Indiana,1.8542,92.98643585,NA,80.01,16,292.1,NA,NA,NA,27.04621202,defense,defensive_back,S,No
+2019,C.J. Conrad,22,Kentucky,1.9304,112.9445001,NA,NA,NA,NA,NA,NA,NA,30.30892059,offense,backs_receivers,TE,No
+2019,Hamp Cheevers\CheeHa00,22,Boston Col.,1.7526,76.65711053,4.52,99.06,8,309.88,6.96,4.25,NA,24.95668115,defense,defensive_back,CB,No
 2019,Emmanuel Butler\ButlEm00,22,Northern Arizona,1.905,98.42954429,NA,91.44,11,292.1,NA,4.22,NA,27.12286201,offense,backs_receivers,WR,No
 2019,Keenen Brown\BrowKe03,23,Texas St.,1.8796,113.3980925,4.75,83.82,17,297.18,7.27,4.51,NA,32.09777117,offense,backs_receivers,TE,No
-2019,Jake Browning\BrowJa07,NA,Washington,1.8796,95.70799007,4.74,73.66,NA,284.48,7.19,4.44,NA,27.09051887,offense,backs_receivers,QB,No
-2019,Blace Brown\BrowBl01,NA,Troy,1.8288,87.99691978,4.75,NA,14,320.04,7.33,4.22,NA,26.31086004,defense,defensive_back,CB,No
-2019,Nick Brossette\BrosNi00,NA,LSU,1.8034,94.80080533,4.72,90.17,15,299.72,7.38,4.44,NA,29.1492843,offense,backs_receivers,RB,No
-2019,Tyre Brady\BradTy00,NA,Marshall,1.905,95.70799007,NA,81.28,12,297.18,NA,4.25,NA,26.37292112,offense,backs_receivers,WR,No
-2019,Kendall Blanton\BlanKe00,NA,Missouri,1.9812,118.8412009,4.95,78.74,22,287.02,7.37,4.42,NA,30.27682937,offense,backs_receivers,TE,No
-2019,Mike Bell\BellMi01,NA,Fresno St.,1.905,95.2543977,4.83,76.2,10,299.72,7.1,4.46,NA,26.24793097,defense,defensive_back,S,No
+2019,Jake Browning\BrowJa07,22,Washington,1.8796,95.70799007,4.74,73.66,NA,284.48,7.19,4.44,NA,27.09051887,offense,backs_receivers,QB,No
+2019,Blace Brown\BrowBl01,22,Troy,1.8288,87.99691978,4.75,NA,14,320.04,7.33,4.22,NA,26.31086004,defense,defensive_back,CB,No
+2019,Nick Brossette\BrosNi00,22,LSU,1.8034,94.80080533,4.72,90.17,15,299.72,7.38,4.44,NA,29.1492843,offense,backs_receivers,RB,No
+2019,Tyre Brady\BradTy00,23,Marshall,1.905,95.70799007,NA,81.28,12,297.18,NA,4.25,NA,26.37292112,offense,backs_receivers,WR,No
+2019,Kendall Blanton\BlanKe00,23,Missouri,1.9812,118.8412009,4.95,78.74,22,287.02,7.37,4.42,NA,30.27682937,offense,backs_receivers,TE,No
+2019,Mike Bell\BellMi01,21,Fresno St.,1.905,95.2543977,4.83,76.2,10,299.72,7.1,4.46,NA,26.24793097,defense,defensive_back,S,No
 2019,John Battle\BattJo00,23,LSU,1.8288,91.17206637,4.67,74.93,NA,304.8,7.09,4.33,NA,27.26022097,defense,defensive_back,S,No
-2019,Alex Barnes\BarnAl01,NA,Kansas St.,1.8288,102.5118756,4.59,97.79,34,320.04,6.95,4.1,NA,30.65079572,offense,backs_receivers,RB,No
-2019,Derrick Baity\BaitDe00,NA,Kentucky,1.8796,89.35769689,NA,97.79,10,322.58,7.06,4.31,NA,25.29304368,defense,defensive_back,CB,No
-2019,Paul Adams\AdamPa00,NA,Missouri,1.9812,143.7887813,5.18,68.58,16,261.62,7.68,4.74,NA,36.63265233,offense,offensive_lineman,OT,No
-2019,Alex Wesley,NA,Northern Colorado,1.8288,86.1825503,4.45,97.79,13,317.5,7.4,4.44,NA,25.76836808,offense,backs_receivers,WR,No
-2019,Oli Udoh,NA,Elon,1.9558,146.5103355,5.05,72.39,26,266.7,7.88,5.05,NA,38.30181721,offense,offensive_lineman,OT,No
-2019,Derrek Thomas,NA,Baylor,1.905,85.72895793,4.44,100.33,8,332.74,NA,NA,NA,23.62313788,defense,defensive_back,CB,No
-2019,Easton Stick,NA,North Dakota St.,1.8542,101.6046909,4.62,85.09,NA,299.72,6.65,4.05,NA,29.5529341,offense,backs_receivers,QB,No
-2019,Benny Snell,NA,Kentucky,1.778,101.6046909,4.66,74.93,16,302.26,7.07,4.33,NA,32.14032364,offense,backs_receivers,RB,No
-2019,Max Scharping,NA,Northern Illinois,1.9812,148.324705,NA,71.12,27,274.32,7.77,4.69,NA,37.7882565,offense,offensive_lineman,OT,No
-2019,Trey Pipkins,NA,Sioux Falls,1.9812,140.1600423,5.12,85.09,16,289.56,7.61,4.7,NA,35.70816899,offense,offensive_lineman,OT,No
-2019,Joshua Miles,NA,Morgan St.,1.9558,142.4280042,5.32,91.44,NA,276.86,8.07,4.75,NA,37.23458391,offense,offensive_lineman,OT,No
+2019,Alex Barnes\BarnAl01,22,Kansas St.,1.8288,102.5118756,4.59,97.79,34,320.04,6.95,4.1,NA,30.65079572,offense,backs_receivers,RB,No
+2019,Derrick Baity\BaitDe00,22,Kentucky,1.8796,89.35769689,NA,97.79,10,322.58,7.06,4.31,NA,25.29304368,defense,defensive_back,CB,No
+2019,Paul Adams\AdamPa00,23,Missouri,1.9812,143.7887813,5.18,68.58,16,261.62,7.68,4.74,NA,36.63265233,offense,offensive_lineman,OT,No
+2019,Alex Wesley,23,Northern Colorado,1.8288,86.1825503,4.45,97.79,13,317.5,7.4,4.44,NA,25.76836808,offense,backs_receivers,WR,No
+2019,Oli Udoh,22,Elon,1.9558,146.5103355,5.05,72.39,26,266.7,7.88,5.05,Minnesota Vikings / 6th / 193rd pick / 2019,38.30181721,offense,offensive_lineman,OT,Yes
+2019,Derrek Thomas,23,Baylor,1.905,85.72895793,4.44,100.33,8,332.74,NA,NA,NA,23.62313788,defense,defensive_back,CB,No
+2019,Easton Stick\SticEa00,23,North Dakota St.,1.8542,101.6046909,4.62,85.09,NA,299.72,6.65,4.05,Los Angeles Chargers / 5th / 166th pick / 2019,29.5529341,offense,backs_receivers,QB,Yes
+2019,Benny Snell\SnelBe00,20,Kentucky,1.778,101.6046909,4.66,74.93,16,302.26,7.07,4.33,Pittsburgh Steelers / 4th / 122nd pick / 2009,32.14032364,offense,backs_receivers,RB,Yes
+2019,Max Scharping\SchaMa01,22,Northern Illinois,1.9812,148.324705,NA,71.12,27,274.32,7.77,4.69,Houston Texans / 2nd / 55th pick / 2019,37.7882565,offense,offensive_lineman,OT,Yes
+2019,Trey Pipkins\PipkTr00,22,Sioux Falls,1.9812,140.1600423,5.12,85.09,16,289.56,7.61,4.7,Los Angeles Chargers / 3rd / 91st pick / 2019,35.70816899,offense,offensive_lineman,OT,Yes
+2019,Joshua Miles\MileJo00,22,Morgan St.,1.9558,142.4280042,5.32,91.44,NA,276.86,8.07,4.75,Arizona Cardinals / 7th / 248th pick / 2019,37.23458391,offense,offensive_lineman,OT,Yes
 2019,Devon Johnson,NA,Ferris St.,2.0066,153.3142211,5.16,69.85,26,226.06,8.34,5.28,NA,38.07683351,offense,offensive_lineman,OT,No
-2019,Tytus Howard,NA,Alabama St.,1.9558,146.0567431,5.05,74.93,21,261.62,8.34,4.87,NA,38.18323573,offense,offensive_lineman,OT,No
-2019,Chauncey Gardner-Johnson,NA,Florida,1.8034,95.2543977,4.48,91.44,17,297.18,7.03,4.2,NA,29.28875456,defense,defensive_back,S,No
-2019,Ashton Dulin,NA,Malone University (Ohio),1.8542,97.52235955,4.43,96.52,13,307.34,7,4.22,NA,28.36553943,offense,backs_receivers,WR,No
-2019,Keelan Doss,NA,UC Davis,1.8796,95.70799007,NA,NA,8,NA,NA,NA,NA,27.09051887,offense,backs_receivers,WR,No
-2019,Xavier Crawford,NA,Central Michigan,1.8034,84.82177319,4.48,95.25,11,NA,NA,NA,NA,26.08093858,defense,defensive_back,CB,No
-2019,Jordan Brown,NA,South Dakota St.,1.8288,91.17206637,4.51,100.33,13,325.12,NA,NA,NA,27.26022097,defense,defensive_back,CB,No
-2019,Corey Ballentine,NA,Washburn,1.8034,88.90410452,4.47,100.33,15,342.9,6.82,4.14,NA,27.33617092,defense,defensive_back,CB,No
-2019,Ugo Amadi,NA,Oregon,1.7526,90.26488163,4.51,82.55,18,292.1,7.21,4.19,NA,29.38686124,defense,defensive_back,S,No
-2019,Nasir Adderley,NA,Delaware,1.8288,93.44002822,NA,NA,NA,NA,NA,NA,NA,27.93833592,defense,defensive_back,S,No
+2019,Tytus Howard\HowaTy00,22,Alabama St.,1.9558,146.0567431,5.05,74.93,21,261.62,8.34,4.87,Houston Texans / 1st / 23rd pick / 2019,38.18323573,offense,offensive_lineman,OT,Yes
+2019,Chauncey Gardner-Johnson\GardCh00,21,Florida,1.8034,95.2543977,4.48,91.44,17,297.18,7.03,4.2,New Orleans Saints / 4th / 105th pick / 2019,29.28875456,defense,defensive_back,S,Yes
+2019,Ashton Dulin,21,Malone University (Ohio),1.8542,97.52235955,4.43,96.52,13,307.34,7,4.22,NA,28.36553943,offense,backs_receivers,WR,No
+2019,Keelan Doss,22,UC Davis,1.8796,95.70799007,NA,NA,8,NA,NA,NA,NA,27.09051887,offense,backs_receivers,WR,No
+2019,Xavier Crawford\CrawXa00,23,Central Michigan,1.8034,84.82177319,4.48,95.25,11,NA,NA,NA,Houston Texans / 6th / 195th pick / 2019,26.08093858,defense,defensive_back,CB,Yes
+2019,Jordan Brown,22,South Dakota St.,1.8288,91.17206637,4.51,100.33,13,325.12,NA,NA,NA,27.26022097,defense,defensive_back,CB,No
+2019,Corey Ballentine\BallCo00,22,Washburn,1.8034,88.90410452,4.47,100.33,15,342.9,6.82,4.14,New York Giants / 6th / 180th pick / 2019,27.33617092,defense,defensive_back,CB,Yes
+2019,Ugo Amadi\AmadUg00,21,Oregon,1.7526,90.26488163,4.51,82.55,18,292.1,7.21,4.19,Seattle Seahawks / 4th / 132nd pick / 2019,29.38686124,defense,defensive_back,S,Yes
+2019,Nasir Adderley\AddeNa00,21,Delaware,1.8288,93.44002822,NA,NA,NA,NA,NA,NA,Los Angeles Chargers / 2nd / 60th pick / 2019,27.93833592,defense,defensive_back,S,Yes
