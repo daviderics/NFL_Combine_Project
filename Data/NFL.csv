@@ -2545,7 +2545,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2011,John Clay\ClayJo00,23,Wisconsin,1.8288,104.3262451,4.83,73.66,NA,281.94,NA,NA,NA,31.19328768,offense,backs_receivers,RB,No
 2011,Garrett Chisolm\ChisGa00,22,South Carolina,1.9558,141.5208194,5.36,NA,NA,NA,NA,NA,NA,36.99742096,offense,offensive_lineman,OG,No
 2011,Ugo Chinasa\ChinUg00,22,Oklahoma St.,1.9558,119.7483857,4.63,71.12,22,297.18,7.07,4.39,NA,31.30551004,defense,defensive_lineman,DE,No
-2011,Roc Carmichael\CarmRa00,22,Virginia Tech,1.778,87.08973504,4.41,78.74,13,294.64,6.69,4.06,NA,27.54884884,defense,defensive_back,CB,No
+2011,Roc Carmichael\CarmRa00,22,Virginia Tech,1.778,87.08973504,4.41,78.74,13,294.64,6.69,4.06,Houston Texans / 4th / 127th pick / 2011,27.54884884,defense,defensive_back,CB,Yes
 2011,Mario Butler\ButlMa00,22,Georgia Tech,1.8288,82.55381134,4.65,77.47,NA,304.8,7.09,4.37,NA,24.68338416,defense,defensive_back,CB,No
 2011,Kendric Burney\BurnKe00,23,North Carolina,1.7526,84.36818082,4.71,82.55,14,284.48,NA,NA,NA,27.46711653,defense,defensive_back,CB,No
 2011,Justin Boren\BoreJu00,22,Ohio St.,1.905,140.1600423,5.4,NA,28,NA,7.57,4.75,NA,38.62195558,offense,offensive_lineman,OG,No
@@ -2584,7 +2584,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2011,Josh Jasper,23,LSU,1.778,78.92507238,5.06,NA,NA,NA,NA,NA,NA,24.96614426,special_teams,kicking_specialist,K,No
 2011,Carl Johnson,23,Florida,1.9558,163.7468456,5.4,64.77,25,243.84,NA,5.03,NA,42.80791335,offense,offensive_lineman,OG,No
 2011,Rich Lapham,23,Boston Col.,2.032,142.8815966,5.34,NA,NA,NA,NA,NA,NA,34.60420587,offense,offensive_lineman,OT,No
-2011,Pep Levingston,23,LSU,1.905,132.448972,4.86,74.93,NA,264.16,7.29,4.62,NA,36.49712307,defense,defensive_lineman,DE,No
+2011,Pep Levingston,23,LSU,1.905,132.448972,4.86,74.93,NA,264.16,7.29,4.62,Seattle Seahawks / 7th / 205th pick / 2011,36.49712307,defense,defensive_lineman,DE,Yes
 2011,Alex Linnenkohl,23,Oregon St.,1.8796,137.8920805,5.36,67.31,24,226.06,7.67,4.62,NA,39.03088974,offense,offensive_lineman,C,No
 2011,Derrick Locke,21,Kentucky,1.7272,85.27536556,4.37,95.25,16,299.72,6.98,4.15,NA,28.58500886,offense,backs_receivers,RB,No
 2011,DeAndre McDaniel,23,Clemson,1.8288,98.42954429,4.63,88.9,NA,294.64,NA,NA,NA,29.43018881,defense,defensive_back,SS,No
@@ -2670,7 +2670,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2012,Brian Stahovich,21,San Diego St.,1.8288,95.70799007,4.78,NA,NA,NA,NA,NA,NA,28.61645087,special_teams,kicking_specialist,P,No
 2012,Darrell Scott,22,South Florida,1.8288,104.7798375,4.68,80.01,NA,NA,NA,NA,NA,31.32891067,offense,backs_receivers,RB,No
 2012,Brett Roy,22,Nevada,1.905,124.7379018,5,77.47,32,274.32,7.31,4.62,NA,34.37229056,defense,defensive_lineman,DT,No
-2012,Trenton Robinson,22,Michigan St.,1.778,88.45051215,4.46,88.9,15,317.5,NA,4.15,NA,27.9792996,defense,defensive_back,FS,No
+2012,Trenton Robinson,22,Michigan St.,1.778,88.45051215,4.46,88.9,15,317.5,NA,4.15,San Francisco 49ers / 6th / 180th pick / 2012,27.9792996,defense,defensive_back,FS,Yes
 2012,Gerell Robinson,22,Arizona St.,1.905,102.965468,4.54,90.17,NA,287.02,NA,4.15,NA,28.37276348,offense,backs_receivers,WR,No
 2012,Ryan Baker,24,LSU,1.8034,105.2334298,4.8,86.36,30,287.02,7.21,4.35,NA,32.35710027,defense,line_backer,OLB,No
 2012,Mike Ball,23,Nevada,1.7272,93.44002822,4.54,91.44,21,284.48,7.1,4.23,NA,31.32187141,offense,backs_receivers,RB,No
@@ -2704,7 +2704,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2012,Nick Provo,23,Syracuse,1.905,107.5013917,4.76,NA,NA,NA,NA,NA,NA,29.62266496,offense,backs_receivers,TE,No
 2012,Antwuan Reed,22,Pittsburgh,1.778,85.27536556,4.58,92.71,14,314.96,NA,4.2,NA,26.97491448,defense,defensive_back,CB,No
 2012,Beau Reliford,22,Florida St.,1.9558,116.1196467,4.84,NA,NA,NA,NA,NA,NA,30.35685822,offense,backs_receivers,TE,No
-2013,Khalid Wooten\WootKa00,23,Nevada,1.8034,95.2543977,4.53,85.09,17,297.18,6.95,4.18,Tennessee Titans / 6th / 202nd pick / 2019,29.28875456,defense,defensive_back,CB,Yes
+2013,Khalid Wooten\WootKa00,23,Nevada,1.8034,95.2543977,4.53,85.09,17,297.18,6.95,4.18,Tennessee Titans / 6th / 202nd pick / 2013,29.28875456,defense,defensive_back,CB,Yes
 2013,Cierre Wood\WoodCi00,22,Notre Dame,1.8034,96.61517481,4.56,95.25,16,314.96,NA,NA,NA,29.70716534,offense,backs_receivers,RB,No
 2013,George Winn\WinnGe00,22,Cincinnati,1.778,98.88313666,4.75,87.63,22,302.26,NA,NA,NA,31.27942212,offense,backs_receivers,RB,No
 2013,Brad Wing\WingBr00,22,LSU,1.8796,92.98643585,4.86,NA,NA,NA,NA,NA,NA,26.32017236,special_teams,kicking_specialist,P,No
@@ -2864,7 +2864,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2014,Zach Kerr\KerrZa00,23,Tennessee,1.8542,147.8711126,5.06,72.39,28,251.46,7.93,4.71,NA,43.01007374,defense,defensive_lineman,DT,No
 2014,Henry Josey\JoseHe00,22,Missouri,1.7272,87.99691978,4.43,87.63,20,299.72,7.07,4.13,NA,29.49729638,offense,backs_receivers,RB,No
 2014,Reggie Jordan\JordRe00,23,Missouri Western St.,1.905,108.8621688,4.77,76.2,24,294.64,7.22,4.3,NA,29.9976354,offense,backs_receivers,FB,No
-2014,T.J. Jones\JoneTJ00,21,Notre Dame,1.8288,85.27536556,4.46,83.82,NA,302.26,6.82,4.27,NA,25.4971221,offense,backs_receivers,WR,No
+2014,T.J. Jones\JoneTJ00,21,Notre Dame,1.8288,85.27536556,4.46,83.82,NA,302.26,6.82,4.27,Detroit Lions / 6th / 189th pick / 2014,25.4971221,offense,backs_receivers,WR,Yes
 2014,Howard Jones\JoneHo01,24,Shepherd,1.8796,106.594207,4.6,102.87,21,314.96,7.16,4.41,NA,30.1719049,defense,line_backer,OLB,No
 2014,Christian Jones\JoneCh05,23,Florida St.,1.905,108.8621688,4.68,85.09,NA,292.1,NA,NA,NA,29.9976354,defense,line_backer,OLB,No
 2014,Anthony Johnson\JohnAn04,21,LSU,1.8796,139.70645,5.24,62.23,20,259.08,7.93,4.83,NA,39.54445408,defense,defensive_lineman,DT,No
@@ -3021,7 +3021,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2015,Yannick Cudjoe-Virgil,22,Maryland,1.8796,112.4909078,4.8,NA,25,NA,NA,NA,NA,31.840989,defense,line_backer,OLB,No
 2015,DaVaris Daniels,22,Notre Dame,1.8542,91.17206637,4.62,93.98,13,309.88,NA,NA,NA,26.51848105,offense,backs_receivers,WR,No
 2015,Devante Davis,22,UNLV,1.905,99.7903214,4.57,90.17,16,292.1,7.25,4.12,NA,27.49783245,offense,backs_receivers,WR,No
-2015,AJ Derby,23,Arkansas,1.9304,115.6660544,4.72,NA,15,NA,NA,NA,NA,31.03925603,offense,backs_receivers,TE,No
+2015,A.J. Derby,23,Arkansas,1.9304,115.6660544,4.72,NA,15,NA,NA,NA,New England Patriots / 6th / 202nd pick / 2015,31.03925603,offense,backs_receivers,TE,Yes
 2015,B.J. Finney,23,Kansas St.,1.9304,144.2423737,5.25,60.96,20,251.46,NA,4.76,NA,38.7077781,offense,offensive_lineman,C,No
 2015,Dante Fowler\FowlDa00,20,Florida,1.905,118.3876086,4.6,82.55,19,284.48,7.4,4.32,Jacksonville Jaguars / 1st / 3rd pick / 2015,32.6224285,defense,line_backer,OLB,Yes
 2015,Chad Hamilton,23,Coastal Carolina,1.8796,132.448972,4.97,NA,NA,NA,NA,NA,NA,37.49019672,offense,offensive_lineman,C,No
@@ -3147,7 +3147,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2016,Dominique Robertson,21,West Georgia,1.9558,146.9639279,5.36,72.39,30,254,8.42,4.83,NA,38.42039869,offense,offensive_lineman,OT,No
 2016,Rashard Robinson\RobiRa00,20,LSU,1.8542,77.56429527,4.49,90.17,NA,307.34,NA,NA,San Francisco 49ers / 4th / 133rd pick / 2016,22.5604988,defense,defensive_back,CB,Yes
 2016,James Cowser,25,Southern Utah,1.905,112.4909078,4.82,80.01,21,281.94,6.8,4.31,NA,30.99755658,defense,defensive_lineman,DE,No
-2016,Lachlan Edwards,NA,Sam Houston St.,1.9304,94.80080533,4.98,NA,NA,NA,NA,NA,NA,25.44001768,special_teams,kicking_specialist,P,No
+2016,Lachlan Edwards,23,Sam Houston St.,1.9304,94.80080533,4.98,NA,NA,NA,NA,NA,New York Jets / 7th / 235th pick / 2016,25.44001768,special_teams,kicking_specialist,P,Yes
 2016,Deandre Elliott,23,Colorado St.,1.8542,85.27536556,4.55,104.14,NA,317.5,6.93,3.94,NA,24.80335541,defense,defensive_back,CB,No
 2016,Devaunte Sigler,23,Jacksonville St.,1.905,135.1705263,5.15,63.5,23,NA,7.9,4.97,NA,37.24706395,defense,defensive_lineman,DT,No
 2016,Cleveland Wallace III,22,San Jose St.,1.8034,85.27536556,4.68,90.17,NA,312.42,NA,NA,NA,26.22040884,defense,defensive_back,CB,No
@@ -3247,11 +3247,11 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2017,Chunky Clements,22,Illinois,1.8796,136.5313034,NA,NA,23,NA,NA,NA,NA,38.64571649,defense,defensive_lineman,DT,No
 2017,Ethan Cooper,21,Indiana (PA),1.8796,146.0567431,5.36,62.23,26,251.46,8.02,4.88,NA,41.34192926,offense,offensive_lineman,OG,No
 2017,Bryan Cox Jr.,22,Florida,1.905,120.2019781,4.89,67.31,16,276.86,7.36,4.46,NA,33.12238909,defense,defensive_lineman,DE,No
-2017,Julien Davenport,22,Bucknell,2.0066,144.2423737,5.45,68.58,18,269.24,7.57,4.69,NA,35.82376644,offense,offensive_lineman,OT,No
+2017,Julien Davenport,22,Bucknell,2.0066,144.2423737,5.45,68.58,18,269.24,7.57,4.69,Houston Texans / 4th / 130th pick / 2017,35.82376644,offense,offensive_lineman,OT,Yes
 2017,Keionta Davis,22,Tenn-Chattanooga,1.905,122.9235323,NA,NA,NA,NA,NA,NA,NA,33.87232997,defense,defensive_lineman,DE,No
 2017,Jessamen Dunker,24,Tennessee St.,1.9304,144.2423737,4.98,72.39,23,274.32,NA,NA,NA,38.7077781,offense,offensive_lineman,OG,No
 2017,Connor Harris,23,Lindenwood,1.8034,109.7693535,4.73,83.82,18,289.56,7.13,4.31,NA,33.75180287,defense,line_backer,ILB,No
-2017,DeAngelo Henderson,24,Coastal Carolina,1.7018,94.34721296,4.48,86.36,20,304.8,NA,NA,NA,32.57707119,offense,backs_receivers,RB,No
+2017,De'Angelo Henderson,24,Coastal Carolina,1.7018,94.34721296,4.48,86.36,20,304.8,NA,NA,Denver Broncos / 6th / 203rd pick / 2017,32.57707119,offense,backs_receivers,RB,Yes
 2017,Javarius Leamon,23,South Carolina St.,2.0066,150.5926668,NA,59.69,22,NA,NA,NA,NA,37.40091339,offense,offensive_lineman,OT,No
 2017,Cameron Lee,23,Illinois St.,1.9558,141.5208194,5.44,64.77,18,254,8.02,4.75,NA,36.99742096,offense,offensive_lineman,OG,No
 2017,Ezra Robinson,23,Tennessee St.,1.8034,85.72895793,4.47,86.36,13,330.2,NA,NA,NA,26.3598791,defense,defensive_back,CB,No
@@ -3321,7 +3321,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2018,Roc Thomas,22,Jacksonville St.,1.778,89.81128926,4.56,90.17,16,317.5,NA,NA,NA,28.40975036,offense,backs_receivers,RB,No
 2018,Jordan Thomas,NA,Oklahoma,1.8288,84.36818082,4.64,96.52,4,314.96,6.28,3.94,NA,25.22587612,defense,defensive_back,CB,No
 2018,Taylor Stallworth,22,South Carolina,1.8796,141.5208194,5.28,59.69,18,256.54,7.95,4.75,NA,40.05801842,defense,defensive_lineman,DT,No
-2018,Trequan Smith,22,Central Florida,1.8796,92.07925111,4.49,95.25,12,330.2,6.97,4.5,NA,26.06339019,offense,backs_receivers,WR,No
+2018,Tre'Quan Smith,22,Central Florida,1.8796,92.07925111,4.49,95.25,12,330.2,6.97,4.5,New Orleans Saints / 3rd / 91st pick / 2018,26.06339019,offense,backs_receivers,WR,Yes
 2018,Nic Shimonek,23,Texas Tech,1.905,99.7903214,4.88,72.39,NA,256.54,7.28,4.32,NA,27.49783245,offense,backs_receivers,QB,No
 2018,Dominick Sanders,22,Georgia,1.8288,87.54332741,NA,NA,14,NA,NA,NA,NA,26.17523705,defense,defensive_back,S,No
 2018,Olubunmi Rotimi,22,Old Dominion,1.9304,123.830717,NA,81.28,21,287.02,7.46,4.7,NA,33.23026233,defense,defensive_lineman,DE,No
@@ -3354,7 +3354,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2018,Kyle Hicks,NA,TCU,1.778,92.53284348,4.63,92.71,13,309.88,NA,NA,NA,29.27065189,offense,backs_receivers,RB,No
 2018,Chris Herndon\HernCh00,22,Miami (FL),1.9304,114.7588696,NA,NA,21,NA,NA,NA,New York Jets / 4th / 107th pick / 2018,30.79581088,offense,backs_receivers,TE,Yes
 2018,Desmond Harrison,24,West Georgia,1.9812,132.448972,4.9,NA,NA,NA,NA,NA,NA,33.74364189,offense,offensive_lineman,OT,No
-2018,Dashawn Hand,22,Alabama,1.9304,134.7169339,4.83,80.01,28,281.94,7.98,4.62,NA,36.15160408,defense,defensive_lineman,DE,No
+2018,Da'Shawn Hand,22,Alabama,1.9304,134.7169339,4.83,80.01,28,281.94,7.98,4.62,Detroit Lions / 4th / 114th pick / 2018,36.15160408,defense,defensive_lineman,DE,Yes
 2018,Grant Haley,22,Penn St.,1.7526,86.1825503,4.44,86.36,15,302.26,6.51,3.94,NA,28.05780721,defense,defensive_back,CB,No
 2018,Davon Grayson,22,East Carolina,1.8542,90.26488163,4.51,87.63,19,314.96,NA,NA,NA,26.25461557,offense,backs_receivers,WR,No
 2018,John Franklin-Myers\FranJo02,21,Stephen F. Austin,1.9304,128.3666407,4.75,83.82,26,287.02,7.36,4.48,Los Angeles Rams / 4th / 135th pick / 2018,34.44748806,defense,defensive_lineman,DE,Yes
@@ -3374,17 +3374,37 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2018,Andre Chachere,22,San Jose St.,1.8288,90.718474,4.49,96.52,13,312.42,6.78,4.07,NA,27.12459798,defense,defensive_back,CB,No
 2018,Darren Carrington II,23,Utah,1.8796,90.26488163,NA,91.44,NA,304.8,NA,NA,NA,25.54982585,offense,backs_receivers,WR,No
 2018,Tanner Carew,22,Oregon,1.8542,110.2229459,5,76.2,18,281.94,7.26,4.28,NA,32.05965619,special_teams,other_special,LS,No
-2018,Chris Campbell,22,Penn St.,1.8542,87.99691978,NA,NA,14,NA,NA,NA,NA,25.59495186,defense,defensive_back,CB,No
+2018,Chris Campbell,22,Penn St.,1.8542,87.99691978,NA,NA,14,NA,NA,NA,Arizona Cardlinals / 6th / 182nd pick / 2018,25.59495186,defense,defensive_back,CB,Yes
 2018,Tony Brown,22,Alabama,1.8288,89.81128926,4.35,80.01,14,320.04,6.78,4.11,NA,26.853352,defense,defensive_back,CB,No
 2018,Drew Brown,22,Nebraska,1.778,94.34721296,NA,NA,NA,NA,NA,NA,NA,29.84458624,special_teams,kicking_specialist,K,No
 2018,Jessie Bates\BateJe00,20,Wake Forest,1.8796,88.45051215,4.5,90.17,NA,297.18,6.78,4.26,Cincinnati Bengals / 2nd / 54th pick / 2018,25.03626151,defense,defensive_back,S,Yes
 2018,Mike Badgley,22,Miami (FL),1.778,83.00740371,4.94,NA,NA,281.94,NA,NA,NA,26.25749655,special_teams,kicking_specialist,K,No
 2018,John Atkins,25,Georgia,1.9304,145.6031508,5.38,60.96,NA,226.06,7.95,4.75,NA,39.07294582,defense,defensive_lineman,DT,No
 2018,Austin Allen,23,Arkansas,1.8288,95.2543977,4.81,74.93,NA,284.48,7.18,4.48,NA,28.48082788,offense,backs_receivers,QB,No
+2018,Tremaine Edmunds\EdmuTr01,19,Virginia Tech,1.9431,114.759,4.54,NA,19,297.18,NA,NA,Buffalo Bills / 1st / 16th pick / 2018,30.4,defense,line_backer,ILB,Yes
+2018,Rashaan Evans\EvanRa01,22,Alabama,1.8764,105.233,NA,76.2,NA,294.64,6.95,4.36,Tennessee Titans / 1st / 22nd pick / 2018,29.88829238,defense,line_backer,OLB,Yes
+2018,Harold Landry\LandHa00,21,Boston Col.,1.8891,114.305,4.64,91.44,24,302.26,6.88,4.19,Tennessee Titans / 2nd / 41st pick / 2018,32.0298815,defense,line_backer,OLB,Yes
+2018,Uchenna Nwosu\NwosUc00,21,USC,1.8828,113.852,4.65,81.28,20,302.26,NA,NA,Los Angeles Chargers / 2nd / 48th pick / 2018,32.1168013,defense,line_backer,OLB,Yes
+2018,Kemoko Turay\TuraKe00,22,Rutgers,1.9463,114.759,4.65,NA,NA,NA,NA,NA,Indianapolis Colts / 2nd / 52nd pick / 2018,30.29473723,defense,line_backer,OLB,Yes
+2018,Tyquan Lewis\LewiTy00,23,Ohio St.,1.9114,122.016,NA,90.17,NA,309.88,NA,NA,Indianapolis Colts / 2nd / 64th pick / 2018,33.39747399,defense,line_backer,OLB,Yes
+2018,Lorenzo Carter\CartLo01,22,Georgia,1.9526,113.398,4.5,91.44,NA,330.2,NA,NA,New York Giants / 3rd / 66th pick / 2018,29.74259278,defense,line_backer,OLB,Yes
+2018,Martinas Rankin\RankMa00,23,Mississippi St.,1.9399,139.706,NA,NA,24,NA,NA,NA,Houston Texans / 3rd / 80th pick / 2018,37.12413747,offense,offensive_lineman,OT,Yes
+2018,Arden Key\KeyxAr00,21,LSU,1.9526,107.955,NA,78.74,NA,297.18,7.16,4.25,Oakland Raiders / 3rd / 87th pick / 2018,28.31497561,defense,line_backer,OLB,Yes
+2018,Joel Iyiegbuniwe\IyieJo00,22,Western Kentucky,1.8637,103.873,4.6,88.9,19,297.18,7.06,4.28,Chicago Bears / 4th / 115th pick / 2018,29.90547221,defense,line_backer,ILB,Yes
+2018,Dorance Armstrong Jr.\ArmsDo00,20,Kansas,1.9209,116.573,4.87,76.2,20,299.72,7.12,4.23,Dallas Cowboys / 4th / 116th pick / 2018,31.59282487,defense,line_backer,OLB,Yes
+2018,Josh Sweat\SweaJo00,20,Florida St.,1.9494,113.852,4.53,100.33,NA,314.96,NA,4.28,Philadelphia Eagles / 4th / 128th pick / 2018,29.95978833,defense,line_backer,OLB,Yes
+2018,J'Mon Moore,22,Missouri,1.8955,93.8936,4.6,96.52,21,304.8,6.56,4.04,Green Bay Packers / 4th / 133rd pick / 2018,26.13294854,offense,backs_receivers,WR,Yes
+2018,Marquis Haynes\HaynMa01,24,Mississippi,1.8891,106.594,4.67,81.28,23,312.42,7.14,4.45,Carolina Panthers / 4th / 136th pick / 2018,29.86914998,defense,line_backer,OLB,Yes
+2018,Cole Madison\MadiCo01,23,Washington St.,1.9558,139.706,5.33,72.39,26,246.38,7.86,4.88,Green Bay Packers / 5th / 138th pick / 2018,36.52297741,offense,offensive_lineman,OG,Yes
+2018,Ogbonnia Okoronkwo\OkorOg00,22,Oklahoma,1.8701,114.759,4.77,96.52,27,307.34,NA,NA,Los Angeles Rams / 5th / 160th pick / 2018,32.81384292,defense,line_backer,OLB,Yes
+2018,Kylie Fitts\FittKy00,23,Utah,1.9241,119.295,4.69,82.55,31,297.18,6.88,4.19,Chicago Bears / 6th / 181st pick / 2018,32.22307353,defense,line_backer,OLB,Yes
+2018,Trevon Young\YounTr00,22,Louisville,1.9272,117.027,4.78,83.82,25,289.56,6.99,4.4,Los Angeles Rams / 6th / 205th pick / 2018,31.50884603,defense,line_backer,OLB,Yes
+2018,Peter Kalambayi\KalaPe00,22,Stanford,1.8955,114.305,4.57,86.36,19,307.34,7.13,4.36,Houston Texans / 6th / 214th pick / 2018,31.81395412,defense,line_backer,OLB,Yes
+2018,Leon Jacobs\JacoLe00,22,Wisconsin,1.8574,111.584,4.48,87.63,26,309.88,7.14,4.44,Jacksonville Jaguars / 6th / 230th pick / 2018,32.34380003,defense,line_backer,OLB,Yes
 2019,Evan Worthington\WortEv00,23,Colorado,1.8796,96.16158244,4.63,85.09,17,307.34,7.07,4.37,NA,27.21890995,defense,defensive_back,S,No
 2019,Zedrick Woods\WoodZe00,21,Mississippi,1.8034,92.98643585,4.29,87.63,19,309.88,7,4.15,NA,28.59140326,defense,defensive_back,S,No
 2019,Andrew Wingard\WingAn00,22,Wyoming,1.8288,94.80080533,4.56,92.71,9,307.34,7.08,4.2,NA,28.34520489,defense,defensive_back,S,No
-2019,Joejuan Williams\WillJo11,21,Vanderbilt,1.9304,95.70799007,4.64,NA,17,NA,NA,NA,NA,25.68346283,defense,defensive_back,CB,No
+2019,Joejuan Williams\WillJo11,21,Vanderbilt,1.9304,95.70799007,4.64,NA,17,NA,NA,NA,New England Patriots / 2nd / 45th pick / 2019,25.68346283,defense,defensive_back,CB,Yes
 2019,James Williams\WillJa08,22,Washington St.,1.7526,89.35769689,4.58,92.71,NA,299.72,7.01,4.25,NA,29.0915159,offense,backs_receivers,RB,No
 2019,Darius West\WestDa00,NA,Kentucky,1.8034,94.34721296,4.39,85.09,19,287.02,NA,NA,NA,29.00981404,defense,defensive_back,S,No
 2019,Antoine Wesley\WeslAn01,21,Texas Tech,1.9304,93.44002822,NA,93.98,6,297.18,7.07,4.26,NA,25.07484997,offense,backs_receivers,WR,No
@@ -3462,7 +3482,7 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2019,Oli Udoh,22,Elon,1.9558,146.5103355,5.05,72.39,26,266.7,7.88,5.05,Minnesota Vikings / 6th / 193rd pick / 2019,38.30181721,offense,offensive_lineman,OT,Yes
 2019,Derrek Thomas,23,Baylor,1.905,85.72895793,4.44,100.33,8,332.74,NA,NA,NA,23.62313788,defense,defensive_back,CB,No
 2019,Easton Stick\SticEa00,23,North Dakota St.,1.8542,101.6046909,4.62,85.09,NA,299.72,6.65,4.05,Los Angeles Chargers / 5th / 166th pick / 2019,29.5529341,offense,backs_receivers,QB,Yes
-2019,Benny Snell\SnelBe00,20,Kentucky,1.778,101.6046909,4.66,74.93,16,302.26,7.07,4.33,Pittsburgh Steelers / 4th / 122nd pick / 2009,32.14032364,offense,backs_receivers,RB,Yes
+2019,Benny Snell\SnelBe00,20,Kentucky,1.778,101.6046909,4.66,74.93,16,302.26,7.07,4.33,Pittsburgh Steelers / 4th / 122nd pick / 2019,32.14032364,offense,backs_receivers,RB,Yes
 2019,Max Scharping\SchaMa01,22,Northern Illinois,1.9812,148.324705,NA,71.12,27,274.32,7.77,4.69,Houston Texans / 2nd / 55th pick / 2019,37.7882565,offense,offensive_lineman,OT,Yes
 2019,Trey Pipkins\PipkTr00,22,Sioux Falls,1.9812,140.1600423,5.12,85.09,16,289.56,7.61,4.7,Los Angeles Chargers / 3rd / 91st pick / 2019,35.70816899,offense,offensive_lineman,OT,Yes
 2019,Joshua Miles\MileJo00,22,Morgan St.,1.9558,142.4280042,5.32,91.44,NA,276.86,8.07,4.75,Arizona Cardinals / 7th / 248th pick / 2019,37.23458391,offense,offensive_lineman,OT,Yes
@@ -3472,7 +3492,85 @@ Year,Player,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,
 2019,Ashton Dulin,21,Malone University (Ohio),1.8542,97.52235955,4.43,96.52,13,307.34,7,4.22,NA,28.36553943,offense,backs_receivers,WR,No
 2019,Keelan Doss,22,UC Davis,1.8796,95.70799007,NA,NA,8,NA,NA,NA,NA,27.09051887,offense,backs_receivers,WR,No
 2019,Xavier Crawford\CrawXa00,23,Central Michigan,1.8034,84.82177319,4.48,95.25,11,NA,NA,NA,Houston Texans / 6th / 195th pick / 2019,26.08093858,defense,defensive_back,CB,Yes
-2019,Jordan Brown,22,South Dakota St.,1.8288,91.17206637,4.51,100.33,13,325.12,NA,NA,NA,27.26022097,defense,defensive_back,CB,No
+2019,Jordan Brown,22,South Dakota St.,1.8288,91.17206637,4.51,100.33,13,325.12,NA,NA,Cincinnati Bengals / 7th / 223rd pick / 2019,27.26022097,defense,defensive_back,CB,Yes
 2019,Corey Ballentine\BallCo00,22,Washburn,1.8034,88.90410452,4.47,100.33,15,342.9,6.82,4.14,New York Giants / 6th / 180th pick / 2019,27.33617092,defense,defensive_back,CB,Yes
 2019,Ugo Amadi\AmadUg00,21,Oregon,1.7526,90.26488163,4.51,82.55,18,292.1,7.21,4.19,Seattle Seahawks / 4th / 132nd pick / 2019,29.38686124,defense,defensive_back,S,Yes
 2019,Nasir Adderley\AddeNa00,21,Delaware,1.8288,93.44002822,NA,NA,NA,NA,NA,NA,Los Angeles Chargers / 2nd / 60th pick / 2019,27.93833592,defense,defensive_back,S,Yes
+2019,Nick Bosa\BosaNi00,21,Ohio St.,1.9145,120.656,4.79,85.09,29,294.64,7.1,4.14,San Francisco 49ers / 1st / 2nd pick / 2019,32.91835937,defense,defensive_lineman,DE,Yes
+2019,Quinnen Williams\WillQu00,21,Alabama,1.905,137.4384881,4.83,77.47,NA,284.48,NA,NA,New York Jets / 1st / 3rd pick / 2019,37.87201469,defense,defensive_lineman,DT,Yes
+2019,Clelin Ferrell\FerrCl00,21,Clemson,1.939925,119.7483857,NA,NA,25,NA,7.26,4.4,Oakland Raiders / 1st / 4th pick / 2019,31.8199716,defense,line_backer,OLB,Yes
+2019,Devin White\WhitDe02,21,LSU,1.8288,107.5013917,4.42,100.33,22,299.72,7.07,4.17,Tampa Bay Buccaneers / 1st / 5th pick / 2019,32.14264861,defense,line_backer,ILB,Yes
+2019,Josh Allen\AlleJo03,21,Kentucky,1.952625,118.8412009,4.63,NA,28,299.72,7.15,4.23,Jacksonville Jaguars / 1st / 7th pick / 2019,31.1694645,defense,line_backer,OLB,Yes
+2019,Ed Oliver\OlivEd00,21,Houston,1.876425,130.1810102,NA,91.44,32,304.8,NA,NA,Buffalo Bills / 1st / 9th pick / 2019,36.97304474,defense,defensive_lineman,DT,Yes
+2019,Devin Bush\BushDe01,20,Michigan,1.8034,106.1406146,4.43,102.87,21,314.96,6.93,4.23,Pittsburgh Steelers / 1st / 10th pick / 2019,32.63604079,defense,line_backer,ILB,Yes
+2019,Rashan Gary\GaryRa00,21,Michigan,1.939925,125.6450865,4.58,96.52,26,304.8,7.26,4.29,Green Bay Packers / 1st / 12th pick / 2019,33.38686414,defense,line_backer,OLB,Yes
+2019,Christian Wilkins\WilkCh00,23,Clemson,1.91135,142.8815966,5.04,74.93,28,271.78,NA,4.55,Miami Dolphins / 1st / 13th pick / 2019,39.11072374,defense,defensive_lineman,DT,Yes
+2019,Chris Lindstrom\LindCh00,21,Boston Col.,1.92405,139.70645,4.91,77.47,25,297.18,7.61,4.54,Atlanta Falcons / 1st / 14th pick / 2019,37.73842312,offense,offensive_lineman,OG,Yes
+2019,Brian Burns\BurnBr0,20,Florida St.,1.94945,112.9445001,4.53,91.44,NA,327.66,7.01,NA,Carolina Panthers / 1st / 16th pick / 2019,29.71945809,defense,defensive_lineman,DE,Yes
+2019,Dexter Lawrence\LawrDe03,21,Clemson,1.9431,155.1285905,5.05,NA,36,NA,NA,NA,New York Giants / 1st / 17th pick / 2019,41.08672668,defense,defensive_lineman,DT,Yes
+2019,Garrett Bradbury\BradGa0,23,North Carolina St.,1.901825,138.7992652,4.92,78.74,34,264.16,7.41,4.53,Minnesota Vikings / 1st / 18th pick / 2019,38.37479452,offense,offensive_lineman,C,Yes
+2019,Montez Sweat\SweaMo0,22,Mississippi St.,1.97485,117.9340162,4.41,91.44,21,317.5,7,4.29,Washington Redskins / 1st / 26th pick / 2019,30.23923917,defense,defensive_lineman,DE,Yes
+2019,Jerry Tillery\TillJe00,22,Notre Dame,1.9939,133.8097492,4.93,81.28,23,292.1,7.45,4.33,Los Angeles Chargers / 1st / 28th pick / 2019,33.65743454,defense,defensive_lineman,DT,Yes
+2019,L.J. Collier\CollLJ00,23,TCU,1.88595,128.3666407,4.91,76.2,25,299.72,7.71,4.78,Seattle Seahawks / 1st / 29th pick / 2019,36.09041092,defense,defensive_lineman,DE,Yes
+2019,Jahlani Tavai\TavaJa00,22,Hawaii,1.889125,113.3980925,NA,NA,NA,NA,NA,NA,Detroit Lions / 2nd / 43rd pick / 2019,31.77491215,defense,line_backer,ILB,Yes
+2019,Elgton Jenkins\JenkEl00,23,Mississippi St.,1.9431,140.6136347,NA,71.12,29,276.86,7.77,4.62,Green Bay Packers / 2nd / 44th pick / 2019,37.2423546,offense,offensive_lineman,C,Yes
+2019,Erik McCoy\McCoEr01,21,Texas A&M,1.927225,137.4384881,4.89,78.74,29,271.78,8.28,4.62,New Orleans Saints / 2nd / 48th pick / 2019,37.00356166,offense,offensive_lineman,C,Yes
+2019,Ben Banogu\BanoBe00,23,TCU,1.9177,113.3980925,4.62,101.6,23,340.36,7.02,4.27,Indianapolis Colts / 2nd / 49th pick / 2019,30.83503266,defense,line_backer,OLB,Yes
+2019,Trysten Hill\HillTr00,20,Central Florida,1.89865,139.70645,5.04,88.9,28,292.1,7.7,4.38,Dallas Cowboys / 2nd / 58th pick / 2019,38.75490082,defense,defensive_lineman,DT,Yes
+2019,Zach Allen\AlleZa01,21,Boston Col.,1.933575,127.459456,5,81.28,24,284.48,7.34,4.36,Arizona Cardinals / 3rd / 65th pick / 2019,34.09180659,defense,defensive_lineman,DE,Yes
+2019,Jachai Polite\PoliJa00,21,Florida,1.905,117.0268315,4.84,81.28,NA,NA,NA,NA,New York Jets / 3rd / 68th pick / 2019,32.24745805,defense,line_backer,OLB,Yes
+2019,Dre'Mont Jones\JoneDr00,22,Ohio St.,1.89865,127.459456,5.12,80.01,NA,279.4,7.71,4.53,Denver Broncos / 3rd / 71st pick / 2019,35.35755562,defense,defensive_lineman,DT,Yes
+2019,Germaine Pratt\PratGe00,22,North Carolina St.,1.8923,108.8621688,4.57,82.55,24,294.64,NA,NA,Cincinnati Bengals / 3rd / 72nd pick / 2019,30.40163941,defense,line_backer,ILB,Yes
+2019,Chase Winovich\WinoCh00,23,Michigan,1.89865,116.1196467,4.59,77.47,18,294.64,6.94,4.11,New England Patriots / 3rd / 77th pick / 2019,32.21186562,defense,line_backer,OLB,Yes
+2019,Michael Deiter\DeitMi00,22,Wisconsin,1.958975,140.1600423,5.23,71.12,21,266.7,7.88,4.81,Miami Dolphins / 3rd / 78th pick / 2019,36.52299911,offense,offensive_lineman,OG,Yes
+2019,Sione Takitaki\TakiSi00,23,BYU,1.857375,107.9549841,4.63,93.98,24,317.5,7.21,4.28,Cleveland Browns / 3rd / 80th pick / 2019,31.29273384,defense,line_backer,ILB,Yes
+2019,Nate Davis\DaviNa01,22,Charlotte,1.91135,143.3351889,5.23,66.04,23,271.78,7.94,4.83,Tennessee Titans / 3rd / 82nd pick / 2019,39.23488477,offense,offensive_lineman,OG,Yes
+2019,Khalen Saunders\SaunKh00,22,Western Illinois,1.838325,146.9639279,5.01,77.47,27,256.54,7.57,4.62,Kansas City Chiefs / 3rd / 84th pick / 2019,43.48767246,defense,defensive_lineman,DT,Yes
+2019,Cody Barton\BartCo00,22,Utah,1.8923,107.5013917,4.64,82.55,30,294.64,6.9,4.03,Seattle Seahawks / 3rd / 88th pick / 2019,30.02161891,defense,line_backer,ILB,Yes
+2019,Bobby Okereke\OkerBo00,22,Stanford,1.863725,108.4085764,4.58,85.09,NA,309.88,7.25,4.26,Indianapolis Colts / 3rd / 89th pick / 2019,31.21044636,defense,line_backer,ILB,Yes
+2019,Connor McGovern\McGoCo01,21,Penn St.,1.965325,139.70645,NA,NA,28,284.48,7.66,4.57,Dallas Cowboys / 3rd /90th pick / 2019,36.16993262,offense,offensive_lineman,OG,Yes
+2019,Oshane Ximines\XimiOs00,22,Old Dominion,1.9177,114.7588696,4.78,86.36,24,299.72,7.13,4.57,New York Giants / 3rd / 95th pick / 2019,31.20505305,defense,line_backer,OLB,Yes
+2019,Maxx Crosby\CrosMa00,21,East. Michigan,1.952625,115.6660544,4.66,91.44,NA,309.88,6.89,4.13,Oakland Raiders / 4th / 106th pick / 2019,30.33669255,defense,defensive_lineman,DE,Yes
+2019,Anthony Nelson\NelsAn01,21,Iowa,2.0066,122.9235323,4.82,90.17,18,299.72,6.95,4.23,Tampa Bay Buccaneers / 4th / 107th pick / 2019,30.52905882,defense,defensive_lineman,DE,Yes
+2019,Christian Miller\MillCh04,22,Alabama,1.905,112.0373154,NA,97.79,NA,299.72,NA,NA,Carolina Panthers / 4th / 115th pick / 2019,30.87256643,defense,line_backer,OLB,Yes
+2019,Austin Bryant\BryaAu00,22,Clemson,1.927225,122.9235323,NA,NA,NA,NA,NA,NA,Detroit Lions / 4th / 117th pick / 2019,33.09559475,defense,line_backer,OLB,Yes
+2019,Hjalte Froholdt\FrohHj00,22,Arkansas,1.946275,138.7992652,5.2,69.85,31,266.7,7.51,4.54,New England Patriots / 4th / 118th pick / 2019,36.64196527,offense,offensive_lineman,OG,Yes
+2019,Ben Powers\PoweBe00,22,Oklahoma,1.9304,139.2528576,NA,NA,21,NA,NA,NA,Baltimore Ravens / 4th / 123rd pick / 2019,37.3688298,offense,offensive_lineman,OG,Yes
+2019,Phil Haynes\HaynPh00,23,Wake Forest,1.920875,146.0567431,5.2,78.74,33,274.32,7.76,4.95,Seattle Seahawks / 4th / 124th pick / 2019,39.58433959,offense,offensive_lineman,OG,Yes
+2019,Renell Wren\WrenRe00,23,Arizona St.,1.952625,144.2423737,5.01,81.28,30,299.72,7.65,4.53,Cincinnati Bengals / 4th / 125th pick / 2019,37.83164012,defense,defensive_lineman,DT,Yes
+2019,Drue Tranquill\TranDr00,23,Notre Dame,1.8796,106.1406146,4.57,95.25,31,309.88,6.94,4.14,Los Angeles Chargers / 4th / 130th pick / 2019,30.04351381,defense,line_backer,ILB,Yes
+2019,Greg Gaines\GainGr00,22,Washington,1.8542,141.5208194,5.16,78.74,30,276.86,NA,NA,Los Angeles Rams / 4th / 134th pick / 2019,41.16301536,defense,defensive_lineman,DT,Yes
+2019,John Cominsky\ComiJo00,23,Charleston (WV),1.9558,129.7274178,4.69,85.09,22,294.64,7.03,4.38,Atlanta Falcons / 4th / 135th pick / 2019,33.91430254,defense,defensive_lineman,DE,Yes
+2019,Shareef Miller\MillSh0,21,Penn St.,1.9431,115.212462,4.69,74.93,16,NA,NA,4.45,Philadelphia Eagles / 4th / 138th pick / 2019,30.51470344,defense,line_backer,OLB,Yes
+2019,Ben Burr-Kirven\BurrBe00,21,Washington,1.8288,104.3262451,4.56,87.63,21,307.34,6.85,4.09,Seattle Seahawks / 5th / 142nd pick / 2019,31.19328768,defense,line_backer,ILB,Yes
+2019,Ryan Connelly\ConnRy00,23,Wisconsin,1.882775,109.7693535,4.66,87.63,NA,299.72,7.09,4.31,New York Giants / 5th / 143rd pick / 2019,30.96593947,defense,line_backer,ILB,Yes
+2019,Vosean Joseph\JoseVo00,21,Florida,1.8669,104.3262451,NA,NA,NA,NA,NA,NA,Buffalo Bills / 5th / 147th pick / 2019,29.93308405,defense,line_backer,OLB,Yes
+2019,Dre Greenlaw\GreeDr00,21,Arkansas,1.8161,107.5013917,NA,83.82,24,297.18,NA,NA,San Francisco 49ers / 5th / 148th pick / 2019,32.59376798,defense,line_backer,OLB,Yes
+2019,Kingsley Keke\KekeKi00,22,Texas A&M,1.895475,130.6346026,4.95,80.01,NA,281.94,7.55,4.46,Green Bay Packers / 5th / 150th pick / 2019,36.359852,defense,defensive_lineman,DT,Yes
+2019,Andrew Van Ginkel\VanGAn00,23,Wisconsin,1.9177,109.3157612,NA,96.52,17,312.42,6.89,4.14,Miami Dolphins / 5th / 151st pick / 2019,29.72497148,defense,line_backer,OLB,Yes
+2019,Mack Wilson\WilsMa03,20,Alabama,1.857375,108.8621688,NA,81.28,NA,297.18,NA,NA,Cleveland Browns / 5th / 155th pick / 2019,31.55569799,defense,line_backer,ILB,Yes
+2019,Justin Hollins\HollJu00,23,Oregon,1.96215,112.4909078,4.5,92.71,25,302.26,7.06,4.4,Denver Broncos / 5th / 156th pick / 2019,29.21817002,defense,line_backer,OLB,Yes
+2019,Blake Cashman\CashBl00,22,Minnesota,1.857375,107.5013917,4.5,95.25,18,314.96,6.95,4.12,New York Jets / 5th / 157th pick / 2019,31.16125176,defense,line_backer,ILB,Yes
+2019,Byron Cowart\CowaBy00,22,Maryland,1.905,135.1705263,5.16,76.2,26,281.94,NA,NA,New England Patriots / 5th / 159th pick / 2019,37.24706395,defense,defensive_lineman,DT,Yes
+2019,Daylon Mack\MackDa00,22,Texas A&M,1.8542,152.4070363,5.1,68.58,30,259.08,8.02,4.95,Baltimore Ravens / 5th / 160th pick / 2019,44.32940116,defense,defensive_lineman,DT,Yes
+2019,Charles Omenihu\OmenCh0,21,Texas,1.965325,127.0058636,4.92,92.71,NA,292.1,7.48,4.36,Houston Texans / 5th / 161st pick / 2019,32.88175693,defense,defensive_lineman,DE,Yes
+2019,Cameron Smith\SmitCa01,21,USC,1.8796,107.9549841,4.69,99.06,15,312.42,NA,4.23,Minnesota Vikings / 5th / 162nd pick / 2019,30.55707815,defense,line_backer,ILB,Yes
+2019,Joe Jackson\JackJo02,22,Miami (FL),1.9304,124.7379018,NA,68.58,22,276.86,NA,NA,Dallas Cowboys / 5th / 165th pick / 2019,33.47370748,defense,defensive_lineman,DE,Yes
+2019,D'Andre Walker\WalkDA02,22,Georgia,1.889125,113.8516849,NA,NA,NA,NA,NA,NA,Tennessee Titans / 5th / 168th pick / 2019,31.9020118,defense,line_backer,OLB,Yes
+2019,Sutton Smith\SmitSu00,22,Northern Illinois,1.838325,105.6870222,4.69,80.01,25,299.72,6.75,4.32,Pittsburgh Steelers / 6th / 175th pick / 2019,31.27354223,defense,line_backer,OLB,Yes
+2019,Lamont Gaillard\GailLa00,23,Georgia,1.905,138.3456729,NA,NA,NA,NA,NA,NA,Arizona Cardinals / 6th / 179th pick / 2019,38.12199498,offense,offensive_lineman,C,Yes
+2019,Armon Watts\WattAr01,22,Arkansas,1.946275,136.077711,5.23,NA,NA,NA,NA,NA,Minnesota Vikings / 6th / 190th pick / 2019,35.92349536,defense,defensive_lineman,DT,Yes
+2019,Isaiah Buggs\BuggIs00,22,Alabama,1.908175,138.7992652,5.15,62.23,20,243.84,8.01,4.83,Pittsburgh Steelers / 6th / 192nd pick / 2019,38.1198132,defense,defensive_lineman,DT,Yes
+2019,Gerri Green\GreeGe00,23,Mississippi St.,1.9304,114.3052772,4.63,88.9,24,289.56,7.27,4.42,Indianapolis Colts / 6th / 199th pick / 2019,30.67408831,defense,line_backer,OLB,Yes
+2019,Emeke Egbule\EgbuEm00,22,Houston,1.8796,111.1301307,4.65,83.82,20,302.26,7.38,4.38,Los Angeles Chargers / 6th / 200th pick / 2019,31.45581574,defense,line_backer,OLB,Yes
+2019,Demarcus Christmas\ChriDe01,23,Florida St.,1.914525,133.3561568,5.08,64.77,22,256.54,8.13,5.07,Seattle Seahawks / 6th / 209th pick / 2019,36.3823701,defense,defensive_lineman,DT,Yes
+2019,Deshaun Davis\DaviDe01,23,Auburn,1.812925,106.1406146,NA,78.74,25,281.94,NA,4.38,Cincinnati Bengals / 6th / 210th pick / 2019,32.29400604,defense,line_backer,ILB,Yes
+2019,Terry Beckner Jr.\BeckTe00,21,Missouri,1.9304,134.2633415,5.19,62.23,28,248.92,7.97,4.82,Tampa Bay Buccaneers / 7th / 215th pick / 2019,36.02988151,defense,defensive_lineman,DT,Yes
+2019,Darryl Johnson\JohnDa10,21,North Carolina A&T,1.9812,114.7588696,NA,NA,20,NA,NA,NA,Buffalo Bills / 7th / 225th pick / 2019,29.23678561,defense,line_backer,OLB,Yes
+2019,Ty Summers\SummTy00,23,TCU,1.863725,109.3157612,4.51,91.44,27,312.42,NA,NA,Green Bay Packers / 7th / 226th pick / 2019,31.47162164,defense,line_backer,ILB,Yes
+2019,Dontavius Russell\RussDo00,23,Auburn,1.905,144.695966,5.15,NA,24,NA,7.81,4.77,Jacksonville Jaguars / 7th / 235th pick / 2019,39.87185705,defense,defensive_lineman,DT,Yes
+2019,Jalen Jelks\JelkJa00,22,Oregon,1.965325,116.1196467,4.92,82.55,19,287.02,7.22,4.59,Dallas Cowboys / 7th / 241st pick / 2019,30.06332062,defense,defensive_lineman,DE,Yes
+2019,Chris Slayton\SlayCh00,22,Syracuse,1.9304,139.2528576,5.13,73.66,28,256.54,NA,4.73,New York Giants / 7th / 245th pick / 2019,37.3688298,defense,defensive_lineman,DT,Yes
+2019,Javon Patterson\PattJa00,21,Mississippi,1.905,139.2528576,5.13,69.85,27,248.92,7.72,4.78,Indianapolis Colts / 7th / 246th pick / 2019,38.37197528,offense,offensive_lineman,C,Yes
+2019,Dakota Allen\AlleDa01,23,Texas Tech,1.838325,105.2334298,4.77,80.01,23,294.64,6.88,4.04,Los Angeles Rams / 7th / 251st pick / 2019,31.13932102,defense,line_backer,ILB,Yes
+2019,Jordan Brailford\BraiJo00,23,Oklahoma St.,1.905,114.3052772,4.65,95.25,22,320.04,NA,NA,Washington Redskins / 7th / 253rd pick / 2019,31.49751717,defense,line_backer,OLB,Yes
