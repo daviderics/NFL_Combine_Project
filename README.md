@@ -101,14 +101,26 @@ Below is the confusion matrix for the test data:
 
 The model does a solid job avoiding false negatives (predicting that a player will not be drafted when they actually will), but struggles to reduce false positives (predicting that a player will be drafted when they actually won't be). I could make the balance between false positives and false negatives closer, but it is better to keep false negatives low because that is a worse outcome. If a player is wrongly predicted to go undrafted (false negative), then a team might think they can select him late in the draft only to have that player picked by another team first. On the other hand, if a player is wrongly predicted to be drafted (false positive), that might force the team to use an earlier than necessary pick on them. While this is not ideal, they at least get the player they wanted, unlike in the false negative case.
 
-
-
-
-
-
-
-
 ## Results
+While the overall performance of the model was not amazing, there were still some valuable insights about how teams use the NFL Combine to evaluate players.
+
+Below are the parameter values for each Combine test and for the physical characteristics of a player. The larger the bar, the more useful that criteria is for predicting whether a player will be drafted. If the bar is blue, it means that larger values are preferred. For red bars, smaller values are preferred.
+![Model_Parameters_Num](Figures/Model_Parameters_Num.png)
+
+The most important test at the Combine is the 40-yard sprint. Speed is a very important attribute for many different positions on the football field, and that is reflected in the model.
+
+The next two most important tests also relate to speed. Both the Shuttle and the 3-cone agility tests require speed, but they also require someone to be quick at changing direction.
+
+The other three tests that relate to jumping ability and physical strength are less important than the speed-based tests, but they do still carry some weight.
+
+The model also contains parameters for a player's position and the school they attended. The parameters for each of these are shown below. In this case, if the bar is blue, it means a higher chance of getting drafted while red means a lower chance of getting drafted.
+![Model_Parameters_Cat](Figures/Model_Parameters_Cat.png)
+
+The top four most drafted positions are all on the defensive side of the ball, with outside linebackers drafted most often.
+
+Of the five positions drafted at the lowest rate, 4 of them are on the offensive side of the ball. Running backs are drafted at the lowest rate, perhaps reinforcing the recent news about how teams are not valuing running backs very highly anymore (this analysis was performed during the 2023 offseason).
+
+The model does show that players from the top 21 schools are drafted more often. Teams do seem to care whether a player played for a bigger football program in college.
 
 
 ## Recommendations
