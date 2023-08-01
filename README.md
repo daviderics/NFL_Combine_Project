@@ -73,7 +73,7 @@ Group 1: 72.0% were drafted.
 Group 2: 66.4% were drafted.
 Group 3: 62.0% were drafted.
 
-## Creating Classification Model
+## Creating a Classification Model
 Six different types of classification models were tried:
 1. Logistic Regression
 2. Decision Tree
@@ -83,6 +83,30 @@ Six different types of classification models were tried:
 6. XGBoost Classifier
 
 With the exception of Naive Bayes, I used scikit learn's implementation within Python. For Naive Bayes, I wrote my own version to work with this specific dataset.
+
+For each type of model, I started by using the default hyperparameters used by scikit learn in order to create a baseline model. I then used GridSearchCV to tune certain hyperparameters. A 75-25 train-test split was used for each model. Performance was evaluated by looking at accuracy, the confusion matrix, and the ROC curve.
+
+The accuracy of the models ranged from 67% to 73%. Models tended to achieve solid recall of drafted players (over 90%), but struggled with recall of undrafted players (less than 35%). As I will discuss below, recalling drafted players is preferable.
+
+**Best Performing Model**
+The best performing model was a logistic regression model that used C=0.1 for lasso regularization. The model achieved 73% accuracy on the test data.
+
+Below is a plot showing histograms of the probability predicted by the model. Anything above 0.5 is predicted to be a drafted player while values below 0.5 mean the player is predicted to not be drafted. Actual drafted players are in blue while undrafted players are in red.
+![Prediction_Histogram](Figures/Prediction_Histogram.png)
+
+Below is the confusion matrix for the test data:
+![Confusion_Matrix](Figures/Confusion_Matrix.png)
+
+**False Positives and False Negatives**
+
+The model does a solid job avoiding false negatives (predicting that a player will not be drafted when they actually will), but struggles to reduce false positives (predicting that a player will be drafted when they actually won't be). I could make the balance between false positives and false negatives closer, but it is better to keep false negatives low because that is a worse outcome. If a player is wrongly predicted to go undrafted (false negative), then a team might think they can select him late in the draft only to have that player picked by another team first. On the other hand, if a player is wrongly predicted to be drafted (false positive), that might force the team to use an earlier than necessary pick on them. While this is not ideal, they at least get the player they wanted, unlike in the false negative case.
+
+
+
+
+
+
+
 
 ## Results
 
