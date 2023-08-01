@@ -11,7 +11,7 @@ This is the Phase 3 Project for the Flatiron School Data Science Boot Camp.
 |Data                         | The data used in the project and descriptions of the data.     |
 
 ## Overview
-
+In this project, I created a model that attempts to predict whether a player will be drafted in the NFL Draft based on their performance in the NFL Combine. Using data from 2009 to 2019, I tried several different types of classification models. The best performing model was a logistic regression that took into account a player's performance in the 6 Combine tests, their physical characteristics, their position, and the school they attended.
 
 ## Business Problem
 The NFL Combine is an annual event where teams scout promising players. The players complete tests of their athleticism as well as drills specific to the position they play. NFL teams use the results of the Combine along with other criteria to decide which players they will select in the NFL Draft in which teams take turns selecting players.
