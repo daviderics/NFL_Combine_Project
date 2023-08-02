@@ -86,10 +86,12 @@ With the exception of Naive Bayes, I used scikit learn's implementation within P
 
 For each type of model, I started by using the default hyperparameters used by scikit learn in order to create a baseline model. I then used GridSearchCV to tune certain hyperparameters. A 75-25 train-test split was used for each model. Performance was evaluated by looking at accuracy, the confusion matrix, and the ROC curve.
 
-The accuracy of the models ranged from 67% to 73%. Models tended to achieve solid recall of drafted players (over 90%), but struggled with recall of undrafted players (less than 35%). As I will discuss below, recalling drafted players is preferable.
+## Evaluation
+
+The accuracy of the models on test data ranged from 67% to 73%. Models tended to achieve solid recall of drafted players (over 90%), but struggled with recall of undrafted players (less than 35%). As I will discuss below, recalling drafted players is preferable.
 
 **Best Performing Model**
-The best performing model was a logistic regression model that used C=0.1 for lasso regularization. The model achieved 73% accuracy on the test data.
+The best performing model was a logistic regression model that used C=0.1 for Lasso regularization. The model achieved 73% accuracy on the test data.
 
 Below is a plot showing histograms of the probability predicted by the model. Anything above 0.5 is predicted to be a drafted player while values below 0.5 mean the player is predicted to not be drafted. Actual drafted players are in blue while undrafted players are in red.
 ![Prediction_Histogram](Figures/Prediction_Histogram.png)
@@ -123,7 +125,11 @@ Of the five positions drafted at the lowest rate, 4 of them are on the offensive
 The model does show that players from the top 21 schools are drafted more often. Teams do seem to care whether a player played for a bigger football program in college.
 
 
-## Recommendations
+## Conclusions
+I reached the following conclusions:
 
-
-**Example**
+1. The NFL Combine does have some influence on whether a given player is drafted, but it is only one piece of the puzzle. A player's performance on athletic tests might give an indication of whether that player has the physicality and speed to cut it in the league, but other information is needed to determine whether the player has the skills and knowledge that are specific to the game of football.
+2. The most influential event on the NFL Combine is the 40-yard sprint. Being among the fastest players at a given position can make a huge difference.
+3. Teams tend to want to select younger, heavier players who come from bigger college football programs.
+4. Defensive players tend to get drafted at a higher rate than offensive players with "skill" positions tending to be drafted at the lowest rate.
+5. If a team wants to incorporate a model like this into their draft strategy, it is worthwhile to look at the probability the model outputs for each player rather than just the binary prediction. This way, the team would know how confident they should be in a given prediction.
