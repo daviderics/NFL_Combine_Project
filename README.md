@@ -138,9 +138,11 @@ The performance of the models is summarized in the tables below. For each model,
 The best performing model was a logistic regression model that used C=0.1 for Lasso regularization. The model achieved 73% accuracy on the test data.
 
 Below is a plot showing histograms of the probability predicted by the model. Anything above 0.5 is predicted to be a drafted player while values below 0.5 mean the player is predicted to not be drafted. Actual drafted players are in blue while undrafted players are in red.
+
 ![Prediction_Histogram](Figures/Prediction_Histogram.png)
 
 Below is the confusion matrix for the test data:
+
 <img src="Figures/Confusion_Matrix.png"  width="25%" height="25%">
 
 **False Positives and False Negatives**
