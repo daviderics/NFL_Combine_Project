@@ -142,6 +142,7 @@ Below is a plot showing histograms of the probability predicted by the model. An
 
 Below is the confusion matrix for the test data:
 ![Confusion_Matrix](Figures/Confusion_Matrix.png {width="50%"})
+<img src="Figures/Confusion_Matrix.png"  width="50%" height="50%">
 
 **False Positives and False Negatives**
 
