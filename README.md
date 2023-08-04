@@ -6,7 +6,7 @@ This is the Phase 3 Project for the Flatiron School Data Science Boot Camp.
 |:----------------------------|:---------------------------------------------------------------|
 |student.ipynb                | Jupyter notebook used to perform the analysis.                 |
 |student.pdf                  | PDF of Jupyter notebook                                        |
-|NFL_Combine_Presentatino.pdf | PDF of the non-technical presentation for stakeholders.        |
+|NFL_Combine_Presentation.pdf | PDF of the non-technical presentation for stakeholders.        |
 |Figures                      | Folder containing figures used in the presentation and README. |
 |Data                         | The data used in the project and descriptions of the data.     |
 
@@ -89,6 +89,50 @@ For each type of model, I started by using the default hyperparameters used by s
 ## Evaluation
 
 The accuracy of the models on test data ranged from 67% to 73%. Models tended to achieve solid recall of drafted players (over 90%), but struggled with recall of undrafted players (less than 35%). As I will discuss below, recalling drafted players is preferable.
+
+The performance of the models is summarized in the tables below. For each model, I list the accuracy for both the training and the test data as well as the area under curve (AUC) of the ROC curve. I also list some important hyperparameter values.
+**Logistic Regression**
+|Description                               |C      |Training Accuracy |Test Accuracy| ROC AUC  |
+|------------------------------------------|-------|------------------|-------------|----------|
+|Baseline, preprocessing ignores position  |1e12   |72%               |73%          |0.730     |
+|Preprocessing takes into account position |1e12   |73%               |73%          |0.747     |
+|Uses Interaction Terms                    |1e12   |76%               |72%          |0.721     |
+|Stricter regularization, no inter terms   |0.1    |73%               |73%          |0.745     |
+|Stricter regularization, yes inter terms  |1      |75%               |72%          |0.727     |
+
+**Decision Tree**
+|Description                                     |Training Accuracy |Test Accuracy| ROC AUC  |
+|------------------------------------------------|------------------|-------------|----------|
+|Default Hyperparameters                         |100% (Overfitting)|61%          |0.563     |
+|No interaction terms, optimal hyperparameters   |72%               |67%          |0.664     |
+|Uses Interaction terms, optimal hyperparameters |72%               |68%          |0.651     |
+
+**K Nearest Neighbors**
+|Description                                     |k   |p   |Training Accuracy |Test Accuracy| ROC AUC  |
+|------------------------------------------------|----|----|------------------|-------------|----------|
+|Default Hyperparameters                         |5   |2   |78%               |69%          |0.637     |
+|Positions separated by 10x                      |5   |2   |78%               |68%          |0.652     |
+|Uses Interaction terms, optimal hyperparameters |49  |2.5 |73%               |70%          |0.717     |
+
+**Naive Bayes**
+|Description                                     |bias     |Training Accuracy |Test Accuracy| ROC AUC  |
+|------------------------------------------------|---------|------------------|-------------|----------|
+|Default Hyperparameters                         |default  |74%               |71%          |0.715     |
+|Use balanced bias                               |balanced |75%               |71%          |0.715     |
+
+**Random Forest**
+|Description                                     |Training Accuracy |Test Accuracy| ROC AUC  |
+|------------------------------------------------|------------------|-------------|----------|
+|Default Hyperparameters                         |100% (Overfitting)|70%          |0.709     |
+|No inter terms, optimal hyperparameters         |79%               |70%          |0.720     |
+|Used inter terms, optimal hyperparameters       |73%               |70%          |0.729     |
+
+**XGBoost Classifier**
+|Description                                     |Training Accuracy |Test Accuracy| ROC AUC  |
+|------------------------------------------------|------------------|-------------|----------|
+|Default Hyperparameters                         |99% (Overfitting) |68%          |0.691     |
+|No inter terms, optimal hyperparameters         |80%               |70%          |0.728     |
+|Used inter terms, optimal hyperparameters       |75%               |72%          |0.736     |
 
 **Best Performing Model**
 The best performing model was a logistic regression model that used C=0.1 for Lasso regularization. The model achieved 73% accuracy on the test data.
