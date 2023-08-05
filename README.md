@@ -115,10 +115,10 @@ The performance of the models is summarized in the tables below. For each model,
 |Uses Interaction terms, optimal hyperparameters |49  |2.5 |73%               |70%          |0.717     |
 
 **Naive Bayes**
-|Description                                     |bias     |Training Accuracy |Test Accuracy| ROC AUC  |
-|------------------------------------------------|---------|------------------|-------------|----------|
-|Default Hyperparameters                         |default  |74%               |71%          |0.715     |
-|Use balanced bias                               |balanced |75%               |71%          |0.715     |
+|Description                                 |bias         |Training Accuracy |Test Accuracy| ROC AUC  |
+|--------------------------------------------|-------------|------------------|-------------|----------|
+|Default Hyperparameters                     |default      |74%               |71%          |0.715     |
+|Use proportional bias                       |proportional |75%               |71%          |0.715     |
 
 **Random Forest**
 |Description                                     |Training Accuracy |Test Accuracy| ROC AUC  |
